@@ -1,0 +1,14 @@
+﻿Administração	 
+Ciência da Computação	 
+Ciências Biológicas - Bacharelado 
+Ciências Biológicas - Licenciatura (Integral) 
+Ciências Biológicas - Licenciatura (Noturno) 
+Ciências Econômicas	 
+Engenharia de Produção	 
+Engenharia Florestal	 
+Física	 
+Geografia	 
+Matemática	 
+Pedagogia	 
+Química	
+Turismo

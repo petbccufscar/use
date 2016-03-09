@@ -1,0 +1,32 @@
+﻿Ciências Fisiológicas  - PIPGCF
+Ecologia e Recursos Naturais - PPGERN
+Enfermagem - PPGEnf
+Fisioterapia - PPGFt
+Gestão da Clínica - PPGGC 
+Genética Evolutiva e Biologia Molecular - PPGGEv
+Terapia Ocupacional - PPGTO
+Biotecnologa - PPGBiotec	
+Ciência da Computação - PPGCC
+Ciência e Engenharia de Materiais - PPGCEM
+Engenharia de Produção - PPGEP
+Engenharia Química - PPGEQ
+Engenharia Urbana - PPGEU
+Ensino de Ciências Exatas - PPGECE
+Estatistica - PPGEs
+Estruturas e Construção Civil  - PPGECiv	
+Física - PPGF 
+Matemática - PPGM
+Mestrado Profissional em Matemática em Rede Nacional - PROFMAT	
+Química - PPGQ
+Antropologia Social - PPGAS
+Ciência Política - PPGPol
+Ciência Tecnologia e Sociedade - PPGCTS
+Ciências Sociais - PPGCSo
+Educação - PPGE
+Educação Especial - PPGEEs
+Estudos de Literatura - PPGLit
+Filosofia - PPGFil
+Imagem e Som - PPGIS
+Linguística - PPGL
+Psicologia - PPGPsi
+Sociologia - PPGS
