@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>USEWEB</title>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <!-- Font Awesome -->
+    <link href="fonts/font-awesome-4.6.3/css/font-awesome.min.css" rel="stylesheet">
+    <!-- NProgress -->
+    <link href="plugins/nprogress/nprogress.css" rel="stylesheet">
+    <!-- jQuery custom content scroller -->
+    <link href="plugins/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.min.css" rel="stylesheet"/>
+
+    <!-- Custom Theme Style -->
+    <link href="css/custom.css" rel="stylesheet">
+  </head>
+
+  <body class="nav-md">
+    <div class="container body">
+      <div class="main_container">
+        <!-- sidebar -->
+        <div class="col-md-3 left_col menu_fixed">
+          <div class="left_col scroll-view">
+            <!-- <div class="navbar nav_title" style="border: 0;">
+              <a href="#" class="site_title"><i class="fa fa-paw"></i> <span>USE-WEB</span></a>
+            </div> -->
+            <!-- <div class="clearfix"></div> -->
+            <!-- menu profile quick info -->
+            <div class="profile">
+              <div class="profile_info">
+                <span>Bem-vindo,</span>
+                <h2>Felipe Sampaio</h2>
+              </div>
+              <div class="clearfix"></div>
+            </div>
+            <!-- /menu profile quick info -->
+
+            <br/>
+
+            <!-- sidebar menu -->
+            <div id="sidebar-menu" class="main_menu_side hidden-print main_menu">
+              <div class="menu_section">
+                <h3>Ferramentas</h3>
+                <ul class="nav side-menu">
+                  <li>
+                    <a href="home.html"><i class="fa fa-home"></i>Home </a>
+                  </li>
+                  <li>
+                    <a><i class="fa fa-edit"></i>Atividades <span class="fa fa-chevron-down"></span></a>
+                    <!-- <ul class="nav child_menu">
+                      <li><a href="form.html">General Form</a></li>
+                    </ul> -->
+                  </li>
+                  <li>
+                    <a><i class="fa fa-user"></i>Buscar Usuário </a>
+                  </li>
+                  <li>
+                    <a><i class="fa fa-users"></i>Atendimento em Grupo <span class="fa fa-chevron-down"></span></a>
+                    <ul class="nav child_menu">
+                      <li><a href="tables.html">Realizar</a></li>
+                      <li><a href="tables_dynamic.html">Buscar atendimento</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a><i class="fa fa-book"></i><span class="badge bg-red pull-right">2</span>Atendimentos Pendentes</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <!-- sidebar menu -->
+
+            <!-- /menu footer buttons -->
+            <div class="sidebar-footer hidden-small">
+              <a data-toggle="tooltip" data-placement="top" title="Settings">
+                <span class="glyphicon glyphicon-cog" aria-hidden="true"></span>
+              </a>
+              <a data-toggle="tooltip" data-placement="top" title="FullScreen">
+                <span class="glyphicon glyphicon-fullscreen" aria-hidden="true"></span>
+              </a>
+              <a data-toggle="tooltip" data-placement="top" title="Lock">
+                <span class="glyphicon glyphicon-eye-close" aria-hidden="true"></span>
+              </a>
+              <a data-toggle="tooltip" data-placement="top" title="Logout">
+                <span class="glyphicon glyphicon-off" aria-hidden="true"></span>
+              </a>
+            </div>
+            <!-- /menu footer buttons -->
+          </div>
+        </div>
+        <!-- sidebar -->
+
+        <!-- top navigation -->
+        <div class="top_nav">
+          <div class="nav_menu">
+            <nav>
+              <div class="nav toggle">
+                <a id="menu_toggle"><i class="fa fa-bars"></i></a>
+              </div>
+
+              <ul class="nav navbar-nav navbar-right">
+                <li class="">
+                  <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                    <img src="images/user.png" alt="">Felipe Sampaio
+                    <span class="fa fa-angle-down"></span>
+                  </a>
+                  <ul class="dropdown-menu dropdown-usermenu pull-right">
+                    <li><a href="javascript:;">Dados Cadastrais</a></li>
+                    <li><a href="javascript:;">Ajuda</a></li>
+                    <li><a href="login.html"><i class="fa fa-sign-out pull-right"></i>Sair</a></li>
+                  </ul>
+                </li>
+
+                <li role="presentation" class="dropdown">
+                  <a href="javascript:;" class="dropdown-toggle info-number" data-toggle="dropdown" aria-expanded="false">
+                    <i class="fa fa-envelope"></i>
+                    <span class="badge bg-red">1</span>
+                  </a>
+                  <ul id="menu1" class="dropdown-menu list-unstyled msg_list" role="menu">
+                    <li>
+                      <a>
+                        <span>
+                          <span>Letícia</span>
+                          <span class="time">15:30</span>
+                        </span>
+                        <span class="message">
+                          Film festivals used to be do-or-die moments for movie makers. They were where...
+                        </span>
+                      </a>
+                    </li>
+                    <li>
+                      <div class="text-center">
+                        <a>
+                          <strong>Ver tudo</strong>
+                          <i class="fa fa-angle-right"></i>
+                        </a>
+                      </div>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+        <!-- /top navigation -->
+
+        <!-- page content -->
+        <div class="right_col" role="main">
+          <div class="">
+            <div class="page-title">
+              <div class="title_left">
+                <!-- <h3>Dados Cadastrais</h3> -->
+              </div>
+            </div>
+
+            <div class="clearfix"></div>
+
+            <div class="row">
+              <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="x_panel">
+                  <div class="x_title">
+                    <h2>Dados Cadastrais</h2>
+                    <div class="clearfix"></div>
+                  </div>
+                  <div class="x_content">
+                    <div class="col-md-3 col-sm-3 col-xs-12 profile_left">
+                      <div class="profile_img">
+                        <div id="crop-avatar">
+                          <!-- Current avatar -->
+                          <img class="img-responsive avatar-view" src="images/user.png" alt="Avatar" title="Change the avatar">
+                        </div>
+                      </div>
+                      <h3>Felipe Sampaio</h3>
+
+                      <ul class="list-unstyled user_data">
+                        <li><i class="fa fa-map-marker user-profile-icon"></i> San Francisco, California, USA
+                        </li>
+
+                        <li>
+                          <i class="fa fa-briefcase user-profile-icon"></i> Software Engineer
+                        </li>
+
+                        <li class="m-top-xs">
+                          <i class="fa fa-external-link user-profile-icon"></i>
+                          <a href="http://www.kimlabs.com/profile/" target="_blank">www.kimlabs.com</a>
+                        </li>
+                      </ul>
+                      <br />
+                    </div>
+                    <div class="col-md-9 col-sm-9 col-xs-12">
+                      <div class="" role="tabpanel" data-example-id="togglable-tabs">
+                        <ul id="myTab" class="nav nav-tabs bar_tabs nav-justified" role="tablist">
+                          <li role="presentation" class="active"><a href="#tab_content1" id="home-tab" role="tab" data-toggle="tab" aria-expanded="true">Dados Gerais</a>
+                          </li>
+                          <li role="presentation" class=""><a href="#tab_content2" role="tab" id="profile-tab" data-toggle="tab" aria-expanded="false">Contato</a>
+                          </li>
+                        </ul>
+                        <div id="myTabContent" class="tab-content">
+                          <div role="tabpanel" class="tab-pane fade active in" id="tab_content1" aria-labelledby="home-tab">
+
+                            <div class="x_content">
+                              <div class="row">
+                                <form class="form-vertical">
+                                  <div class="col-md-12 col-sm-12 col-xs-12 form-group">
+                                    <label class="control-label" for="first-name">Nome</label>
+                                    <div class="">
+                                      <input type="text" id=""  placeholder="Felipe Sampaio de Souza" class="form-control" disabled="disabled">
+                                    </div>
+                                  </div>
+
+                                  <div class="col-md-12 col-sm-12 col-xs-12 form-group">
+                                    <label class="control-label" for="first-name">Nome Social</label>
+                                    <div class="">
+                                      <input type="text" id=""  placeholder="" class="form-control" disabled="disabled">
+                                    </div>
+                                  </div>
+
+                                  <div class="col-md-4 col-sm-12 col-xs-12 form-group">
+                                    <label class="control-label" for="first-name">Data de Nascimento</label>
+                                    <div class="">
+                                      <input type="text" id=""  placeholder="26/02/1997" class="form-control" disabled="disabled">
+                                    </div>
+                                  </div>
+
+                                  <div class="col-md-4 col-sm-12 col-xs-12 form-group">
+                                    <label class="control-label" for="first-name">Sexo</label>
+                                    <div class="">
+                                      <input type="text" id=""  placeholder="Masculino" class="form-control" disabled="disabled">
+                                    </div>
+                                  </div>
+
+                                  <div class="clearfix"></div>
+
+                                  <div class="col-md-4 col-sm-12 col-xs-12 form-group">
+                                    <label class="control-label" for="first-name">CPF</label>
+                                    <div class="">
+                                      <input type="text" id=""  placeholder="999.999.999-99" class="form-control" disabled="disabled">
+                                    </div>
+                                  </div>
+
+                                  <div class="clearfix"></div>
+
+                                  <div class="col-md-4 col-sm-12 col-xs-12 form-group">
+                                    <label class="control-label" for="first-name">CNS</label>
+                                    <div class="">
+                                      <input type="text" id=""  placeholder="619523" class="form-control" disabled="disabled">
+                                    </div>
+                                  </div>
+
+                                  <div class="col-md-4 col-sm-12 col-xs-12 form-group">
+                                    <label class="control-label" for="first-name">Data de Cadastro USE</label>
+                                    <div class="">
+                                      <input type="text" id=""  placeholder="02/10/2015" class="form-control" disabled="disabled">
+                                    </div>
+                                  </div>
+
+                                  <div class="col-md-12 col-sm-12 col-xs-12 form-group">
+                                    <label class="control-label" for="first-name">Nome da Mãe</label>
+                                    <div class="">
+                                      <input type="text" id=""  placeholder="Maria Sônia Sampaio de Souza" class="form-control" disabled="disabled">
+                                    </div>
+                                  </div>
+
+                                  <div class="col-md-4 col-sm-12 col-xs-12 form-group">
+                                    <label class="control-label" for="first-name">Cor</label>
+                                    <div class="">
+                                      <input type="text" id=""  placeholder="" class="form-control" disabled="disabled">
+                                    </div>
+                                  </div>
+
+                                  <div class="col-md-4 col-sm-12 col-xs-12 form-group">
+                                    <label class="control-label" for="first-name">Etnia</label>
+                                    <div class="">
+                                      <input type="text" id=""  placeholder="" class="form-control" disabled="disabled">
+                                    </div>
+                                  </div>
+
+                                  <div class="clearfix"></div>
+
+                                  <div class="col-md-12 col-sm-12 col-xs-12 form-group">
+                                    <label class="control-label" for="first-name">Escolaridade</label>
+                                    <div class="">
+                                      <input type="text" id=""  placeholder="" class="form-control" disabled="disabled">
+                                    </div>
+                                  </div>
+
+                                  <div class="col-md-6 col-sm-12 col-xs-12 form-group">
+                                    <label class="control-label" for="first-name">Profissão</label>
+                                    <div class="">
+                                      <input type="text" id=""  placeholder="" class="form-control" disabled="disabled">
+                                    </div>
+                                  </div>
+
+                                  <div class="col-md-6 col-sm-12 col-xs-12 form-group">
+                                    <label class="control-label" for="first-name">Status da Profissão</label>
+                                    <div class="">
+                                      <input type="text" id=""  placeholder="" class="form-control" disabled="disabled">
+                                    </div>
+                                  </div>
+
+                                  <div class="col-md-4 col-sm-12 col-xs-12 form-group">
+                                    <label class="control-label" for="first-name">RG</label>
+                                    <div class="">
+                                      <input type="text" id=""  placeholder="99.999.999-X" class="form-control" disabled="disabled">
+                                    </div>
+                                  </div>
+                                  <div class="col-md-4 col-sm-12 col-xs-12 form-group">
+                                    <label class="control-label" for="first-name">Órgão Emissor</label>
+                                    <div class="">
+                                      <input type="text" id=""  placeholder="SSP" class="form-control" disabled="disabled">
+                                    </div>
+                                  </div>
+
+                                  <div class="clearfix"></div>
+                                  <br/>
+
+                                  <div class="col-md-2 col-sm-12 col-xs-12 form-group">
+                                    <div class="">
+                                      <a class="btn btn-success"><i class="fa fa-edit m-right-xs"></i> Editar Dados</a>
+                                    </div>
+                                  </div>
+
+                                </form>
+                              </div>
+                            </div>
+
+                          </div>
+                          <div role="tabpanel" class="tab-pane fade" id="tab_content2" aria-labelledby="profile-tab">
+
+                            <!-- start user projects -->
+                            <table class="data table table-striped no-margin">
+                              <thead>
+                                <tr>
+                                  <th>#</th>
+                                  <th>Project Name</th>
+                                  <th>Client Company</th>
+                                  <th class="hidden-phone">Hours Spent</th>
+                                  <th>Contribution</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                <tr>
+                                  <td>1</td>
+                                  <td>New Company Takeover Review</td>
+                                  <td>Deveint Inc</td>
+                                  <td class="hidden-phone">18</td>
+                                  <td class="vertical-align-mid">
+                                    <div class="progress">
+                                      <div class="progress-bar progress-bar-success" data-transitiongoal="35"></div>
+                                    </div>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td>2</td>
+                                  <td>New Partner Contracts Consultanci</td>
+                                  <td>Deveint Inc</td>
+                                  <td class="hidden-phone">13</td>
+                                  <td class="vertical-align-mid">
+                                    <div class="progress">
+                                      <div class="progress-bar progress-bar-danger" data-transitiongoal="15"></div>
+                                    </div>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td>3</td>
+                                  <td>Partners and Inverstors report</td>
+                                  <td>Deveint Inc</td>
+                                  <td class="hidden-phone">30</td>
+                                  <td class="vertical-align-mid">
+                                    <div class="progress">
+                                      <div class="progress-bar progress-bar-success" data-transitiongoal="45"></div>
+                                    </div>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td>4</td>
+                                  <td>New Company Takeover Review</td>
+                                  <td>Deveint Inc</td>
+                                  <td class="hidden-phone">28</td>
+                                  <td class="vertical-align-mid">
+                                    <div class="progress">
+                                      <div class="progress-bar progress-bar-success" data-transitiongoal="75"></div>
+                                    </div>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <!-- end user projects -->
+
+                          </div>
+                          <div role="tabpanel" class="tab-pane fade" id="tab_content3" aria-labelledby="profile-tab">
+                            <p>xxFood truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee. Qui
+                              photo booth letterpress, commodo enim craft beer mlkshk </p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- /page content -->
+
+        <!-- footer content -->
+        <footer>
+          <!-- <div class="pull-right">
+            Desenvolvido pelo PET-BCC UFScar
+          </div> -->
+          <div class="clearfix"></div>
+        </footer>
+        <!-- /footer content -->
+      </div>
+    </div>
+
+    <!-- jQuery -->
+    <script src="plugins/jquery/dist/jquery.min.js"></script>
+    <!-- Bootstrap -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <!-- NProgress -->
+    <script src="plugins/nprogress/nprogress.js"></script>
+    <!-- jQuery custom content scroller -->
+    <script src="plugins/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js"></script>
+
+    <!-- Custom Theme Scripts -->
+    <script src="js/custom.min.js"></script>
+  </body>
+</html>
