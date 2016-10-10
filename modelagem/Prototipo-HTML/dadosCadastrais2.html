@@ -47,29 +47,29 @@
             <!-- sidebar menu -->
             <div id="sidebar-menu" class="main_menu_side hidden-print main_menu">
               <div class="menu_section">
-                <h3>Funções</h3>
+                <h3>Ferramentas</h3>
                 <ul class="nav side-menu">
                   <li>
-                    <a href="home.html"><i class="fa fa-home"></i>Home</a>
+                    <a href="home.html"><i class="fa fa-home"></i>Home </a>
                   </li>
                   <li>
-                    <a><i class="fa fa-edit"></i>Atividades<span class="fa fa-chevron-down"></span></a>
+                    <a><i class="fa fa-edit"></i>Atividades <span class="fa fa-chevron-down"></span></a>
                     <!-- <ul class="nav child_menu">
                       <li><a href="form.html">General Form</a></li>
                     </ul> -->
                   </li>
                   <li>
-                    <a href="buscarUsuario.html"><i class="fa fa-user"></i>Buscar Usuário</a>
+                    <a><i class="fa fa-user"></i>Buscar Usuário </a>
                   </li>
                   <li>
-                    <a><i class="fa fa-users"></i>Atendimento em Grupo<span class="fa fa-chevron-down"></span></a>
+                    <a><i class="fa fa-users"></i>Atendimento em Grupo <span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
-                      <li><a href="realizarAGrupo.html">Realizar</a></li>
-                      <li><a href="buscarAGrupo.html">Buscar atendimento</a></li>
+                      <li><a href="tables.html">Realizar</a></li>
+                      <li><a href="tables_dynamic.html">Buscar atendimento</a></li>
                     </ul>
                   </li>
                   <li>
-                    <a href="atendimentosPendentes.html"><i class="fa fa-book"></i><span class="badge bg-red pull-right">2</span>Atendimentos Pendentes</a>
+                    <a><i class="fa fa-book"></i><span class="badge bg-red pull-right">2</span>Atendimentos Pendentes</a>
                   </li>
                 </ul>
               </div>
@@ -179,31 +179,36 @@
                       <h3>Felipe Sampaio</h3>
 
                       <ul class="list-unstyled user_data">
+                        <li><i class="fa fa-map-marker user-profile-icon"></i> San Francisco, California, USA
+                        </li>
+
                         <li>
-                          <i class="fa fa-archive"></i> N° Cadastro
+                          <i class="fa fa-briefcase user-profile-icon"></i> Software Engineer
                         </li>
 
-                        <li><i class="fa fa-folder-open"></i> N° Prontuário
+                        <li class="m-top-xs">
+                          <i class="fa fa-external-link user-profile-icon"></i>
+                          <a href="http://www.kimlabs.com/profile/" target="_blank">www.kimlabs.com</a>
                         </li>
-
-                        <li><i class="fa fa-check" style="color: #00da00;"></i> Ativo / <i class="fa fa-close" style="color: #c80000;"></i> Inativo
-                        </li>
-
                       </ul>
                       <br />
                     </div>
                     <div class="col-md-9 col-sm-9 col-xs-12">
                       <div class="" role="tabpanel" data-example-id="togglable-tabs">
                         <ul id="myTab" class="nav nav-tabs bar_tabs nav-justified" role="tablist">
-                          <li role="presentation" class="active"><a href="#tab_content1" id="dadosgerais-tab" role="tab" data-toggle="tab" aria-expanded="true">Dados Gerais</a>
+                          <li role="presentation" class="active"><a href="#tab_content1" id="home-tab" role="tab" data-toggle="tab" aria-expanded="true">Dados Gerais</a>
                           </li>
-                          <li role="presentation" class=""><a href="#tab_content2" role="tab" id="contato-tab" data-toggle="tab" aria-expanded="false">Contato</a>
+                          <li role="presentation" class=""><a href="#tab_content2" role="tab" id="profile-tab" data-toggle="tab" aria-expanded="false">E-mail</a>
                           </li>
-                          <li role="presentation" class=""><a href="#tab_content3" role="tab" id="endereco-tab" data-toggle="tab" aria-expanded="false">Endereço</a>
+                          <li role="presentation" class=""><a href="#tab_content3" id="home-tab" role="tab" data-toggle="tab" aria-expanded="true">Telefone</a>
+                          </li>
+                          <li role="presentation" class=""><a href="#tab_content4" id="home-tab" role="tab" data-toggle="tab" aria-expanded="true">Endereço</a>
+                          </li>
+                          <li role="presentation" class=""><a href="#tab_content5" id="home-tab" role="tab" data-toggle="tab" aria-expanded="true">Cuidador</a>
+                          </li>
                         </ul>
-
                         <div id="myTabContent" class="tab-content">
-                          <div role="tabpanel" class="tab-pane fade active in" id="tab_content1" aria-labelledby="dadosgerais-tab">
+                          <div role="tabpanel" class="tab-pane fade active in" id="tab_content1" aria-labelledby="home-tab">
 
                             <div class="x_content">
                               <div class="row">
@@ -319,7 +324,7 @@
                                   </div>
 
                                   <div class="clearfix"></div>
-                                  <div class="ln_solid"></div>
+                                  <br/>
 
                                   <div class="col-md-2 col-sm-12 col-xs-12 form-group">
                                     <div class="">
@@ -332,134 +337,62 @@
                             </div>
 
                           </div>
+                          <div role="tabpanel" class="tab-pane fade" id="tab_content2" aria-labelledby="profile-tab">
 
-                          <div role="tabpanel" class="tab-pane fade" id="tab_content2" aria-labelledby="contato-tab">
+                            <!-- start user projects -->
+                            <table class="data table table-striped no-margin">
 
-                            <div class="content_x">
-                              <div class="row">
-                                <!-- start accordion -->
-                                <div class="accordion" id="accordion" role="tablist" aria-multiselectable="true">
-                                  <div class="panel">
-                                    <a class="panel-heading" role="tab" id="headingOne" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                      <h4 class="panel-title">Telefones</h4>
-                                    </a>
-                                    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-                                      <div class="panel-body">
-
-                                        <ul class="list-unstyled user_data">
-                                          <li>
-                                            <i class="fa fa-phone"></i> (11) 91234-5678
-                                          </li>
-                                          <li>
-                                            <i class="fa fa-phone"></i> (16) 91234-5678
-                                          </li>
-                                        </ul>
-
-                                        <h2>Falta TIPO e OBSERVAÇOES</h2>
-
-                                      </div>
+                              <div class="col-md-6 col-sm-12 col-xs-12 form-group">
+                                    <label class="control-label" for="first-name">E-mail:</label>
+                                    <div class="">
+                                      <input type="text" id=""  placeholder="" class="form-control">
                                     </div>
-                                  </div>
-                                  <div class="panel">
-                                    <a class="panel-heading collapsed" role="tab" id="headingTwo" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                      <h4 class="panel-title">Emails</h4>
-                                    </a>
-                                    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-                                      <div class="panel-body">
-                                        <ul class="list-unstyled user_data">
-                                          <li>
-                                            <i class="fa fa-mail-forward"></i> user1@email.com
-                                          </li>
-                                          <li>
-                                            <i class="fa fa-mail-forward"></i> user2@email.com
-                                          </li>
-                                        </ul>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                                <!-- end of accordion -->
+                                    <br>
+                                      <button type="button" class="btn btn-round btn-success">Salvar</button>
+                                      <button type="button" class="btn btn-round btn-danger">Cancelar</button>
+                                    </br>
 
                               </div>
-                            </div>
+
+                            </table>
+                            <!-- end user projects -->
 
                           </div>
 
-                          <div role="tabpanel" class="tab-pane fade" id="tab_content3" aria-labelledby="endereco-tab">
+                          <div role="tabpanel" class="tab-pane fade" id="tab_content3" aria-labelledby="profile-tab">
 
-                            <div class="content_x">
-                              <div class="row">
+                            <!-- start user projects -->
+                            <table class="data table table-striped no-margin">
 
-                                <form class="form-vertical">
-                                  <div class="col-md-4 col-sm-4 col-xs-4 form-group">
-                                    <label class="control-label" for="first-name">CEP</label>
+                              <div class="col-md-6 col-sm-12 col-xs-12 form-group">
+                                    <label class="control-label" for="first-name">Tipo:</label>
                                     <div class="">
-                                      <input type="text" id=""  placeholder="99999-999" class="form-control" disabled="disabled">
-                                    </div>
-                                  </div>
-                                  <div class="clearfix"></div>
 
-                                  <div class="col-md-4 col-sm-4 col-xs-4 form-group">
-                                    <label class="control-label" for="first-name">Tipo Logradouro</label>
+            
+
+                                    </div>
+                                    <label class="control-label" for="first-name">Telefone:</label>
                                     <div class="">
-                                      <input type="text" id=""  placeholder="Rua" class="form-control" disabled="disabled">
+                                      <input type="text" id=""  placeholder="" class="form-control">
                                     </div>
-                                  </div>
-
-                                  <div class="col-md-8 col-sm-8 col-xs-8 form-group">
-                                    <label class="control-label" for="first-name">Logradouro</label>
+                                    <label class="control-label" for="first-name">Observação:</label>
                                     <div class="">
-                                      <input type="text" id=""  placeholder="Alexandrina" class="form-control" disabled="disabled">
+                                      <input type="text" id=""  placeholder="" class="form-control">
                                     </div>
-                                  </div>
+                                    <br>
+                                      <button type="button" class="btn btn-round btn-success">Salvar</button>
+                                      <button type="button" class="btn btn-round btn-danger">Cancelar</button>
+                                    </br>
 
-                                  <div class="col-md-4 col-sm-4 col-xs-4 form-group">
-                                    <label class="control-label" for="first-name">Número</label>
-                                    <div class="">
-                                      <input type="text" id=""  placeholder="90" class="form-control" disabled="disabled">
-                                    </div>
-                                  </div>
-
-                                  <div class="col-md-8 col-sm-8 col-xs-8 form-group">
-                                    <label class="control-label" for="first-name">Complemento</label>
-                                    <div class="">
-                                      <input type="text" id=""  placeholder="Casa 2" class="form-control" disabled="disabled">
-                                    </div>
-                                  </div>
-
-                                  <div class="col-md-12 col-sm-12 col-xs-12 form-group">
-                                    <label class="control-label" for="first-name">Bairro</label>
-                                    <div class="">
-                                      <input type="text" id=""  placeholder="JD. Guanabara" class="form-control" disabled="disabled">
-                                    </div>
-                                  </div>
-
-                                  <div class="col-md-12 col-sm-12 col-xs-12 form-group">
-                                    <label class="control-label" for="first-name">Cidade</label>
-                                    <div class="">
-                                      <input type="text" id=""  placeholder="São Carlos" class="form-control" disabled="disabled">
-                                    </div>
-                                  </div>
-
-                                  <div class="col-md-12 col-sm-12 col-xs-12 form-group">
-                                    <label class="control-label" for="first-name">Estado</label>
-                                    <div class="">
-                                      <input type="text" id=""  placeholder="São Paulo" class="form-control" disabled="disabled">
-                                    </div>
-                                  </div>
-
-                                  <div class="clearfix"></div>
-
-                                  <div class="ln_solid"></div>
-
-                                  <div class="col-md-2 col-sm-12 col-xs-12 form-group">
-                                    <div class="">
-                                      <a class="btn btn-success"><i class="fa fa-edit m-right-xs"></i> Editar Dados</a>
-                                    </div>
-                                  </div>
-                                </form>
                               </div>
-                            </div>
+
+                            </table>
+                            <!-- end user projects -->
+
+                          </div>
+                          <div role="tabpanel" class="tab-pane fade" id="tab_content3" aria-labelledby="profile-tab">
+                            <p>xxFood truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee. Qui
+                              photo booth letterpress, commodo enim craft beer mlkshk </p>
                           </div>
                         </div>
                       </div>
@@ -491,6 +424,7 @@
     <script src="plugins/nprogress/nprogress.js"></script>
     <!-- jQuery custom content scroller -->
     <script src="plugins/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js"></script>
+
     <!-- Custom Theme Scripts -->
     <script src="js/custom.min.js"></script>
   </body>
