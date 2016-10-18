@@ -38,14 +38,24 @@
 	      <form class="form-signin">
 	        <div class="input-group">
 	  				<span class="input-group-addon" id="basic-addon1"><span class="glyphicon glyphicon-user"></span></span>
-	  				<input type="text" class="form-control" placeholder="Usuário" aria-describedby="basic-addon1" required autofocus>
+	  				<input type="text"id="usuario" class="form-control" placeholder="Usuário" aria-describedby="basic-addon1" required autofocus>
 					</div>
 					<div class="input-group">
 	  				<span class="input-group-addon" id="basic-addon1"><span class="glyphicon glyphicon-lock"></span></span>
 	  				<input type="password" class="form-control" placeholder="Senha" aria-describedby="basic-addon1" required>
 					</div>
 					<div>
-	        	<a href="home.html"><button class="btn btn-primary btn-block" type="submit">Entrar</button></a>
+					<script type="text/javascript">
+					function login (){
+						let usuario = document.getElementById("usuario").value
+						if (usuario === "professor"){
+							window.location.href = 'home.html';
+						}else if(usuario === ""){
+							//outras paginas
+						}
+					}
+					</script>
+	        	<button class="btn btn-primary btn-block" onclick="login()" type="submit">Entrar</button>
 						<a class="reset_pass" href="#">Esqueci minha senha</a>
 					</div>
 	      </form>
