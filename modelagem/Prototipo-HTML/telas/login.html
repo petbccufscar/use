@@ -45,7 +45,7 @@
 		  			<input type="password" class="form-control" placeholder="Senha" aria-describedby="basic-addon1">
 				</div>
 				<div>
-		        	<button class="btn btn-primary btn-block" onclick="login()" type="submit">Entrar</button>
+		        	<button class="btn btn-primary btn-block" onclick="login()" type="button">Entrar</button>
 					<a class="reset_pass" href="#">Esqueci minha senha</a>
 				</div>
 	      	</form>
@@ -60,7 +60,7 @@
 				window.location.href = 'professor/home_professor.html';
 			}
 			else if(usuario === "aluno"){
-				window.location.href = 'home_aluno.html';
+				window.location.href = 'aluno/home_aluno.html';
 			}
 			else if(usuario === "admin"){
 				window.location.href = 'admin/home_admin.html';
