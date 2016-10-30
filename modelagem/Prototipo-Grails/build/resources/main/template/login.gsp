@@ -52,7 +52,7 @@
             </div>
 
             <div>
-                <button class="btn btn-primary btn-block" onclick="login()" type="submit">Entrar</button>
+                <button class="btn btn-primary btn-block" onclick="login()" type="button">Entrar</button>
                 <a class="reset_pass" href="#">Esqueci minha senha</a>
             </div>
         </form>
@@ -61,10 +61,10 @@
 
 <script type="text/javascript">
     function login() {
-        let usuario = document.getElementById("usuario").value
+        let usuario = document.getElementById("usuario").value;
         if (usuario === "professor") {
-            window.location.href = '../professor/home_professor.html';
-            %{--window.location.href = "<g:createLink controller="template" action="home_professor"/>";--}%
+//            window.location.href = '../professor/home_professor.html';
+            window.location.href = "<g:createLink controller="template" action="home"/>";
         }
         else if (usuario === "aluno") {
             window.location.href = '../aluno/home_aluno.html';

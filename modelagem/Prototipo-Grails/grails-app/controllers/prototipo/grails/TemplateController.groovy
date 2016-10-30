@@ -26,7 +26,7 @@ class TemplateController {
                         TipoUsuario: "Professor",
                         Status     : "Ativo"]
 
-    def home_professor() {
+    def home() {
         Professor
     }
 
