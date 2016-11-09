@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:eer="eer" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation">
+  <eer:Schema xmi:id="_WuCRcKZ1EeaOyfnLOOG4uw"/>
+  <notation:Diagram xmi:id="_WvBI4KZ1EeaOyfnLOOG4uw" type="Eer" element="_WuCRcKZ1EeaOyfnLOOG4uw" name="default.eer" measurementUnit="Pixel">
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_WvBI4aZ1EeaOyfnLOOG4uw"/>
+  </notation:Diagram>
+</xmi:XMI>
