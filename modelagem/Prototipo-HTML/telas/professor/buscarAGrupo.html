@@ -66,7 +66,16 @@
                     <a href="buscarUsuario.html"><i class="fa fa-user"></i>Atendimento Individual</a>
                   </li>
                   <li>
-                    <a href="buscarAGrupo.html"><i class="fa fa-users"></i>Atendimento em Grupo</span></a>
+                    <a><i class="fa fa-edit"></i>Atividades em Grupo<span class="fa fa-chevron-down"></span></a>
+                    <ul class="nav child_menu" style="display: block;">
+                      <li><a href="buscarAGrupo.html">Consultar Atendimentos</a></li>
+                      <li><a href="realizarAGrupo.html">Relizar Atendimento</a></li>
+                    </ul>
+                    
+                    <li>
+                      <a href="buscarUsuario.html"><i class="fa fa-user"></i>Atendimento Individual</a>
+                    </li>
+
                   </li>
                   <li>
                     <a href="atendimentosPendentes.html"><i class="fa fa-book"></i><span class="badge bg-red pull-right">2</span>Atendimentos Pendentes</a>
@@ -160,7 +169,7 @@
               <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="x_panel">
                   <div class="x_title">
-                    <h2>Buscar Atendimento em Grupo</h2>
+                    <h2>Buscar Atendimentos de Atividades em Grupo</h2>
                     <div class="clearfix"></div>
                   </div>
                   <div class="x_content">
@@ -168,21 +177,24 @@
                       <thead>
                         <tr>
                           <!-- <th>Resumo</th> -->
-                          <th>Código</th>
+                          <th>Código do Grupo</th>
                           <th>Nome do Grupo</th>
+                          <th>Data</th>
                         </tr>
                       </thead>
 
                       <tbody>
                         <tr>
                           <td><a class="btn btn-info" data-toggle="modal" data-target=".infoUsuario"><i class="fa fa-info"></i></a>
-                          89</td>
+                          G89</td>
                           <td>Grupo A</td>
+                          <td>02/10/2016</td>
                         </tr>
                         <tr>
                           <td><a class="btn btn-info" data-toggle="modal" data-target=".infoUsuario"><i class="fa fa-info"></i></a>
-                          56</td>
+                          G56</td>
                           <td>Grupo 1</td>
+                          <td>14/08/2016</td>
                         </tr>
                         
 
@@ -193,6 +205,7 @@
               </div>
             </div>
           </div>
+
           <!-- Modal de Resumo da atividade-->
           <div class="modal fade infoUsuario" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog modal-lg">
@@ -201,13 +214,12 @@
                 <div class="modal-header">
                   <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span>
                   </button>
-                  <h4 class="modal-title" id="myModalLabel">Informações da atividade em grupo</h4>
+                  <h4 class="modal-title" id="myModalLabel">Informações do atendimento</h4>
                 </div>
                 
-                  <div class="col-md-8 col-sm-8 col-xs-12">
-                    <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
-                    <p>Aenean lacinia bibendum nulla sed consectetur. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.</p>
-                  </div>
+                  Informações
+
+                                 
 
                   <div class="clearfix"></div>
                 

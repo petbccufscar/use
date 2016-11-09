@@ -66,7 +66,16 @@
                     <a href="buscarUsuario.html"><i class="fa fa-user"></i>Atendimento Individual</a>
                   </li>
                   <li>
-                    <a href="buscarAGrupo.html"><i class="fa fa-users"></i>Atendimento em Grupo</span></a>
+                    <a><i class="fa fa-edit"></i>Atividades em Grupo<span class="fa fa-chevron-down"></span></a>
+                    <ul class="nav child_menu" style="display: block;">
+                      <li><a href="buscarAGrupo.html">Consultar Atendimentos</a></li>
+                      <li><a href="realizarAGrupo.html">Relizar Atendimento</a></li>
+                    </ul>
+                    
+                    <li>
+                      <a href="buscarUsuario.html"><i class="fa fa-user"></i>Atendimento Individual</a>
+                    </li>
+
                   </li>
                   <li>
                     <a href="atendimentosPendentes.html"><i class="fa fa-book"></i><span class="badge bg-red pull-right">2</span>Atendimentos Pendentes</a>
@@ -153,11 +162,6 @@
         <!-- page content -->
         <div class="right_col" role="main">
           <div class="">
-            <div class="page-title">
-              <div class="title_left">
-                <!-- <h3>Dados Cadastrais</h3> -->
-              </div>
-            </div>
 
             <div class="clearfix"></div>
 
@@ -165,316 +169,34 @@
               <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="x_panel">
                   <div class="x_title">
-                    <h2>RealizarAtendimento em Grupo</h2>
+                    <h2>Buscar Arividades em Grupo</h2>
                     <div class="clearfix"></div>
                   </div>
                   <div class="x_content">
-                    <div class="col-md-3 col-sm-3 col-xs-12 profile_left">
-                      <div class="profile_img">
-                        <div id="crop-avatar">
-                          <!-- Current avatar -->
-                          <img class="img-responsive avatar-view" src="images/user.png" alt="Avatar" title="Change the avatar">
-                        </div>
-                      </div>
-                      <h3>Nome do Professor</h3>
+                    <table id="datatable-fixed-header" class="table table-striped table-bordered">
+                      <thead>
+                        <tr>
+                          <!-- <th>Resumo</th> -->
+                          <th>Código</th>
+                          <th>Nome do Grupo</th>
+                        </tr>
+                      </thead>
 
-                      <ul class="list-unstyled user_data">
-                        <li>
-                          <i class="fa fa-archive"></i> N° Cadastro
-                        </li>
+                      <tbody>
+                        <tr>
+                          <td><a class="btn btn-info" data-toggle="modal" data-target=".infoUsuario"><i class="fa fa-info"></i></a>
+                          89</td>
+                          <td>Grupo A</td>
+                        </tr>
+                        <tr>
+                          <td><a class="btn btn-info" data-toggle="modal" data-target=".infoUsuario"><i class="fa fa-info"></i></a>
+                          56</td>
+                          <td>Grupo 1</td>
+                        </tr>
+                        
 
-                        <li><i class="fa fa-folder-open"></i> N° Prontuário
-                        </li>
-
-                        <li><i class="fa fa-check" style="color: #00da00;"></i> Ativo / <i class="fa fa-close" style="color: #c80000;"></i> Inativo
-                        </li>
-
-                      </ul>
-                      <br />
-                    </div>
-                    <div class="col-md-9 col-sm-9 col-xs-12">
-                      
-
-                        <div id="myTabContent" class="tab-content">
-                          <div role="tabpanel" class="tab-pane fade active in" id="tab_content1" aria-labelledby="realizar-tab">
-
-                            <div class="x_content">
-                              <div class="row">
-                                <form class="form-vertical">
-                                 
-                                    <div class="col-md-12 col-sm-12 col-xs-12 form-group">
-                                      <label class="">Atividade</label>
-                                      <div class="">
-                                        <select class="form-control">
-                                          <option>Atividade 1</option>
-                                          <option>Atividade 2</option>
-                                        </select>
-                                      </div>
-                                    </div>
-                                  
-
-                                  <div class="col-md-12 col-sm-12 col-xs-12 form-group">
-                                    <label class="control-label" for="first-name">Data</label>
-                                    <div class="">
-                                      <input type="text" id=""  placeholder="10/10/2016" class="form-control">
-                                    </div>
-                                  </div>
-
-                                  <div class="clearfix"></div>
-                                  <div class="ln_solid"></div>
-
-                                  <div class="col-md-12 col-sm-12 col-xs-12 form-group">
-                                    <h2>Evolução da atividade em grupo</h2>
-                                    <div class="col-md-12 col-sm-12 col-xs-12 form-group">
-                                      <label class="control-label" for="first-name">Resumo</label>
-                                      <div class="">
-                                        <input type="text" id=""  placeholder="Resumo" class="form-control" disabled="disabled">
-                                      </div>
-                                    </div>
-                                    <div class="col-md-12 col-sm-12 col-xs-12 form-group">
-                                      <label class="control-label" for="first-name">Descrição</label>
-                                      <div class="">
-                                        <input type="text" id=""  placeholder="Descrição" class="form-control" disabled="disabled">
-                                      </div>
-                                    </div>
-                                  </div>
-
-                                  <div class="clearfix"></div>
-                                  <div class="ln_solid"></div>
-
-                                  <div class="col-md-12 col-sm-12 col-xs-12 form-group">
-                                    <div class="col-md-6 col-sm-6 col-xs-6 form-group">
-                                      <h2>Equipe</h2>
-                                        <div class="col-md-3 col-sm-3 col-xs-3 form-group">
-                                          <label class="control-label" for="first-name">RA</label>
-                                          <input type="text" id=""  placeholder="619973" class="form-control" disabled="disabled"> <br>
-                                          <input type="text" id=""  placeholder="506396" class="form-control" disabled="disabled"><br>
-                                          <button type="button" class="btn btn-danger" data-toggle="collapse" data-target="#add1">Adicionar</button>
-                                          <div id="add1" class="collapse">
-                                            <input type="text" id=""  placeholder="456987" class="form-control" disabled="disabled">
-                                            <input type="text" id=""  placeholder="José" class="form-control" disabled="disabled">
-                                          </div>
-                                        </div>
-                                        <div class="col-md-9 col-sm-9 col-xs-9 form-group">
-                                          <label class="control-label" for="first-name">Nome</label>
-                                          <div class="">
-                                            <input type="text" id=""  placeholder="Yumi" class="form-control" disabled="disabled"><br>
-                                            <input type="text" id=""  placeholder="Maria" class="form-control" disabled="disabled"><br>
-                                            
-                                              
-                                          </div>
-                                        </div>
-                                      </div>
-
-                                    
-                                    <div class="col-md-6 col-sm-6 col-xs-6 form-group">
-                                      <h2>Resonsável</h2>
-                                      <label class="control-label" for="first-name">Nome</label>
-                                      <div class="">
-                                        <input type="text" id=""  placeholder="Gilve" class="form-control" disabled="disabled"><br>
-                                        <input type="text" id=""  placeholder="Maria Helena" class="form-control" disabled="disabled"><br>
-
-                                        <button type="button" class="btn btn-danger" data-toggle="collapse" data-target="#add2">Adicionar</button>
-                                        <div id="add2" class="collapse">
-                                            <input type="text" id=""  placeholder="Lisandrea" class="form-control" disabled="disabled">
-                                          </div>
-                                        </div>
-
-                                        
-                                      </div>
-                                    </div>
-                                  </div>
-
-                                  <div class="clearfix"></div>
-                                  <div class="ln_solid"></div>
-
-
-                                  <div class="col-md-12 col-sm-12 col-xs-12 form-group">
-                                    <h2>Usuário</h2>
-
-                                    <div class="col-md-4 col-sm-4 col-xs-4 form-group">
-                                      <input type="text" id=""  placeholder="Antonio Carlos" class="form-control" disabled="disabled"> 
-                                    </div>
-
-                                    <div class="col-md-4 col-sm-4 col-xs-4 form-group">
-                                      <div class="checkbox">
-                                        <label>
-                                          <input type="checkbox" class="flat" checked="checked">Falta
-                                        </label>
-                                      </div>
-                                    </div>
-
-                                    <div class="col-md-4 col-sm-4 col-xs-4 form-group">
-                                        <button type="button" class="btn btn-danger" data-toggle="collapse" data-target="#adduser">Adicionar</button>
-                                      </div>
-
-                                    <div class="col-md-12 col-sm-12 col-xs-12 form-group">
-                                      <h2>Evolução individual</h2>
-                                      <div class="col-md-12 col-sm-12 col-xs-12 form-group">
-                                        <label class="control-label" for="first-name">Resumo</label>
-                                        <div class="">
-                                          <input type="text" id=""  placeholder="Resumo" class="form-control" disabled="disabled">
-                                        </div>
-                                      </div>
-                                      <div class="col-md-12 col-sm-12 col-xs-12 form-group">
-                                        <label class="control-label" for="first-name">Descrição</label>
-                                        <div class="">
-                                          <input type="text" id=""  placeholder="Descrição" class="form-control" disabled="disabled">
-                                        </div>
-                                      </div>
-                                    </div>
-
-                                    <div class="col-md-12 col-sm-12 col-xs-12 form-group">
-                                      <h2>Busca de questionários</h2>
-                                      <div class="x_content">
-                                        <table id="datatable-fixed-header" class="table table-striped table-bordered">
-                                          <thead>
-                                            <tr>
-                                              <th>Código</th>
-                                              <th>Nome do Grupo</th>
-                                            </tr>
-                                          </thead>
-
-                                          <tbody>
-                                            <tr>
-                                              <td><a class="btn btn-info" data-toggle="modal" data-target=".infoUsuario"><i class="fa fa-info"></i></a>
-                                              89</td>
-                                              <td>Questionario 1</td>
-                                            </tr>
-                                            <tr>
-                                              <td><a class="btn btn-info" data-toggle="modal" data-target=".infoUsuario"><i class="fa fa-info"></i></a>
-                                              56</td>
-                                              <td>Questionario 2</td>
-                                            </tr>
-                                            
-
-                                          </tbody>
-                                        </table>
-                                      </div>
-                                  </div>
-
-                                  <div class="col-md-2 col-sm-12 col-xs-12 form-group">
-                                    <div class="">
-                                      <a class="btn btn-success"><i class="fa fa-edit m-right-xs"></i>Salvar</a>
-                                    </div>
-                                  </div>
-
-                                  <div class="col-md-2 col-sm-12 col-xs-12 form-group">
-                                    <div class="">
-                                      <a class="btn btn-success"><i class="fa fa-edit m-right-xs"></i>Cancelar</a>
-                                    </div>
-                                  </div>
-                                </div>
-
-
-
-                                  <div id="adduser" class="collapse">
-                                    <div class="clearfix"></div>
-                                    <div class="ln_solid"></div>
-
-
-                                    <div class="col-md-12 col-sm-12 col-xs-12 form-group">
-                                      <h2>Usuário</h2>
-
-                                      <div class="col-md-4 col-sm-4 col-xs-4 form-group">
-                                        <input type="text" id=""  placeholder="Yumi" class="form-control" disabled="disabled"> 
-                                      </div>
-
-                                      <div class="col-md-4 col-sm-4 col-xs-4 form-group">
-                                        <div class="checkbox">
-                                          <label>
-                                            <input type="checkbox" class="flat" checked="checked"> Falta
-                                          </label>
-                                        </div>
-                                      </div>
-
-                                      <div class="col-md-4 col-sm-4 col-xs-4 form-group">
-                                          <button type="button" class="btn btn-danger" data-toggle="collapse" data-target="#adduser">Adicionar</button>
-                                        </div>
-
-                                      <div class="col-md-12 col-sm-12 col-xs-12 form-group">
-                                        <h2>Evolução individual</h2>
-                                        <div class="col-md-12 col-sm-12 col-xs-12 form-group">
-                                          <label class="control-label" for="first-name">Resumo</label>
-                                          <div class="">
-                                            <input type="text" id=""  placeholder="Resumo" class="form-control" disabled="disabled">
-                                          </div>
-                                        </div>
-                                        <div class="col-md-12 col-sm-12 col-xs-12 form-group">
-                                          <label class="control-label" for="first-name">Descrição</label>
-                                          <div class="">
-                                            <input type="text" id=""  placeholder="Descrição" class="form-control" disabled="disabled">
-                                          </div>
-                                        </div>
-                                      </div>
-
-                                      <div class="col-md-12 col-sm-12 col-xs-12 form-group">
-                                        <h2>Busca de questionários</h2>
-                                        <div class="x_content">
-                                          <table id="datatable-fixed-header" class="table table-striped table-bordered">
-                                            <thead>
-                                              <tr>
-                                                <!-- <th>Resumo</th> -->
-                                                <th>Código</th>
-                                                <th>Nome do Grupo</th>
-                                              </tr>
-                                            </thead>
-
-                                            <tbody>
-                                              <tr>
-                                                <td><a class="btn btn-info" data-toggle="modal" data-target=".infoUsuario"><i class="fa fa-info"></i></a>
-                                                89</td>
-                                                <td>Questionario 1</td>
-                                              </tr>
-                                              <tr>
-                                                <td><a class="btn btn-info" data-toggle="modal" data-target=".infoUsuario"><i class="fa fa-info"></i></a>
-                                                56</td>
-                                                <td>Questionario 2</td>
-                                              </tr>
-                                              
-
-                                            </tbody>
-                                          </table>
-                                        </div>
-                                    </div>
-                                  </div>
-
-                                  <div class="col-md-2 col-sm-12 col-xs-12 form-group">
-                                    <div class="">
-                                      <a class="btn btn-success"><i class="fa fa-edit m-right-xs"></i>Salvar</a>
-                                    </div>
-                                  </div>
-
-                                  <div class="col-md-2 col-sm-12 col-xs-12 form-group">
-                                    <div class="">
-                                      <a class="btn btn-success"><i class="fa fa-edit m-right-xs"></i>Cancelar</a>
-                                    </div>
-                                  </div>
-                                </div>
-
-                                  
-
-
-
-
-
-
-
-
-                                  
-
-
-                                </form>
-                              </div>
-                            </div>
-
-                          </div>
-
-                          
-
-                        </div>
-                      </div>
-                    </div>
+                      </tbody>
+                    </table>
                   </div>
                 </div>
               </div>
@@ -488,25 +210,22 @@
                 <div class="modal-header">
                   <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span>
                   </button>
-                  <h4 class="modal-title" id="myModalLabel">Modelo do questionário</h4>
+                  <h4 class="modal-title" id="myModalLabel">Informações da atividade em grupo</h4>
                 </div>
                 
-                  <div class="col-md-8 col-sm-8 col-xs-12">
-                    <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
-                    <p>Aenean lacinia bibendum nulla sed consectetur. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.</p>
-                  </div>
+                  Informações...
 
                   <div class="clearfix"></div>
                 
                 <div class="modal-footer">
-                  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                  
+                  <button type="button" class="btn btn-default" data-dismiss="modal">Cancelar</button>
+                  <button type="button" class="btn btn-default" onclick="window.location.href='realizarAGrupo2.html'">Realizar</button>
                 </div>
 
               </div>
             </div>
           </div>
-          <!-- Modal de Resumo da atividade-->
+          <!-- Modal de Resumo do Usuário-->
 
         </div>
         <!-- /page content -->
@@ -523,29 +242,21 @@
     </div>
 
     <!-- jQuery -->
-    <script src="plugins/jquery/dist/jquery.min.js"></script>
+    <script src="../../plugins/jquery/dist/jquery.min.js"></script>
     <!-- Bootstrap -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
     <!-- NProgress -->
-    <script src="plugins/nprogress/nprogress.js"></script>
+    <script src="../../plugins/nprogress/nprogress.js"></script>
     <!-- jQuery custom content scroller -->
-    <script src="plugins/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js"></script>
+    <script src="../../plugins/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js"></script>
     <!-- Datatables -->
-    <script src="plugins/datatables/datatables.net/js/jquery.dataTables.js"></script>
-    <script src="plugins/datatables/datatables.net-bs/js/dataTables.bootstrap.min.js"></script>
-    <!-- <script src="plugins/datatables/datatables.net-buttons/js/dataTables.buttons.min.js"></script> -->
-    <!-- <script src="plugins/datatables/datatables.net-buttons-bs/js/buttons.bootstrap.min.js"></script>
-    <script src="plugins/datatables/datatables.net-buttons/js/buttons.flash.min.js"></script>
-    <script src="plugins/datatables/datatables.net-buttons/js/buttons.html5.min.js"></script>
-    <script src="plugins/datatables/datatables.net-buttons/js/buttons.print.min.js"></script> -->
-    <script src="plugins/datatables/datatables.net-fixedheader/js/dataTables.fixedHeader.min.js"></script>
-    <script src="plugins/datatables/datatables.net-keytable/js/dataTables.keyTable.min.js"></script>
-    <!-- <script src="plugins/datatables/datatables.net-responsive/js/dataTables.responsive.min.js"></script>
-    <script src="plugins/datatables/datatables.net-responsive-bs/js/responsive.bootstrap.js"></script>
-    <script src="plugins/datatables/datatables.net-scroller/js/datatables.scroller.min.js"></script> -->
+    <script src="../../plugins/datatables/datatables.net/js/jquery.dataTables.js"></script>
+    <script src="../../plugins/datatables/datatables.net-bs/js/dataTables.bootstrap.min.js"></script>
+    <script src="../../plugins/datatables/datatables.net-fixedheader/js/dataTables.fixedHeader.min.js"></script>
+    <script src="../../plugins/datatables/datatables.net-keytable/js/dataTables.keyTable.min.js"></script>
 
     <!-- Custom Theme Scripts -->
-    <script src="js/custom.min.js"></script>
+    <script src="../../js/custom.min.js"></script>
     <!-- Datatables -->
     <script>
       $(document).ready(function() {
