@@ -55,6 +55,7 @@
                     <div class="x_content">
                         Add content to the page ...
                         <a href="#/bicycle"><i class="fa fa-bicycle"></i> fa-bicycle</a>
+                        <a href="#/automobile"><i class="fa fa-automobile"></i> fa-bicycle</a>
                     </div>
                 </div>
             </div>
