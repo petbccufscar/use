@@ -1,0 +1,6 @@
+#Wed, 09 Nov 2016 11:14:45 -0200
+
+info.app.version=0.1
+info.app.name=USE
+grails.env=development
+info.app.grailsVersion=3.2.2
