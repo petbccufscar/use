@@ -50,5 +50,7 @@
 <!-- Custom Theme Scripts -->
 <asset:javascript src="custom.js"/>
 
+<g:pageProperty name="page.javascript"/>
+
 </body>
 </html>
