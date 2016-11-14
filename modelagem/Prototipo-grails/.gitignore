@@ -13,7 +13,5 @@ out/
 .settings
 .classpath
 
-USE/build/.dependencies
-USE/build/classes/main/META-INF/
-USE/build/springloaded/
-USE/build/tmp/compileGroovy/
+USE/build/
+build/
