@@ -22,7 +22,7 @@
             <div class="menu_section">
                 <h3>Funções</h3>
 
-            %{--Se for professor--}%
+                %{--Se for professor--}%
                 <g:if test="${tipo == 'professor'}">
                     <ul class="nav side-menu">
                         <li>
@@ -48,11 +48,11 @@
                     </ul>
                 </g:if>
 
-            %{--Se for Aluno--}%
+                %{--Se for Aluno--}%
                 <g:elseif test="${tipo == 'aluno'}">
                     <ul class="nav side-menu">
                         <li>
-                            <g:link controller="template" action="home"><i class="fa fa-home"></i>Home</g:link>
+                            <g:link controller="template" action="home_aluno"><i class="fa fa-home"></i>Home</g:link>
                         </li>
                         <li>
                             <g:link controller="template" action="atividades"><i
@@ -76,8 +76,7 @@
                 <g:else>
                     <ul class="nav side-menu">
                         <li>
-                            %{--<g:link controller="template" action="home"><i class="fa fa-home"></i>Home</g:link>--}%
-                            <a href="home_professor.html"><i class="fa fa-home"></i>Home</a>
+                            <g:link controller="template" action="home"><i class="fa fa-home"></i>Home</g:link>
                     </ul>
                 </g:else>
 

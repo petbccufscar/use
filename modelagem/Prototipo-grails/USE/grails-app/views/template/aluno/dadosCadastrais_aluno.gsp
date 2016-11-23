@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta name="layout" content="main"/>
-    <title>Dados Cadastrais</title>
+    <title>Dados Cadastrais - Aluno</title>
 </head>
 
 <body>
@@ -35,7 +35,7 @@
                                 </div>
                             </div>
 
-                            <h3>Nome do Professor</h3>
+                            <h3>${nome}</h3>
 
                             <ul class="list-unstyled user_data">
                                 <li>

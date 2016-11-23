@@ -2,11 +2,12 @@ package use
 
 class TemplateController {
 
-    // Usuario fictício para auxiliar no controle do que será mostrado ou não
+    /**Usuario fictício para auxiliar no controle do que será mostrado no browser**/
     static user = [nome:"Nome Default", tipo: "Tipo Default"]
 
+    /**Métodos Genéricos: funciona para mais de um tipo de usuário**/
     def login() {
-
+        render view:'login/login'
     }
 
     def home() {
@@ -16,14 +17,14 @@ class TemplateController {
             user.nome = "Nome do Professor"
             user.tipo = "professor"
 
-            render view: 'home_professor', model: user
+            return home_professor()
         }
         else if (params.user == "aluno"){
 
             user.nome = "Nome do Aluno"
             user.tipo = "aluno"
 
-            render view: 'plainPage', model: user
+            return home_aluno()
         }
         else {
             render view:'plainPage', model: user
@@ -31,42 +32,28 @@ class TemplateController {
     }
 
     def atividades() {
-        user
+        render view:'TelasComuns/atividades', model: user
     }
 
     def atendimentoIndividual() {
-        user
+        render view:'TelasComuns/atendimentoIndividual', model: user
     }
 
     def atendimentoGrupo() {
         render view:'plainPage', model: user
-
     }
 
     def atendimentosPendentes() {
-        render view:'plainPage', model: user
-
+        render view:'TelasComuns/atendimentosPendentes', model: user
     }
-
-
-
-//    def realizarAGrupo() {
-//
-//    }
-//
-//    def buscarAGrupo() {
-//
-//    }
 
     def dadosCadastrais() {
 
         if(user.tipo == 'professor'){
-            render view: 'dadosCadastrais_professor', model: user
+            return dadosCadastrais_professor()
         }
         else if(user.tipo == 'aluno'){
-//            render view: 'dadosCadastrais_aluno', model: user
-            render view: 'plainPage', model: user
-
+            return dadosCadastrais_aluno()
         }
         else {
             render view: 'plainPage', model: user
@@ -74,22 +61,23 @@ class TemplateController {
 
     }
 
-    //------ Professor ------//
+
+    /**Métodos do Professor**/
     def home_professor() {
-        user
+        render view:'professor/home_professor', model: user
     }
 
     def dadosCadastrais_professor() {
-        user
+        render view: 'professor/dadosCadastrais_professor', model: user
     }
 
-    //------ Aluno ------//
-    def home_Aluno() {
-        user
+
+    /**Métodos do Aluno**/
+    def home_aluno() {
+        render view: 'plainPage', model: user
     }
 
     def dadosCadastrais_aluno() {
-        user
+        render view: 'aluno/dadosCadastrais_aluno', model: user
     }
-
 }

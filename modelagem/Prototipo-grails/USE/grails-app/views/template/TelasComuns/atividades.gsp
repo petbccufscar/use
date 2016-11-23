@@ -10,7 +10,19 @@
     <div class="">
 
         <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+            <div class="x_panel">
+                %{--<div class="form-group">--}%
+                    <label class="col-md-2 col-sm-2 col-xs-12"
+                           for="last-name">Data de Cadastro USE</label>
 
+                    <div class="col-md-2 col-sm-6 col-xs-12">
+                        <input type="text" id="last-name" name="last-name"
+                               disabled="disabled" class="form-control col-md-8 col-xs-12" placeholder="11/02/2016">
+                    </div>
+                %{--</div>--}%
+            </div>
+            </div>
         </div>
 
         <div class="row">
