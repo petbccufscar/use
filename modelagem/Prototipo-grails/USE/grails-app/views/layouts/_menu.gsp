@@ -1,4 +1,3 @@
-
 <!-- sidebar -->
 <div class="col-md-3 left_col menu_fixed">
     <div class="left_col scroll-view">
@@ -10,36 +9,77 @@
         <div class="profile">
             <div class="profile_info">
                 <span>Bem-vindo,</span>
-                <h2>${Nome}</h2>
+
+                <h2>${nome}</h2>
             </div>
+
             <div class="clearfix"></div>
         </div>
         <!-- /menu profile quick info -->
-
         <br/>
-
         <!-- sidebar menu -->
         <div id="sidebar-menu" class="main_menu_side hidden-print main_menu">
             <div class="menu_section">
                 <h3>Funções</h3>
-                <ul class="nav side-menu">
-                    <li>
-                        %{--<g:link controller="template" action="home"><i class="fa fa-home"></i>Home</g:link>--}%
-                        <a href="home_professor.html"><i class="fa fa-home"></i>Home</a>
-                    </li>
-                    <li>
-                        <a href="atividades.html"><i class="fa fa-edit"></i>Atividades</a>
-                    </li>
-                    <li>
-                        <a href="buscarUsuario.html"><i class="fa fa-user"></i>Atendimento Individual</a>
-                    </li>
-                    <li>
-                        <a href="buscarAGrupo.html"><i class="fa fa-users"></i>Atendimento em Grupo</a>
-                    </li>
-                    <li>
-                        <a href="atendimentosPendentes.html"><i class="fa fa-book"></i><span class="badge bg-red pull-right">2</span>Atendimentos Pendentes</a>
-                    </li>
-                </ul>
+
+                %{--Se for professor--}%
+                <g:if test="${tipo == 'professor'}">
+                    <ul class="nav side-menu">
+                        <li>
+                            <g:link controller="template" action="home_professor"><i
+                                    class="fa fa-home"></i>Home</g:link>
+                        </li>
+                        <li>
+                            <g:link controller="template" action="atividades"><i
+                                    class="fa fa-edit"></i>Atividades</g:link>
+                        </li>
+                        <li>
+                            <g:link controller="template" action="atendimentoIndividual"><i
+                                    class="fa fa-user"></i>Atendimento Individual</g:link>
+                        </li>
+                        <li>
+                            <g:link controller="template" action="atendimentoGrupo"><i
+                                    class="fa fa-users"></i>Atendimento em Grupo</g:link>
+                        </li>
+                        <li>
+                            <g:link controller="template" action="atendimentosPendentes"><i class="fa fa-book"></i><span
+                                    class="badge bg-red pull-right">2</span>Atendimentos Pendentes</g:link>
+                        </li>
+                    </ul>
+                </g:if>
+
+                %{--Se for Aluno--}%
+                <g:elseif test="${tipo == 'aluno'}">
+                    <ul class="nav side-menu">
+                        <li>
+                            <g:link controller="template" action="home_aluno"><i class="fa fa-home"></i>Home</g:link>
+                        </li>
+                        <li>
+                            <g:link controller="template" action="atividades"><i
+                                    class="fa fa-edit"></i>Atividades</g:link>
+                        </li>
+                        <li>
+                            <g:link controller="template" action="atendimentoIndividual"><i
+                                    class="fa fa-user"></i>Atendimento Individual</g:link>
+                        </li>
+                        <li>
+                            <g:link controller="template" action="atendimentoGrupo"><i
+                                    class="fa fa-users"></i>Atendimento em Grupo</g:link>
+                        </li>
+                        <li>
+                            <g:link controller="template" action="atendimentosPendentes"><i class="fa fa-book"></i><span
+                                    class="badge bg-red pull-right">2</span>Atendimentos Pendentes</g:link>
+                        </li>
+                    </ul>
+                </g:elseif>
+
+                <g:else>
+                    <ul class="nav side-menu">
+                        <li>
+                            <g:link controller="template" action="home"><i class="fa fa-home"></i>Home</g:link>
+                    </ul>
+                </g:else>
+
             </div>
         </div>
         <!-- sidebar menu -->

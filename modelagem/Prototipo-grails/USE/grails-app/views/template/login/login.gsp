@@ -79,7 +79,7 @@
             window.location.href = "<g:createLink controller="template" action="home" params="[user: 'preceptor']"/>";
         }
         else{
-            window.location.href = 'none';
+            window.location.href = "<g:createLink controller="template" action="home" params="[user: 'none']"/>";
         }
     }
 </script>
