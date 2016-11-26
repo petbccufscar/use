@@ -45,83 +45,64 @@
                 <div class="x_content">
                     <br>
 
-                    <form id="demo-form2" data-parsley-validate="" class="form-horizontal form-label-left"
+                    <form id="demo-form3" data-parsley-validate="" class="form-horizontal form-label-left"
                           novalidate="">
                         <!-- Usuário 1 -->
                         <div class="form-group">
                             <label class="control-label col-md-3 col-sm-3 col-xs-12">Usuário<span
                                     class="required"></span></label>
-
-                            <div class="col-md-6 col-sm-6 col-xs-12">
-                                <input id="birthday" class="date-picker form-control col-md-7 col-xs-12"
-                                       required="required" type="text">
+                            <div class="col-md-4 col-sm-6 col-xs-12" style="min-height: 40px;">
+                                <input id="nomeUsuario" value="Alexandre Lara" class="date-picker form-control col-md-7 col-xs-12"
+                                       required="required" type="text" >
                             </div>
                             <button type="submit" class="btn btn-success">enviar</button>
                         </div>
-                        <!-- Data -->
+                        <!-- Resumo e Data -->
                         <div class="form-group">
-                            <label class="control-label col-md-3 col-sm-3 col-xs-12">Data<span class="required"></span>
+                            <label class="control-label col-md-3 col-sm-3 col-xs-12">Data<span class="required"></span></label>
+                            <div class="col-md-1 col-sm-6 col-xs-12" style=" width: 7px;">
+                                <input id="data1" value="20/11/2016" class="date-picker form-control col-md-1 col-xs-12"
+                                       required="required" type="text" style=" width: 100px;">
+                            </div>
+                            <label class="control-label col-md-3 col-sm-3 col-xs-12" for="resumo"style="right: 60px;">Resumo<span
+                                class="required" ></span>
                             </label>
-
-                            <div class="col-md-6 col-sm-6 col-xs-12">
-                                <input id="birthday" class="date-picker form-control col-md-7 col-xs-12"
-                                       required="required" type="text">
+                            <div class="col-md-2 col-sm-6 col-xs-12">
+                                <input type="text" id="resumo" value="O usuário obteve uma evolução significativa desde a última consulta." required="required"
+                                       class="form-control col-md-7 col-xs-12" style="width: 452px; right: 70px;">
                             </div>
                         </div>
-                        <!-- Resumo -->
+                        <!-- Aluno e responsavel -->
                         <div class="form-group">
-                            <label class="control-label col-md-3 col-sm-3 col-xs-12" for="first-name">Resumo<span
-                                    class="required"></span>
-                            </label>
-
-                            <div class="col-md-6 col-sm-6 col-xs-12">
-                                <input type="text" id="first-name" required="required"
-                                       class="form-control col-md-7 col-xs-12">
-                            </div>
-                        </div>
-                        <!-- responsavel 1-->
-                        <div class="form-group">
-                            <label class="control-label col-md-3 col-sm-3 col-xs-12" for="last-name">Aluno<span
-                                    class="required"></span>
-                            </label>
-
+                            <label class="control-label col-md-3 col-sm-3 col-xs-12" for="aluno1" style="left: 60px;">Aluno<span
+                                    class="required"></span></label>
+                            <label for="responsavel2" class="control-label col-md-3 col-sm-3 col-xs-12" style="left: 200px;">Responsável</label>
+                            <div class="clearfix" style="height: 35px"></div>
                             <div class="col-md-2 col-sm-6 col-xs-12">
-                                <input type="text" id="last-name" name="last-name" required="required"
-                                       class="form-control col-md-7 col-xs-12">
+                                <input type="text" id="aluno1" name="last-name" required="required"
+                                       class="form-control col-md-7 col-xs-12" value="257842 - Jorge"style="width: 300px;left: 260px;">
                             </div>
-                            <label for="middle-name"
-                                   class="control-label col-md-3 col-sm-3 col-xs-12">Responsável</label>
-
-                            <div class="col-md-2 col-sm-6 col-xs-12">
-                                <input id="middle-name" class="form-control col-md-7 col-xs-12" type="text"
-                                       name="middle-name">
+                            <div class="col-md-2 col-sm-6 col-xs-12" >
+                                <input id="responsavel1" class="form-control col-md-7 col-xs-12" type="text"
+                                       name="responsavel1" value="Doutora Marcia Teixeira" style="width: 300px; left: 445px;
+                                       border-color: rgba(110, 110, 110, 0.82);background-color: rgb(53, 255, 39);">
                             </div>
-                        </div>
-                        <!-- responsavel 2 -->
-                        <div class="form-group">
-                            <label class="control-label col-md-3 col-sm-3 col-xs-12" for="last-name">Aluno 2<span
-                                    class="required"></span>
-                            </label>
-
+                            <div class="clearfix" style="height: 45px"></div>
                             <div class="col-md-2 col-sm-6 col-xs-12">
-                                <input type="text" id="last-name" name="last-name" required="required"
-                                       class="form-control col-md-7 col-xs-12">
+                                <input type="text" id="aluno2" name="last-name" required="required" value=" 783222 - Mario Santos"
+                                       class="form-control col-md-7 col-xs-12" style="width: 300px; left: 260px;">
                             </div>
-                            <label for="middle-name"
-                                   class="control-label col-md-3 col-sm-3 col-xs-12">Responsável 2</label>
-
                             <div class="col-md-2 col-sm-6 col-xs-12">
-                                <input id="middle-name" class="form-control col-md-7 col-xs-12" type="text"
-                                       name="middle-name">
+                                <input id="responsavel2" class="form-control col-md-7 col-xs-12" type="text"
+                                       name="responsavel2" style="width: 300px; left: 445px;" value="Terapeuta Carlo Maia">
                             </div>
                         </div>
                         <!-- Descricao -->
                         <div class="form-group">
                             <label class="control-label col-md-3 col-sm-3 col-xs-12">Observação</label>
-
                             <div class="col-md-6 col-sm-6 col-xs-12">
-                                <textarea class="form-control"
-                                          style="margin: 0px -1.875px 0px 0px; width: 431px; height: 74px;"></textarea>
+                                <textarea class="resizable_textarea form-control" placeholder="Foram retiradas as dosagens semanais de dipirona sódica."
+                                          style="overflow: hidden; word-wrap: break-word; resize: both; height: 54px;"></textarea>
                             </div>
                         </div>
                     </form>
@@ -161,77 +142,60 @@
                             <label class="control-label col-md-3 col-sm-3 col-xs-12">Usuário<span
                                     class="required"></span></label>
 
-                            <div class="col-md-6 col-sm-6 col-xs-12">
-                                <input id="birthday" class="date-picker form-control col-md-7 col-xs-12"
-                                       required="required" type="text">
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <input id="nomeUsuario2" class="date-picker form-control col-md-7 col-xs-12"
+                                       required="required" type="text" value="Ana Marinho">
                             </div>
-                            <button type="submit" class="btn btn-success">Submit</button>
+                            <button type="submit" class="btn btn-success">enviar</button>
                         </div>
-                        <!-- Data -->
-                        <div class="form-group">
-                            <label class="control-label col-md-3 col-sm-3 col-xs-12">Data<span class="required"></span>
-                            </label>
-
-                            <div class="col-md-6 col-sm-6 col-xs-12">
-                                <input id="birthday" class="date-picker form-control col-md-7 col-xs-12"
-                                       required="required" type="text">
-                            </div>
+                    <!-- Resumo e Data -->
+                    <div class="form-group">
+                        <label class="control-label col-md-3 col-sm-3 col-xs-12">Data<span class="required"></span></label>
+                        <div class="col-md-1 col-sm-6 col-xs-12" style=" width: 7px;">
+                            <input id="data1b" value="20/12/2016" class="date-picker form-control col-md-1 col-xs-12"
+                                   required="required" type="text" style=" width: 100px;">
                         </div>
-                        <!-- Resumo -->
-                        <div class="form-group">
-                            <label class="control-label col-md-3 col-sm-3 col-xs-12" for="first-name">Resumo<span
-                                    class="required"></span>
-                            </label>
-
-                            <div class="col-md-6 col-sm-6 col-xs-12">
-                                <input type="text" id="first-name" required="required"
-                                       class="form-control col-md-7 col-xs-12">
-                            </div>
+                        <label class="control-label col-md-3 col-sm-3 col-xs-12" for="resumo1b" style="right: 60px;">Resumo<span
+                                class="required" ></span>
+                        </label>
+                        <div class="col-md-2 col-sm-6 col-xs-12">
+                            <input type="text" id="resumo1b" value="O usuário está caminhando quase perfeitamente." required="required"
+                                   class="form-control col-md-7 col-xs-12" style="width: 452px; right: 70px;">
                         </div>
-                        <!-- responsavel 1-->
+                    </div>
+                        <!-- Aluno e responsavel -->
                         <div class="form-group">
-                            <label class="control-label col-md-3 col-sm-3 col-xs-12" for="last-name">Aluno<span
+                            <label class="control-label col-md-3 col-sm-3 col-xs-12" for="aluno2a" style="left: 60px;">Aluno<span
                                     class="required"></span></label>
-
+                            <label for="responsavel2a" class="control-label col-md-3 col-sm-3 col-xs-12" style="left: 200px;">Responsável</label>
+                            <div class="clearfix" style="height: 35px"></div>
                             <div class="col-md-2 col-sm-6 col-xs-12">
-                                <input type="text" id="last-name" name="last-name" required="required"
-                                       class="form-control col-md-7 col-xs-12">
+                                <input type="text" id="aluno2a" name="last-name" required="required"
+                                       class="form-control col-md-7 col-xs-12" value="231242 - Fernando"style="width: 300px;left: 260px;">
                             </div>
-                            <label for="middle-name"
-                                   class="control-label col-md-3 col-sm-3 col-xs-12">Responsável</label>
-
-                            <div class="col-md-2 col-sm-6 col-xs-12">
-                                <input id="middle-name" class="form-control col-md-7 col-xs-12" type="text"
-                                       name="middle-name">
+                            <div class="col-md-2 col-sm-6 col-xs-12" >
+                                <input id="responsavel2a" class="form-control col-md-7 col-xs-12" type="text"
+                                       name="responsavel2a" value="Doutora Gilve Marfim" style="width: 300px; left: 445px;" >
                             </div>
-                        </div>
-                        <!-- responsavel 2 -->
-                        <div class="form-group">
-                            <label class="control-label col-md-3 col-sm-3 col-xs-12" for="last-name">Aluno 2<span
-                                    class="required"></span>
-                            </label>
-
+                            <div class="clearfix" style="height: 45px"></div>
                             <div class="col-md-2 col-sm-6 col-xs-12">
-                                <input type="text" id="last-name" name="last-name" required="required"
-                                       class="form-control col-md-7 col-xs-12">
+                                <input type="text" id="aluno2b" name="last-name" required="required" value=" 441222 - Vander"
+                                   class="form-control col-md-7 col-xs-12" style="width: 300px; left: 260px;">
                             </div>
-                            <label for="middle-name"
-                                   class="control-label col-md-3 col-sm-3 col-xs-12">Responsável 2</label>
-
                             <div class="col-md-2 col-sm-6 col-xs-12">
-                                <input id="middle-name" class="form-control col-md-7 col-xs-12" type="text"
-                                       name="middle-name">
+                                <input id="responsavel2b" class="form-control col-md-7 col-xs-12" type="text"
+                                   name="responsavel2b" style="border-color: rgba(110, 110, 110, 0.82);
+                                background-color: rgb(53, 255, 39);  width: 300px; left: 445px;" value="Psicóloga Carla Maia">
                             </div>
                         </div>
                         <!-- Descricao -->
-                        <div class="form group">
-                            <label class="control-label col-md-3 col-sm-3 col-xs-12">Observação</label>
-
-                            <div class="col-md-6 col-sm-6 col-xs-12">
-                                <textarea class="form-control"
-                                          style="margin: 0px -1.875px 0px 0px; width: 431px; height: 74px;"></textarea>
-                            </div>
+                    <div class="form-group">
+                        <label class="control-label col-md-3 col-sm-3 col-xs-12">Observação</label>
+                        <div class="col-md-6 col-sm-6 col-xs-12">
+                            <textarea class="resizable_textarea form-control" placeholder="Foram retiradas as dosagens diárias de antibiotico."
+                                      style="overflow: hidden; word-wrap: break-word; resize: both; height: 54px;"></textarea>
                         </div>
+                    </div>
                     </form>
                 </div>
             </div>
