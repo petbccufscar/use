@@ -42,7 +42,7 @@
                                     <i class="fa fa-archive"></i> N° Cadastro
                                 </li>
 
-                                <li><i class="fa fa-folder-open"></i> N° Prontuário
+                                <li><i class="fa fa-folder-open"></i> Curso
                                 </li>
 
                                 <li><i class="fa fa-check" style="color: #00da00;"></i> Ativo / <i class="fa fa-close"
@@ -77,10 +77,10 @@
                                             <div class="row">
                                                 <form class="form-vertical">
                                                     <div class="col-md-12 col-sm-12 col-xs-12 form-group">
-                                                        <label class="control-label" for="first-name">Nome</label>
+                                                        <label class="control-label" for="nome">Nome</label>
 
                                                         <div class="">
-                                                            <input type="text" id=""
+                                                            <input type="text" id="nome"
                                                                    placeholder="Felipe Sampaio de Souza"
                                                                    class="form-control" disabled="disabled">
                                                         </div>
@@ -88,7 +88,7 @@
 
                                                     <div class="col-md-12 col-sm-12 col-xs-12 form-group">
                                                         <label class="control-label"
-                                                               for="first-name">Nome Social</label>
+                                                               for="">Nome Social</label>
 
                                                         <div class="">
                                                             <input type="text" id="" placeholder="" class="form-control"
@@ -96,9 +96,19 @@
                                                         </div>
                                                     </div>
 
+                                                    <div class="col-md-12 col-sm-12 col-xs-12 form-group">
+                                                        <label class="control-label"
+                                                               for="">Curso</label>
+
+                                                        <div class="">
+                                                            <input type="text" id="" placeholder="Gerontologia" class="form-control"
+                                                                   disabled="disabled">
+                                                        </div>
+                                                    </div>
+
                                                     <div class="col-md-4 col-sm-12 col-xs-12 form-group">
                                                         <label class="control-label"
-                                                               for="first-name">Data de Nascimento</label>
+                                                               for="">Data de Nascimento</label>
 
                                                         <div class="">
                                                             <input type="text" id="" placeholder="26/02/1997"
@@ -107,7 +117,7 @@
                                                     </div>
 
                                                     <div class="col-md-4 col-sm-12 col-xs-12 form-group">
-                                                        <label class="control-label" for="first-name">Sexo</label>
+                                                        <label class="control-label" for="">Sexo</label>
 
                                                         <div class="">
                                                             <input type="text" id="" placeholder="Masculino"
@@ -118,7 +128,7 @@
                                                     <div class="clearfix"></div>
 
                                                     <div class="col-md-4 col-sm-12 col-xs-12 form-group">
-                                                        <label class="control-label" for="first-name">CPF</label>
+                                                        <label class="control-label" for="">CPF</label>
 
                                                         <div class="">
                                                             <input type="text" id="" placeholder="999.999.999-99"
@@ -129,7 +139,7 @@
                                                     <div class="clearfix"></div>
 
                                                     <div class="col-md-4 col-sm-12 col-xs-12 form-group">
-                                                        <label class="control-label" for="first-name">CNS</label>
+                                                        <label class="control-label" for="">CNS</label>
 
                                                         <div class="">
                                                             <input type="text" id="" placeholder="619523"
@@ -139,7 +149,7 @@
 
                                                     <div class="col-md-4 col-sm-12 col-xs-12 form-group">
                                                         <label class="control-label"
-                                                               for="first-name">Data de Cadastro USE</label>
+                                                               for="">Data de Cadastro USE</label>
 
                                                         <div class="">
                                                             <input type="text" id="" placeholder="02/10/2015"
@@ -149,7 +159,7 @@
 
                                                     <div class="col-md-12 col-sm-12 col-xs-12 form-group">
                                                         <label class="control-label"
-                                                               for="first-name">Nome da Mãe</label>
+                                                               for="">Nome da Mãe</label>
 
                                                         <div class="">
                                                             <input type="text" id=""
@@ -159,7 +169,7 @@
                                                     </div>
 
                                                     <div class="col-md-4 col-sm-12 col-xs-12 form-group">
-                                                        <label class="control-label" for="first-name">Cor</label>
+                                                        <label class="control-label" for="">Cor</label>
 
                                                         <div class="">
                                                             <input type="text" id="" placeholder="" class="form-control"
@@ -168,7 +178,7 @@
                                                     </div>
 
                                                     <div class="col-md-4 col-sm-12 col-xs-12 form-group">
-                                                        <label class="control-label" for="first-name">Etnia</label>
+                                                        <label class="control-label" for="">Etnia</label>
 
                                                         <div class="">
                                                             <input type="text" id="" placeholder="" class="form-control"
@@ -180,7 +190,7 @@
 
                                                     <div class="col-md-12 col-sm-12 col-xs-12 form-group">
                                                         <label class="control-label"
-                                                               for="first-name">Escolaridade</label>
+                                                               for="">Escolaridade</label>
 
                                                         <div class="">
                                                             <input type="text" id="" placeholder="" class="form-control"
@@ -189,7 +199,7 @@
                                                     </div>
 
                                                     <div class="col-md-6 col-sm-12 col-xs-12 form-group">
-                                                        <label class="control-label" for="first-name">Profissão</label>
+                                                        <label class="control-label" for="">Profissão</label>
 
                                                         <div class="">
                                                             <input type="text" id="" placeholder="" class="form-control"
@@ -199,7 +209,7 @@
 
                                                     <div class="col-md-6 col-sm-12 col-xs-12 form-group">
                                                         <label class="control-label"
-                                                               for="first-name">Status da Profissão</label>
+                                                               for="">Status da Profissão</label>
 
                                                         <div class="">
                                                             <input type="text" id="" placeholder="" class="form-control"
@@ -208,7 +218,7 @@
                                                     </div>
 
                                                     <div class="col-md-4 col-sm-12 col-xs-12 form-group">
-                                                        <label class="control-label" for="first-name">RG</label>
+                                                        <label class="control-label" for="">RG</label>
 
                                                         <div class="">
                                                             <input type="text" id="" placeholder="99.999.999-X"
@@ -218,7 +228,7 @@
 
                                                     <div class="col-md-4 col-sm-12 col-xs-12 form-group">
                                                         <label class="control-label"
-                                                               for="first-name">Órgão Emissor</label>
+                                                               for="">Órgão Emissor</label>
 
                                                         <div class="">
                                                             <input type="text" id="" placeholder="SSP"
@@ -410,7 +420,7 @@
                                             <div class="row">
                                                 <form class="form-vertical">
                                                     <div class="col-md-4 col-sm-4 col-xs-4 form-group">
-                                                        <label class="control-label" for="first-name">CEP</label>
+                                                        <label class="control-label" for="">CEP</label>
 
                                                         <div class="">
                                                             <input type="text" id="" placeholder="99999-999"
@@ -422,7 +432,7 @@
 
                                                     <div class="col-md-4 col-sm-4 col-xs-4 form-group">
                                                         <label class="control-label"
-                                                               for="first-name">Tipo Logradouro</label>
+                                                               for="">Tipo Logradouro</label>
 
                                                         <div class="">
                                                             <input type="text" id="" placeholder="Rua"
@@ -431,7 +441,7 @@
                                                     </div>
 
                                                     <div class="col-md-8 col-sm-8 col-xs-8 form-group">
-                                                        <label class="control-label" for="first-name">Logradouro</label>
+                                                        <label class="control-label" for="">Logradouro</label>
 
                                                         <div class="">
                                                             <input type="text" id="" placeholder="Alexandrina"
@@ -440,7 +450,7 @@
                                                     </div>
 
                                                     <div class="col-md-4 col-sm-4 col-xs-4 form-group">
-                                                        <label class="control-label" for="first-name">Número</label>
+                                                        <label class="control-label" for="">Número</label>
 
                                                         <div class="">
                                                             <input type="text" id="" placeholder="90"
@@ -450,7 +460,7 @@
 
                                                     <div class="col-md-8 col-sm-8 col-xs-8 form-group">
                                                         <label class="control-label"
-                                                               for="first-name">Complemento</label>
+                                                               for="">Complemento</label>
 
                                                         <div class="">
                                                             <input type="text" id="" placeholder="Casa 2"
@@ -459,7 +469,7 @@
                                                     </div>
 
                                                     <div class="col-md-12 col-sm-12 col-xs-12 form-group">
-                                                        <label class="control-label" for="first-name">Bairro</label>
+                                                        <label class="control-label" for="">Bairro</label>
 
                                                         <div class="">
                                                             <input type="text" id="" placeholder="JD. Guanabara"
@@ -468,7 +478,7 @@
                                                     </div>
 
                                                     <div class="col-md-12 col-sm-12 col-xs-12 form-group">
-                                                        <label class="control-label" for="first-name">Cidade</label>
+                                                        <label class="control-label" for="">Cidade</label>
 
                                                         <div class="">
                                                             <input type="text" id="" placeholder="São Carlos"
@@ -477,7 +487,7 @@
                                                     </div>
 
                                                     <div class="col-md-12 col-sm-12 col-xs-12 form-group">
-                                                        <label class="control-label" for="first-name">Estado</label>
+                                                        <label class="control-label" for="">Estado</label>
 
                                                         <div class="">
                                                             <input type="text" id="" placeholder="São Paulo"
