@@ -1,7 +1,7 @@
 <html>
 <head>
     <meta name="layout" content="main"/>
-    <title>Plain Page</title>
+    <title>Atendimentos Pendentes</title>
 </head>
 
 <body>
@@ -55,7 +55,7 @@
                                 <input id="nomeUsuario" value="Alexandre Lara" class="date-picker form-control col-md-7 col-xs-12"
                                        required="required" type="text" >
                             </div>
-                            <button type="submit" class="btn btn-success">enviar</button>
+                            <button type="submit" class="btn btn-success">Visualizar/Assinar</button>
                         </div>
                         <!-- Resumo e Data -->
                         <div class="form-group">
