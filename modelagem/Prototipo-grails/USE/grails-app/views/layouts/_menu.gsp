@@ -1,10 +1,12 @@
 <!-- sidebar -->
 <div class="col-md-3 left_col menu_fixed">
     <div class="left_col scroll-view">
-        <!-- <div class="navbar nav_title" style="border: 0;">
-              <a href="#" class="site_title"><i class="fa fa-paw"></i> <span>USE-WEB</span></a>
-            </div> -->
-        <!-- <div class="clearfix"></div> -->
+        <div class="navbar nav_title" style="border: 0;">
+            <g:link controller="template" href="#" class="site_title"><span>USE-WEB</span></g:link>
+        </div>
+
+        <div class="clearfix"></div>
+
         <!-- menu profile quick info -->
         <div class="profile">
             <div class="profile_info">
@@ -22,7 +24,7 @@
             <div class="menu_section">
                 <h3>Funções</h3>
 
-                %{--Se for professor--}%
+            %{--Se for professor--}%
                 <g:if test="${tipo == 'professor'}">
                     <ul class="nav side-menu">
                         <li>
@@ -45,10 +47,23 @@
                             <g:link controller="template" action="atendimentosPendentes"><i class="fa fa-book"></i><span
                                     class="badge bg-red pull-right">2</span>Atendimentos Pendentes</g:link>
                         </li>
+
+                        <li>
+                            <a><i class="fa fa-list-ul"></i>Listas
+                            <span class="fa fa-chevron-down"></span></a>
+                            <ul class="nav child_menu">
+                                <li>
+                                    <a>Triagem</a>
+                                </li>
+                                <li>
+                                    <a>Atendimento</a>
+                                </li>
+                            </ul>
+                        </li>
                     </ul>
                 </g:if>
 
-                %{--Se for Aluno--}%
+            %{--Se for Aluno--}%
                 <g:elseif test="${tipo == 'aluno'}">
                     <ul class="nav side-menu">
                         <li>
@@ -67,8 +82,8 @@
                                     class="fa fa-users"></i>Atendimento em Grupo</g:link>
                         </li>
                         <li>
-                            <g:link controller="template" action="atendimentosPendentes"><i class="fa fa-book"></i><span
-                                    class="badge bg-red pull-right">2</span>Atendimentos Pendentes</g:link>
+                            <g:link controller="template" action="questoesPendentes"><i class="fa fa-book"></i><span
+                                    class="badge bg-red pull-right">2</span>Questões Pendentes</g:link>
                         </li>
                     </ul>
                 </g:elseif>

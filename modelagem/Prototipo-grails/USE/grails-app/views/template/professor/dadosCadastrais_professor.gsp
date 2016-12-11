@@ -253,14 +253,14 @@
                                                     <div class="accordion" id="accordion" role="tablist"
                                                          aria-multiselectable="true">
                                                         <div class="panel">
-                                                            <a class="panel-heading" role="tab" id="headingOne"
+                                                            <a class="panel-heading colapsed" role="tab" id="headingOne"
                                                                data-toggle="collapse" data-parent="#accordion"
                                                                href="#collapseOne" aria-expanded="false"
                                                                aria-controls="collapseOne">
                                                                 <h4 class="panel-title">Telefones</h4>
                                                             </a>
 
-                                                            <div id="collapseOne" class="panel-collapse collapse in"
+                                                            <div id="collapseOne" class="panel-collapse collapse"
                                                                  role="tabpanel" aria-labelledby="headingOne">
                                                                 <div class="panel-body">
 
