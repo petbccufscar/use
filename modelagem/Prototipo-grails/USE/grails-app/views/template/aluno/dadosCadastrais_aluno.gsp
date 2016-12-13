@@ -31,7 +31,8 @@
                             <div class="profile_img">
                                 <div id="crop-avatar">
                                     <!-- Current avatar -->
-                                    <asset:image src="user.png" class="img-responsive avatar-view" alt="Foto de Perfil"/>
+                                    <asset:image src="user.png" class="img-responsive avatar-view"
+                                                 alt="Foto de Perfil"/>
                                 </div>
                             </div>
 
@@ -42,11 +43,13 @@
                                     <i class="fa fa-archive"></i> N° Cadastro
                                 </li>
 
-                                <li><i class="fa fa-folder-open"></i> Curso
+                                <li>
+                                    <i class="fa fa-folder-open"></i> Curso
                                 </li>
 
-                                <li><i class="fa fa-check" style="color: #00da00;"></i> Ativo / <i class="fa fa-close"
-                                                                                                   style="color: #c80000;"></i> Inativo
+                                <li>
+                                    <i class="fa fa-check" style="color: #00da00;"></i> Ativo /
+                                    <i class="fa fa-close" style="color: #c80000;"></i> Inativo
                                 </li>
 
                             </ul>
@@ -101,7 +104,8 @@
                                                                for="">Curso</label>
 
                                                         <div class="">
-                                                            <input type="text" id="" placeholder="Gerontologia" class="form-control"
+                                                            <input type="text" id="" placeholder="Gerontologia"
+                                                                   class="form-control"
                                                                    disabled="disabled">
                                                         </div>
                                                     </div>
@@ -111,7 +115,7 @@
                                                                for="">Data de Nascimento</label>
 
                                                         <div class="">
-                                                            <input type="text" id="" placeholder="26/02/1997"
+                                                            <input type="text" id="" placeholder="dd/mm/aaaa"
                                                                    class="form-control" disabled="disabled">
                                                         </div>
                                                     </div>
@@ -136,17 +140,6 @@
                                                         </div>
                                                     </div>
 
-                                                    <div class="clearfix"></div>
-
-                                                    <div class="col-md-4 col-sm-12 col-xs-12 form-group">
-                                                        <label class="control-label" for="">CNS</label>
-
-                                                        <div class="">
-                                                            <input type="text" id="" placeholder="619523"
-                                                                   class="form-control" disabled="disabled">
-                                                        </div>
-                                                    </div>
-
                                                     <div class="col-md-4 col-sm-12 col-xs-12 form-group">
                                                         <label class="control-label"
                                                                for="">Data de Cadastro USE</label>
@@ -157,13 +150,25 @@
                                                         </div>
                                                     </div>
 
+                                                    <div class="clearfix"></div>
+
+                                                    %{--<div class="col-md-4 col-sm-12 col-xs-12 form-group">--}%
+                                                        %{--<label class="control-label" for="">CNS</label>--}%
+
+                                                        %{--<div class="">--}%
+                                                            %{--<input type="text" id="" placeholder="619523"--}%
+                                                                   %{--class="form-control" disabled="disabled">--}%
+                                                        %{--</div>--}%
+                                                    %{--</div>--}%
+
+
                                                     <div class="col-md-12 col-sm-12 col-xs-12 form-group">
                                                         <label class="control-label"
                                                                for="">Nome da Mãe</label>
 
                                                         <div class="">
                                                             <input type="text" id=""
-                                                                   placeholder="Maria Sônia Sampaio de Souza"
+                                                                   placeholder=""
                                                                    class="form-control" disabled="disabled">
                                                         </div>
                                                     </div>
@@ -191,25 +196,6 @@
                                                     <div class="col-md-12 col-sm-12 col-xs-12 form-group">
                                                         <label class="control-label"
                                                                for="">Escolaridade</label>
-
-                                                        <div class="">
-                                                            <input type="text" id="" placeholder="" class="form-control"
-                                                                   disabled="disabled">
-                                                        </div>
-                                                    </div>
-
-                                                    <div class="col-md-6 col-sm-12 col-xs-12 form-group">
-                                                        <label class="control-label" for="">Profissão</label>
-
-                                                        <div class="">
-                                                            <input type="text" id="" placeholder="" class="form-control"
-                                                                   disabled="disabled">
-                                                        </div>
-                                                    </div>
-
-                                                    <div class="col-md-6 col-sm-12 col-xs-12 form-group">
-                                                        <label class="control-label"
-                                                               for="">Status da Profissão</label>
 
                                                         <div class="">
                                                             <input type="text" id="" placeholder="" class="form-control"
@@ -263,14 +249,14 @@
                                                     <div class="accordion" id="accordion" role="tablist"
                                                          aria-multiselectable="true">
                                                         <div class="panel">
-                                                            <a class="panel-heading" role="tab" id="headingOne"
+                                                            <a class="panel-heading collapsed" role="tab" id="headingOne"
                                                                data-toggle="collapse" data-parent="#accordion"
                                                                href="#collapseOne" aria-expanded="false"
                                                                aria-controls="collapseOne">
                                                                 <h4 class="panel-title">Telefones</h4>
                                                             </a>
 
-                                                            <div id="collapseOne" class="panel-collapse collapse in"
+                                                            <div id="collapseOne" class="panel-collapse collapse"
                                                                  role="tabpanel" aria-labelledby="headingOne">
                                                                 <div class="panel-body">
 

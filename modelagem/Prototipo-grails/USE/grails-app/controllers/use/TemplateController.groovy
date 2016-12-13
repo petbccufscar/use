@@ -27,6 +27,7 @@ class TemplateController {
             return home_aluno()
         }
         else {
+
             render view:'plainPage', model: user
         }
     }
@@ -45,6 +46,10 @@ class TemplateController {
 
     def atendimentosPendentes() {
         render view:'TelasComuns/atendimentosPendentes', model: user
+    }
+
+    def questoesPendentes(){
+        render view: 'TelasComuns/questoesPendentes', model: user
     }
 
     def dadosCadastrais() {
@@ -79,5 +84,9 @@ class TemplateController {
 
     def dadosCadastrais_aluno() {
         render view: 'aluno/dadosCadastrais_aluno', model: user
+    }
+
+    def plainPage(){
+        render view: 'plainPage', model: user
     }
 }

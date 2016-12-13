@@ -15,3 +15,8 @@ out/
 
 USE/build/
 build/
+
+gradlew.sh
+gradlew.bat
+settings.gradle
+
