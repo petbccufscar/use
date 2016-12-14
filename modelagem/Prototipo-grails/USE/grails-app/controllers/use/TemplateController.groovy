@@ -48,6 +48,10 @@ class TemplateController {
         render view:'TelasComuns/atendimentoRGrupo', model: user
     }
 
+    def atendimentoRGrupo2() {
+        render view:'TelasComuns/atendimentoRGrupo2', model: user
+    }
+
     def atendimentosPendentes() {
         render view:'TelasComuns/atendimentosPendentes', model: user
     }
