@@ -40,8 +40,18 @@
                                     class="fa fa-user"></i>Atendimento Individual</g:link>
                         </li>
                         <li>
-                            <g:link controller="template" action="atendimentoGrupo"><i
-                                    class="fa fa-users"></i>Atendimento em Grupo</g:link>
+                            <a><i class="fa fa-users"></i>Atividades em Grupo
+                            <span class="fa fa-chevron-down"></span></a>
+                            <ul class="nav child_menu">
+                                <li>
+                                    <g:link controller="template" action="atendimentoAGrupo"><i
+                                    ></i>Atendimentos Realizados</g:link>
+                                </li>
+                                <li>
+                                    <g:link controller="template" action="atendimentoRGrupo"><i
+                                    ></i>Realizar Atendimento</g:link>
+                                </li>
+                            </ul>
                         </li>
                         <li>
                             <g:link controller="template" action="atendimentosPendentes"><i class="fa fa-book"></i><span
