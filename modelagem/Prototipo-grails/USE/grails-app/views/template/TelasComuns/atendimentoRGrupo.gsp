@@ -23,7 +23,7 @@
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="x_panel">
                     <div class="x_title">
-                        <h2>Buscar Atividades em Grupo</h2>
+                        <h2>Buscar Arividades em Grupo</h2>
                         <div class="clearfix"></div>
                     </div>
                     <div class="x_content">
@@ -207,7 +207,7 @@
 
                 <div class="modal-footer">
                     <button type="button" class="btn btn-default" data-dismiss="modal">Cancelar</button>
-                    <g:link controller="template" action="atendimentoRGrupo2"><button type="button" class="btn btn-default">Realizar</button></g:link>
+                    <button type="button" class="btn btn-default" onclick="atendimentoRGrupo2()">Realizar</button>
                 </div>
 
             </div>
