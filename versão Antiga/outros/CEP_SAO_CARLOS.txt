@@ -1,0 +1,1866 @@
+13573-570;Estrada;A;Residencial Deputado José Zavaglia;SP;São Carlos
+13562-513;Rua;A;Residencial Monsenhor Romeu Tortorelli;SP;São Carlos
+13575-682;Avenida;A;Jardim das Torres Prolongamento;SP;São Carlos
+13568-580;Rua;A;Jardim Munique;SP;São Carlos
+13571-611;Rua;A;Jardim de Cresci;SP;São Carlos
+13568-465;Rua;A;Jardim Santa Maria II;SP;São Carlos
+13575-161;Rua;A;Jardim Medeiros;SP;São Carlos
+13570-765;Rua;A;Vila Irene;SP;São Carlos
+13569-003;Rua;Abel Giongo;Vila Faria;SP;São Carlos
+13571-617;Rua;Abílio Antônio da Cunha;Jardim de Cresci;SP;São Carlos
+13564-630;Rua;Professor Abílio Rodrigues;Parque Delta;SP;São Carlos
+13567-120;Rua;Abrahão Bagnato;Vila São José;SP;São Carlos
+13562-150;Rua;Abrahão João;Jardim Bandeirantes;SP;São Carlos
+13566-612;Rua;Abrão Simão;Vila Brasília;SP;São Carlos
+13566-530;Rua;das Acácias;Cidade Jardim;SP;São Carlos
+13560-530;Rua;Achille Bassi;Jardim Lutfalla;SP;São Carlos
+13570-105;Rua;Doutor Acrácio Peres;Jardim Taiti;SP;São Carlos
+13561-000;Rua;Capitão Adão Pereira da Silva Cabral;Centro;SP;São Carlos
+13575-340;Rua;Adelino Gonçalves;Vila Carmem;SP;São Carlos
+13567-180;Rua;Doutor Adelmo Stella Chiavini;Vila Vista Alegre;SP;São Carlos
+13560-470;Rua;Adolfo Catani;Jardim Macarengo;SP;São Carlos
+13563-732;Rua;Adolpho Orlandi;Jardim Santa Elisa;SP;São Carlos
+13574-160;Rua;Maestro Adolpho Raimundo Caputo;Vila Prado;SP;São Carlos
+13563-307;Rua;Affonso Botelho de Abreu Sampaio;Parque Santa Felícia Jardim;SP;São Carlos
+13568-220;Rua;Affonso Galucci;Jardim Tangará;SP;São Carlos
+13566-587;Rua;Afif Cury Nassur;Parque Arnold Schimidt;SP;São Carlos
+13563-892;Rua;Aginaldo Melo Nunes;Jardim Embaré;SP;São Carlos
+13566-421;Rua;da Agroenergia;Parque Espraiado;SP;São Carlos
+13566-423;Rua;do Agronegócio;Parque Espraiado;SP;São Carlos
+13568-802;Rua;Aida Cely Corsini Ventura de Medeiros;Residencial  Astolpho Luiz do Prado;SP;São Carlos
+13568-841;Avenida;Cônego Alberico Volpe;Conjunto Habitacional Dom Constantino Amstalden;SP;São Carlos
+13568-832;Rua;Albertina Bonduki Cury;Conjunto Habitacional Dom Constantino Amstalden;SP;São Carlos
+13575-715;Rua;Albertina Rodrigues dos Santos;Jardim Bicão;SP;São Carlos
+13564-807;Travessa;Alberto Alves Antônio;Loteamento Aracê de Santo Antonio I;SP;São Carlos
+13573-128;Rua;Alberto Baldan;Cidade Aracy;SP;São Carlos
+13564-530;Rua;Doutor Alberto Cattani;Jardim Hikare;SP;São Carlos
+13562-390;Rua;Alberto Lanzoni;Parque Santa Felícia Jardim;SP;São Carlos
+13568-150;Rua;Alberto Lourenço Rodrigues;Jardim Tangará;SP;São Carlos
+13572-084;Rua;Alberto Martins;Jardim Cruzeiro do Sul;SP;São Carlos
+13566-010;Rua;Capitão Alberto Mendes Júnior;Vila Costa do Sol;SP;São Carlos
+13563-340;Rua;Albino Triques;Parque Santa Felícia Jardim;SP;São Carlos
+13563-778;Travessa;Alcides Finochio;Parque Fehr;SP;São Carlos
+13563-602;Rua;Alcides Talarico;Conjunto Habitacional Santa Angelina;SP;São Carlos
+13570-480;Rua;Monsenhor Alcindo Carlos Veloso Siqueira;Jardim São Paulo;SP;São Carlos
+13572-060;Rua;Doutor Alderico Vieira Perdigão;Vila Morumbi;SP;São Carlos
+13566-585;Rua;Aldino Del Nero;Parque Arnold Schimidt;SP;São Carlos
+13575-888;Rua;Aldo de Cresci;Romeu Santini;SP;São Carlos
+13573-470;Rua;Aldo Gemano Klein;CEAT;SP;São Carlos
+13573-106;Rua;Aldo Milaneto;Cidade Aracy;SP;São Carlos
+13568-010;Rua;Aldo Pellegrini;Jardim São Rafael;SP;São Carlos
+13561-030;Rua;Aldo Pozzi;Jardim Bethânia;SP;São Carlos
+13571-511;Rua;Alessandro Di Salvo;Jardim Novo Horizonte;SP;São Carlos
+13575-160;Rua;Alexandre Barros;Jardim Beatriz;SP;São Carlos
+13561-232;Rua;Alexandre Fleming;Parque Santa Mônica;SP;São Carlos
+13571-512;Rua;Alexandre Pedrazzani;Jardim Novo Horizonte;SP;São Carlos
+13562-290;Rua;Alexandre Ranciaro;Jardim Bandeirantes;SP;São Carlos
+13560-290;Rua;Dona Alexandrina;Vila Monteiro (Gleba I);SP;São Carlos
+13566-290;Rua;Dona Alexandrina;Vila Costa do Sol;SP;São Carlos
+13574-365;Rua;Alfa;Vila Prado;SP;São Carlos
+13570-540;Rua;Alfeo Ambrogio;Jardim Mercedes;SP;São Carlos
+13568-742;Rua;Alfeu de Arruda;Jardim Veneza;SP;São Carlos
+13560-460;Rua;Alfredo Lopes;Jardim Macarengo;SP;São Carlos
+13569-520;Rua;Comendador Alfredo Maffei;Jardim Maria Alice;SP;São Carlos
+13561-270;Avenida;Comendador Alfredo Maffei;Jardim São Carlos;SP;São Carlos
+13560-649;Rua;Comendador Alfredo Maffei;Jardim São Carlos;SP;São Carlos
+13570-383;Rua;Alfredo Petrilli;Jardim São Paulo;SP;São Carlos
+13575-871;Rua;Alfredo Raimundo;Romeu Santini;SP;São Carlos
+13561-080;Rua;Alice J. D'Anna Juliana;Jardim Paraíso;SP;São Carlos
+13560-644;Rua;Alípio Benedito;Jardim São Carlos;SP;São Carlos
+13572-080;Rua;Allan Kardec;Jardim Cruzeiro do Sul;SP;São Carlos
+13575-173;Rua;Almir José Tadeu Paschoalin;Jardim Medeiros;SP;São Carlos
+13564-600;Rua;Alois Partel;Jardim Hikare;SP;São Carlos
+13566-419;Rua;da Alta Tecnologia;Parque Espraiado;SP;São Carlos
+13566-582;Rua;Alvarenga Peixoto;Parque Arnold Schimidt;SP;São Carlos
+13572-400;Avenida;Doutor Álvaro Camera;Vila Monte Carlo;SP;São Carlos
+13568-390;Rua;Álvaro Crestana;Parque Residencial Maria Stella Faga;SP;São Carlos
+13563-275;Rua;Álvaro Dziabas;Loteamento Municipal São Carlos 3;SP;São Carlos
+13575-881;Rua;Alzira Raimundo;Romeu Santini;SP;São Carlos
+13570-592;Rua;Amadeu Amaral;Vila Marcelino;SP;São Carlos
+13564-300;Rua;Amadeu Facchina;Parque Santa Marta;SP;São Carlos
+13568-310;Rua;Amadeu Passuci;Parque Residencial Maria Stella Faga;SP;São Carlos
+13562-000;Rua;Ambrósio dos Santos;Planalto Paraíso;SP;São Carlos
+13562-439;Rua;Ambrósio dos Santos;Parque Santa Felícia Jardim;SP;São Carlos
+13561-358;Alameda;das Ameixeiras;Parque Faber Castell I;SP;São Carlos
+13573-530;Rua;Amélio Prataviera;Parque Novo Mundo;SP;São Carlos
+13575-630;Rua;Américo Bianco;Jardim das Torres;SP;São Carlos
+13563-610;Rua;Américo Botelho;Conjunto Habitacional Santa Angelina;SP;São Carlos
+13563-490;Rua;Américo Degan;Jardim São Carlos 5;SP;São Carlos
+13573-190;Rua;Américo Gasparotti;Cidade Aracy;SP;São Carlos
+13564-350;Rua;Américo Jacomino Canhoto;Jardim Nova Santa Paula;SP;São Carlos
+13564-180;Avenida;Américo Walter Buchvieser;Parque Santa Marta;SP;São Carlos
+13571-639;Rua;Ana Aparecida Prado Cantador;Jardim Tijuca;SP;São Carlos
+13574-031;Rua;Dona Ana Prado;Vila Prado;SP;São Carlos
+13569-470;Rua;Analândia;Portal do Sol;SP;São Carlos
+13574-280;Rua;Ananias Evangelista de Toledo;Vila Prado;SP;São Carlos
+13566-853;Passeio;das Andorinhas;Quinta dos Buritis;SP;São Carlos
+13574-490;Rua;André Rinaldi Petroni;Jardim Paulista;SP;São Carlos
+13568-774;Rua;Andréa Patrizzi;Residencial Itamarati;SP;São Carlos
+13570-510;Rua;Maestro Andrelino Vieira;Jardim Mercedes;SP;São Carlos
+13573-258;Rua;Anésio Silva;Cidade Aracy;SP;São Carlos
+13568-805;Rua;Angelina Gargantini Zaccarin;Residencial  Astolpho Luiz do Prado;SP;São Carlos
+13568-777;Rua;Angelina P. Gualtieri;Residencial Itamarati;SP;São Carlos
+13572-323;Rua;Angelino Bontempi;Jardim Martinelli;SP;São Carlos
+13568-370;Rua;Angelino Faralli;Parque Residencial Maria Stella Faga;SP;São Carlos
+13567-480;Rua;Ângelo Carduchi;Loteamento Albertini;SP;São Carlos
+13570-216;Rua;Angelo Cassin;Núcleo Residencial Castelo Branco;SP;São Carlos
+13568-520;Rua;Ângelo Chiva;Jardim Munique;SP;São Carlos
+13567-590;Rua;Ângelo Evangelista;Parque Primavera;SP;São Carlos
+13567-460;Rua;Ângelo Frassao;Loteamento Albertini;SP;São Carlos
+13564-700;Rua;Ângelo Lucato;Parque Delta;SP;São Carlos
+13571-120;Rua;Ângelo Moretti;Núcleo Residencial Castelo Branco;SP;São Carlos
+13562-341;Rua;Ângelo Passeri;Jardim Alvorada;SP;São Carlos
+13574-510;Rua;Ângelo Possa;Jardim Paulista;SP;São Carlos
+13575-702;Rua;Ângelo Provinciali;Jardim Bicão;SP;São Carlos
+13566-894;Estrada;dos Angicos;Vale Santa Felicidade;SP;São Carlos
+13566-447;Rua;Anita Stella;Vila Celina;SP;São Carlos
+13568-803;Rua;Antenor Ferreira;Residencial  Astolpho Luiz do Prado;SP;São Carlos
+13570-500;Rua;Antenor Gastaldi;Jardim Mercedes;SP;São Carlos
+13567-250;Rua;Antenor Rodrigues Camargo;Vila Jacobucci;SP;São Carlos
+13570-200;Rua;Antônia Tirza Sanches Dinucci;Jardim Nova São Carlos;SP;São Carlos
+13561-205;Rua;Antônio Alvaro Zuim;Parque Santa Mônica;SP;São Carlos
+13573-260;Rua;Antonio Aurélio Moro;Cidade Aracy;SP;São Carlos
+13566-020;Rua;Antônio Blanco;Vila Costa do Sol;SP;São Carlos
+13567-060;Rua;Antônio Blanco;Jardim São João Batista;SP;São Carlos
+13574-270;Rua;Antônio Botelho;Vila Prado;SP;São Carlos
+13573-056;Rua;Antonio Busto Alabarca;Cidade Aracy;SP;São Carlos
+13563-306;Rua;Antônio Carlos Ferraz de Salles;Parque Santa Felícia Jardim;SP;São Carlos
+13568-808;Rua;Antonio Carlos Giampedro Júnior;Residencial  Astolpho Luiz do Prado;SP;São Carlos
+13570-070;Rua;Antônio Carreri;Jardim Ricetti;SP;São Carlos
+13567-870;Rua;Antônio Cerri;Residencial Américo Alves Margarido;SP;São Carlos
+13568-762;Rua;Antonio Crempe;Residencial Itamarati;SP;São Carlos
+13567-560;Rua;Antônio Dadico;Parque Primavera;SP;São Carlos
+13573-208;Rua;Antonio das Graças Generoso;Cidade Aracy;SP;São Carlos
+13574-290;Rua;Antônio de Almeida Leite;Vila Prado;SP;São Carlos
+13563-898;Rua;Antônio de Campos Penteado;Jardim Embaré;SP;São Carlos
+13563-858;Rua;Vereador Antonio de Paula Franco;Jardim Embaré;SP;São Carlos
+13574-034;Rua;Antonio de Souza Branco;Vila Prado;SP;São Carlos
+13573-560;Rua;Deputado Antonio Donato;Residencial Deputado José Zavaglia;SP;São Carlos
+13563-711;Rua;Antonio dos Santos Filho;Jardim Acapulco;SP;São Carlos
+13564-832;Rua;Antonio Espana;Loteamento Aracê de Santo Antonio II;SP;São Carlos
+13563-759;Rua;Antônio Estrozi;Parque Fehr;SP;São Carlos
+13575-240;Rua;Antônio Ferreira de Menezes;Jardim Medeiros;SP;São Carlos
+13570-020;Rua;Antônio Fiorentino;Jardim Ricetti;SP;São Carlos
+13564-390;Rua;Antônio Fischer dos Santos;Jardim Paulistano;SP;São Carlos
+13568-060;Rua;Antônio Flosi;Jardim Tangará;SP;São Carlos
+13567-700;Alameda;Antônio Francisco Lisboa;Parque Sabará;SP;São Carlos
+13568-826;Rua;Antonio Francisco Novo;Conjunto Habitacional Dom Constantino Amstalden;SP;São Carlos
+13575-007;Rua;Antônio Frederico Ozanan;Vila Boa Vista 1;SP;São Carlos
+13566-602;Rua;Antonio Fumagalli;Vila Brasília;SP;São Carlos
+13563-758;Rua;Antonio Genovese;Parque Fehr;SP;São Carlos
+13568-130;Rua;Antônio Gigliote;Jardim Tangará;SP;São Carlos
+13567-470;Travessa;Antônio Guarantini;Loteamento Albertini;SP;São Carlos
+13570-600;Rua;Antônio Iemma;Vila Marcelino;SP;São Carlos
+13573-146;Rua;Antonio Luiz Zanchin;Cidade Aracy;SP;São Carlos
+13564-720;Rua;Antônio Manoel Passos Caldas;Parque Delta;SP;São Carlos
+13570-636;Rua;Antônio Marcasso;Núcleo Residencial Silvio Vilari;SP;São Carlos
+13573-480;Avenida;Antônio Marotti;CEAT;SP;São Carlos
+13575-090;Rua;Antônio Martines Carrera;Jardim Beatriz;SP;São Carlos
+13573-420;Avenida;Antonio Martinez Carrera Filho;CEAT;SP;São Carlos
+13571-200;Rua;Antônio Mascaro;Azulville 2;SP;São Carlos
+13570-110;Rua;Antônio Masselli;Jardim Nova São Carlos;SP;São Carlos
+13575-220;Rua;Antônio Meneghelli;Jardim Medeiros;SP;São Carlos
+13568-070;Rua;Antônio Micucci;Jardim Tangará;SP;São Carlos
+13571-320;Rua;Professor Antônio Munhoz;Jardim Maracanã;SP;São Carlos
+13566-605;Rua;Antônio Narvais;Vila Brasília;SP;São Carlos
+13567-894;Rua;Antônio Neo;Residencial Américo Alves Margarido;SP;São Carlos
+13568-787;Rua;Antônio Ósio;Residencial Itamarati;SP;São Carlos
+13562-502;Rua;Antonio Paschoal;Residencial Monsenhor Romeu Tortorelli;SP;São Carlos
+13568-670;Rua;Antônio Pastore;Residencial Parque Douradinho;SP;São Carlos
+13574-480;Rua;Antônio Perez;Jardim Paulista;SP;São Carlos
+13570-323;Rua;Antônio Pirolla;Vila Alpes;SP;São Carlos
+13560-046;Praça;Antônio Prado;Centro;SP;São Carlos
+13573-013;Rua;Antônio Prata Vieira;Cidade Aracy;SP;São Carlos
+13560-297;Rua;Antônio Rodrigues Cajado;Vila Monteiro (Gleba I);SP;São Carlos
+13560-291;Rua;Antônio Rodrigues Cajado;Vila Monteiro (Gleba I);SP;São Carlos
+13566-230;Rua;Antônio Rodrigues Cajado;Vila Costa do Sol;SP;São Carlos
+13567-231;Rua;Antônio Rogano;Vila Jacobucci;SP;São Carlos
+13570-212;Rua;Antônio Rossete;Jardim Nova São Carlos;SP;São Carlos
+13569-460;Avenida;Antônio Sacramento;Portal do Sol;SP;São Carlos
+13575-500;Rua;Antônio Scuracchio;Jardim das Torres;SP;São Carlos
+13567-330;Rua;Antônio Spaziani;Jardim Real;SP;São Carlos
+13564-710;Rua;Antônio Stella;Parque Delta;SP;São Carlos
+13575-480;Rua;Doutor Antônio Stella Moruzzi;Jardim das Torres;SP;São Carlos
+13567-409;Travessa;Antonio Suriano;Chácara São Caetano;SP;São Carlos
+13568-040;Rua;Antônio Talarico;Jardim Tangará;SP;São Carlos
+13568-860;Rua;Antonio Trofino;Jardim dos Coqueiros;SP;São Carlos
+13573-256;Rua;Antonio Valério;Cidade Aracy;SP;São Carlos
+13563-833;Rua;Agricultor Antonio Vallério;Loteamento Jardim Vista Alegre;SP;São Carlos
+13566-487;Travessa;Antonio Vieira;Vila Celina;SP;São Carlos
+13573-120;Rua;Antônio Vigna;Cidade Aracy;SP;São Carlos
+13573-223;Rua;Antonio Zaccarelli;Cidade Aracy;SP;São Carlos
+13572-277;Travessa;Aparecida Basílio de Camargo Silva;Jardim Gonzaga;SP;São Carlos
+13573-240;Rua;Aparecido da Silva;Cidade Aracy;SP;São Carlos
+13573-028;Rua;Aparecido Pandolfelli;Cidade Aracy;SP;São Carlos
+13571-800;Alameda;Apeaçaba;Parque Itaipu;SP;São Carlos
+13560-120;Rua;Aquidaban;Centro;SP;São Carlos
+13575-620;Rua;Aracy Bordini do Amaral Toledo;Jardim das Torres;SP;São Carlos
+13566-770;Avenida;Araraquara;Vila Brasília;SP;São Carlos
+13569-136;Praça;Arcesp;Vila Nery;SP;São Carlos
+13573-254;Rua;Arcidia Valentim Roque;Cidade Aracy;SP;São Carlos
+13566-600;Rua;Argentina;Vila Brasília;SP;São Carlos
+13567-813;Travessa;Doutor Ariberto Moço;Chácara Parque Club;SP;São Carlos
+13563-700;Rua;Aristeu do Amaral;Jardim Acapulco;SP;São Carlos
+13567-300;Rua;Aristeu Soares de Camargo;Jardim Real;SP;São Carlos
+13571-150;Rua;Aristides de Santi;Azulville I;SP;São Carlos
+13563-530;Rua;Aristides Vieira;Jardim São Carlos 5;SP;São Carlos
+13575-260;Rua;Aristodemo Pellegrini;Jardim Medeiros;SP;São Carlos
+13568-527;Rua;Arlindo Apparecido Paschoalino;Jardim Munique;SP;São Carlos
+13566-565;Rua;Arlindo Bonelli;Cidade Jardim;SP;São Carlos
+13575-870;Rua;Arlindo Possa;Romeu Santini;SP;São Carlos
+13575-880;Rua;Armando Albieri;Romeu Santini;SP;São Carlos
+13564-730;Rua;Armando Azevedo Motta;Parque Delta;SP;São Carlos
+13570-783;Rua;Armando dos Santos;Vila Izabel;SP;São Carlos
+13570-475;Rua;Armando Jacyntho;Jardim São Paulo;SP;São Carlos
+13568-320;Rua;Armando Peronti;Parque Residencial Maria Stella Faga;SP;São Carlos
+13568-813;Rua;Armando Pisani;Residencial  Astolpho Luiz do Prado;SP;São Carlos
+13567-864;Rua;Arnaldo Gomes;Residencial Américo Alves Margarido;SP;São Carlos
+13568-050;Rua;Arnaldo Solci;Jardim Tangará;SP;São Carlos
+13573-140;Avenida;Arnoldo Almeida Pires;Cidade Aracy;SP;São Carlos
+13566-897;Alameda;das Aroeiras;Vale Santa Felicidade;SP;São Carlos
+13571-528;Rua;Arquimedes Castro Ramos;Jardim Novo Horizonte;SP;São Carlos
+13566-446;Rua;Arthur de Oliveira Lima;Vila Celina;SP;São Carlos
+13570-410;Rua;Arthur Rodrigues de Castro;Jardim São Paulo;SP;São Carlos
+13563-524;Rua;Artin Agazarian;Jardim São Carlos 5;SP;São Carlos
+13564-510;Rua;Assis Chateaubriand;Jardim Hikare;SP;São Carlos
+13571-795;Rua;Assumpta Pucci de Medeiros;Loteamento Recreio Campestre;SP;São Carlos
+13569-390;Rua;Doutor Astolpho de Araújo;Jardim Nossa Senhora Aparecida;SP;São Carlos
+13563-480;Rua;Astolpho Luiz do Prado;Jardim São Carlos 5;SP;São Carlos
+13569-002;Rua;Doutor Astor Dias de Andrade;Vila Faria;SP;São Carlos
+13567-220;Travessa;Atílio Marino;Vila Nossa Senhora de Fátima;SP;São Carlos
+13573-382;Rua;Atílio Pratavieira;Jardim Social Presidente Collor;SP;São Carlos
+13573-370;Rua;Attilio Milanetto;Jardim Social Presidente Collor;SP;São Carlos
+13573-252;Rua;Augusto Barbosa;Cidade Aracy;SP;São Carlos
+13568-781;Rua;Augusto Maria Patrizzi;Residencial Itamarati;SP;São Carlos
+13573-280;Rua;Augusto Spaziani;Cidade Aracy;SP;São Carlos
+13573-126;Rua;Augusto Wenzel;Cidade Aracy;SP;São Carlos
+13575-877;Rua;Aurea Jorge Vanelli;Romeu Santini;SP;São Carlos
+13575-063;Rua;Doutor Aureliano Guimarães;Jardim Beatriz;SP;São Carlos
+13568-759;Avenida;Doutor Aurelio Catani;Residencial Itamarati;SP;São Carlos
+13568-820;Avenida;Doutor Aurelio Catani;Residencial  Astolpho Luiz do Prado;SP;São Carlos
+13575-805;Rua;Aurélio Sanchez;Jardim Social Belvedere;SP;São Carlos
+13568-835;Rua;Aurora Godoy Carreira;Conjunto Habitacional Dom Constantino Amstalden;SP;São Carlos
+13573-015;Rua;Auto de Carvalho;Cidade Aracy;SP;São Carlos
+13562-381;Rua;Nossa Senhora Auxiliadora;Parque Santa Felícia Jardim;SP;São Carlos
+13562-110;Rua;Nossa Senhora Auxiliadora;Planalto Paraíso;SP;São Carlos
+13563-844;Rua;Ayer Nociti;Jardim Embaré;SP;São Carlos
+13570-829;Avenida;Ayrton Salvador Leopoldino Junior;Conjunto Habitacional Waldomiro Lobbe Sobrinho;SP;São Carlos
+13566-500;Alameda;das Azaleias;Cidade Jardim;SP;São Carlos
+13568-420;Rua;Azis Curi;Parque Residencial Maria Stella Faga;SP;São Carlos
+13562-515;Rua;B;Residencial Monsenhor Romeu Tortorelli;SP;São Carlos
+13568-590;Rua;B;Jardim Munique;SP;São Carlos
+13567-876;Rua;Bachir Nacrur;Residencial Américo Alves Margarido;SP;São Carlos
+13572-190;Rua;Bahia;Jardim Cruzeiro do Sul;SP;São Carlos
+13560-043;Praça;da Bandeira;Centro;SP;São Carlos
+13567-730;Avenida;Barbacena;Parque Sabará;SP;São Carlos
+13562-505;Rua;Basílio Blanco;Residencial Monsenhor Romeu Tortorelli;SP;São Carlos
+13572-070;Rua;Basílio Dibbo;Vila Morumbi;SP;São Carlos
+13573-029;Rua;Basílio Joaquim;Cidade Aracy;SP;São Carlos
+13575-130;Rua;Batista Laura Ricetti;Jardim Beatriz;SP;São Carlos
+13567-415;Rua;Beatriz Ferreira de Almeida Faccin;Chácara São Caetano;SP;São Carlos
+13560-292;Rua;Belarmino Indalécio de Souza;Vila Monteiro (Gleba I);SP;São Carlos
+13567-867;Rua;Belina Bizarro Wanderley;Residencial Américo Alves Margarido;SP;São Carlos
+13566-857;Passeio;dos Bem-te-vis;Quinta dos Buritis;SP;São Carlos
+13563-737;Rua;Benedita de Oliveira Lima Gatto;Jardim Santa Elisa;SP;São Carlos
+13564-091;Rua;Benedita Stall Sodré;Jardim Centenário;SP;São Carlos
+13560-045;Praça;São Benedito;Centro;SP;São Carlos
+13568-430;Rua;Benedito Carlos Pereira;Parque Residencial Maria Stella Faga;SP;São Carlos
+13560-645;Rua;Benedito da Silva;Jardim São Carlos;SP;São Carlos
+13568-560;Avenida;Benedito de Souza;Jardim Munique;SP;São Carlos
+13573-351;Rua;Benedito Faria de Godoi;Jardim Social Presidente Collor;SP;São Carlos
+13567-440;Rua;Benedito Gagliardi;Loteamento Albertini;SP;São Carlos
+13563-896;Rua;Benedito Luiz Veltroni;Jardim Embaré;SP;São Carlos
+13566-485;Rua;Benedito Olivatto;Vila Celina;SP;São Carlos
+13562-500;Rua;Benevides Ignácio Ramos;Parque Sisi;SP;São Carlos
+13574-004;Rua;Benjamin Constant;Vila Boa Vista;SP;São Carlos
+13568-190;Estrada;Doutor Benjamin Lopes Osores;Jardim Tangará;SP;São Carlos
+13568-817;Rua;Benjamin Zinato;Residencial  Astolpho Luiz do Prado;SP;São Carlos
+13567-260;Rua;Pastor Bento;Vila Jacobucci;SP;São Carlos
+13560-660;Rua;Bento Carlos;Centreville;SP;São Carlos
+13569-330;Rua;Bento Carlos;Jardim Brasil;SP;São Carlos
+13568-460;Rua;Bento da Silva Cezar;Jardim Santa Maria II;SP;São Carlos
+13574-703;Rua;Bento do Carmo Lara;Mirante da Bela Vista;SP;São Carlos
+13568-690;Travessa;Benvinda Arlet de Campos;Residencial Parque Douradinho;SP;São Carlos
+13574-030;Rua;Doutor Bernardino de Campos;Vila Prado;SP;São Carlos
+13566-490;Rua;Bernardino Fernandes Nunes;Cidade Jardim;SP;São Carlos
+13575-263;Rua;Bernardo Cerrutti;Jardim Medeiros;SP;São Carlos
+13574-706;Rua;Bibiana Ricci Cerri;Mirante da Bela Vista;SP;São Carlos
+13563-150;Rua;Bichara Damha;Loteamento Habitacional São Carlos 2;SP;São Carlos
+13566-417;Rua;do Biocombustível;Parque Espraiado;SP;São Carlos
+13566-415;Rua;da Bioenergia;Parque Espraiado;SP;São Carlos
+13566-425;Rua;da Biotecnologia;Parque Espraiado;SP;São Carlos
+13568-872;Rua;Blasco Bruno;Parque Belvedere;SP;São Carlos
+13569-020;Travessa;Boava;Vila Faria;SP;São Carlos
+13566-680;Rua;Bolívia;Vila Brasília;SP;São Carlos
+13574-620;Rua;Bom Pastor;Jardim Gibertoni;SP;São Carlos
+13562-240;Rua;Padre Bonilha;Jardim Bandeirantes;SP;São Carlos
+13564-100;Rua;Borba Gato;Jardim Centenário;SP;São Carlos
+13565-517;Rua;Borlange;Residencial Samambaia;SP;São Carlos
+13569-200;Travessa;Dom Bosco;Chácara São João;SP;São Carlos
+13564-120;Rua;Brás Cubas;Jardim Centenário;SP;São Carlos
+13569-135;Praça;Brasil;Vila Nery;SP;São Carlos
+13563-894;Rua;Brasiliano Bento;Jardim Embaré;SP;São Carlos
+13563-261;Rua;Brasilino Vicente Silva;Loteamento Municipal São Carlos 3;SP;São Carlos
+13571-095;Rua;Brasílio Belisário;Núcleo Residencial Castelo Branco;SP;São Carlos
+13569-480;Rua;Brotas;Portal do Sol;SP;São Carlos
+13569-231;Rua;Bruno Giongo;Vila Deriggi;SP;São Carlos
+13568-350;Rua;Bruno Lazzarini;Parque Residencial Maria Stella Faga;SP;São Carlos
+13570-430;Rua;Bruno Panhoca;Jardim São Paulo;SP;São Carlos
+13573-320;Rua;Bruno Pauka;Loteamento Social Antenor Garcia;SP;São Carlos
+13562-420;Avenida;Bruno Ruggiero Filho;Parque Santa Felícia Jardim;SP;São Carlos
+13567-600;Rua;Buenos Aires;Parque Primavera;SP;São Carlos
+13567-230;Rua;Byron Ortiz de Araújo;Vila Jacobucci;SP;São Carlos
+13570-217;Rua;C;Núcleo Residencial Castelo Branco;SP;São Carlos
+13575-163;Rua;C;Jardim Medeiros;SP;São Carlos
+13572-460;Avenida;Santa Madre Cabrine;Vila Santa Madre Cabrini;SP;São Carlos
+13575-860;Rua;Professora Cacilda Marcondes Costa;Romeu Santini;SP;São Carlos
+13567-280;Rua;Caetano Barion;Jardim Real;SP;São Carlos
+13567-550;Rua;Caetano Bruno;Parque Primavera;SP;São Carlos
+13564-210;Rua;Caetano Mirabelli;Parque Santa Marta;SP;São Carlos
+13567-050;Rua;Caetano Moruzzi;Jardim São João Batista;SP;São Carlos
+13571-340;Rua;Caetano Scalise;Jardim Maracanã;SP;São Carlos
+13571-170;Rua;Professor Caio de Figueredo Silva;Azulville I;SP;São Carlos
+13560-490;Rua;Cajucy Accioly Wanderley;Vila Elizabeth;SP;São Carlos
+13569-360;Rua;Cajudy Lins Barros Wanderley;Jardim Nossa Senhora Aparecida;SP;São Carlos
+13567-150;Rua;Calimerio Martinez;Chácara Parque Club;SP;São Carlos
+13574-515;Viela;das Calopsitas;Jardim Paulista;SP;São Carlos
+13566-538;Rua;das Camélias;Cidade Jardim;SP;São Carlos
+13566-240;Rua;Campos Sales;Vila Costa do Sol;SP;São Carlos
+13560-296;Rua;Campos Salles;Vila Monteiro (Gleba I);SP;São Carlos
+13560-350;Rua;Campos Salles;Vila Monteiro (Gleba I);SP;São Carlos
+13562-140;Rua;Cândido Arruda Botelho;Parque Paraíso;SP;São Carlos
+13563-300;Rua;Cândido de Arruda Botelho;Parque Santa Felícia Jardim;SP;São Carlos
+13574-320;Rua;Cândido Padim;Vila Prado;SP;São Carlos
+13564-640;Rua;Cândido Sobreira;Parque Delta;SP;São Carlos
+13566-860;Passeio;dos Cardeais;Quinta dos Buritis;SP;São Carlos
+13570-660;Avenida;São Carlos;Vila Lutfalla;SP;São Carlos
+13560-001;Avenida;São Carlos;Centro;SP;São Carlos
+13560-010;Avenida;São Carlos;Centro;SP;São Carlos
+13560-002;Avenida;São Carlos;Centro;SP;São Carlos
+13560-011;Avenida;São Carlos;Centro;SP;São Carlos
+13566-330;Avenida;São Carlos;Vila Costa do Sol;SP;São Carlos
+13568-828;Rua;Carlos Bermudes;Conjunto Habitacional Dom Constantino Amstalden;SP;São Carlos
+13561-003;Avenida;Doutor Carlos Botelho;Centro;SP;São Carlos
+13560-250;Avenida;Doutor Carlos Botelho;Centro;SP;São Carlos
+13560-251;Avenida;Doutor Carlos Botelho;Centro;SP;São Carlos
+13569-230;Avenida;Doutor Carlos Botelho;Vila Deriggi;SP;São Carlos
+13571-619;Rua;Carlos Campana;Jardim de Cresci;SP;São Carlos
+13564-690;Rua;Carlos Carvalho;Parque Delta;SP;São Carlos
+13560-550;Rua;Doutor Carlos de Camargo Salles;Jardim Lutfalla;SP;São Carlos
+13564-420;Rua;Carlos Del Nero;Jardim Hikare;SP;São Carlos
+13568-340;Rua;Carlos Dirceu dos Santos;Parque Residencial Maria Stella Faga;SP;São Carlos
+13571-620;Rua;Carlos Duarte de Souza;Jardim de Cresci;SP;São Carlos
+13570-771;Rua;Carlos Fleischman;Vila Izabel;SP;São Carlos
+13571-602;Rua;Carlos José Martins;Jardim de Cresci;SP;São Carlos
+13563-854;Rua;Carlos Luporini;Jardim Embaré;SP;São Carlos
+13565-810;Rua;Carlos Mariguela;Jardim Guanabara;SP;São Carlos
+13568-090;Rua;Carlos Marra;Jardim Tangará;SP;São Carlos
+13573-114;Rua;Carlos Paschoalino;Cidade Aracy;SP;São Carlos
+13572-110;Rua;Cientista Carlos Ribeiro Justiniano das Chagas;Jardim Cruzeiro do Sul;SP;São Carlos
+13572-311;Travessa;Carlos Rodrigues de Sampaio;Jardim Santa Tereza;SP;São Carlos
+13561-230;Rua;Carlos Sasso Garcia;Parque Santa Mônica;SP;São Carlos
+13574-580;Rua;Coronel Carlos Simplicio Rodrigues;Jardim Gibertoni;SP;São Carlos
+13563-220;Rua;Carlos Torres de Campos;Loteamento Habitacional São Carlos 2;SP;São Carlos
+13563-776;Avenida;Carmem Aparecida Garcia;Parque Fehr;SP;São Carlos
+13566-603;Rua;Carmen Munhos Narvais;Vila Brasília;SP;São Carlos
+13573-065;Rua;Carmine Missali;Cidade Aracy;SP;São Carlos
+13568-120;Avenida;Dom Carmine Rocco;Jardim Tangará;SP;São Carlos
+13573-376;Rua;Carolina Ferreira da Silva;Jardim Social Presidente Collor;SP;São Carlos
+13570-695;Rua;Casemiro de Abreu;Vila Lutfalla;SP;São Carlos
+13574-001;Praça;Presidente Castelo Branco;Vila Boa Vista;SP;São Carlos
+13561-384;Passeio;das Castenheiras;Parque Faber Castell I;SP;São Carlos
+13570-658;Rua;Castro Alves;Vila Lutfalla;SP;São Carlos
+13574-020;Rua;Doutor Castro Neri;Vila Pelicano;SP;São Carlos
+13563-801;Rua;Catarina Ruggiero Pepino;Residencial Parati;SP;São Carlos
+13566-503;Praça;de Duque Caxias;Cidade Jardim;SP;São Carlos
+13572-370;Rua;Ceará;Jardim Pacaembu;SP;São Carlos
+13563-260;Rua;Irmã Celina;Loteamento Municipal São Carlos 3;SP;São Carlos
+13564-060;Rua;Célio Barbosa da Silva;Jardim Santa Paula;SP;São Carlos
+13571-070;Rua;Doutor Celso Carlos Gonçalves;Jardim Dona Francisca;SP;São Carlos
+13561-356;Alameda;das Cerejeiras;Parque Faber Castell I;SP;São Carlos
+13575-331;Rua;Cesar Dacorso Filho;Vila Carmem;SP;São Carlos
+13572-402;Rua;Cesar Hypólito;Vila Monte Carlo;SP;São Carlos
+13572-440;Avenida;Cesare Brigante;Vila Monte Carlo;SP;São Carlos
+13560-510;Rua;Cézar Ricomi;Jardim Lutfalla;SP;São Carlos
+13566-610;Rua;Chile;Vila Brasília;SP;São Carlos
+13565-530;Rua;Chojnice;Residencial Samambaia;SP;São Carlos
+13567-350;Rua;Christiano Rodrigues Machado;Jardim Real;SP;São Carlos
+13575-375;Rua;Cícero Soares Ribeiro;Vila Carmem;SP;São Carlos
+13562-400;Rua;Cid Silva César;Parque Santa Felícia Jardim;SP;São Carlos
+13574-230;Rua;Cidade de Milão;Vila Prado;SP;São Carlos
+13562-506;Rua;Cidade de Rafaela;Residencial Monsenhor Romeu Tortorelli;SP;São Carlos
+13575-230;Rua;Cidade Lipetsk;Jardim Medeiros;SP;São Carlos
+13568-784;Rua;Cidade Shibata;Residencial Itamarati;SP;São Carlos
+13574-024;Rua;Cincinato Braga;Vila Pelicano;SP;São Carlos
+13564-813;Travessa;Cinco;Loteamento Aracê de Santo Antonio I;SP;São Carlos
+13564-846;Rua;Cinco;Encontro Valparaíso II;SP;São Carlos
+13564-865;Travessa;Cinco;Encontro Valparaíso I;SP;São Carlos
+13566-880;Rua;Cinco;Tibaia de São Fernando;SP;São Carlos
+13573-510;Rua;Cinco;Parque Novo Mundo;SP;São Carlos
+13571-789;Estrada;Cinco;Loteamento Recreio Campestre;SP;São Carlos
+13573-532;Rua;Claudenice Baldan Maiello;Parque Novo Mundo;SP;São Carlos
+13568-757;Rua;Cláudio Osvaldo Nordi;Residencial Itamarati;SP;São Carlos
+13563-882;Avenida;Clemente Talarico;Jardim Embaré;SP;São Carlos
+13568-776;Rua;Cleonice da Silva Camargo;Residencial Itamarati;SP;São Carlos
+13575-862;Rua;Clorinda C. Moura;Romeu Santini;SP;São Carlos
+13570-810;Rua;Santa Clotilde;Vila Izabel;SP;São Carlos
+13563-110;Rua;Clóvis Pacheco;Loteamento Habitacional São Carlos 1;SP;São Carlos
+13566-630;Rua;Colômbia;Vila Brasília;SP;São Carlos
+13562-521;Rua;Conceição de Toledo Pizza Zambel;Residencial Monsenhor Romeu Tortorelli;SP;São Carlos
+13567-670;Alameda;Congonhas do Campo;Parque Sabará;SP;São Carlos
+13573-104;Rua;Constante Mangini;Cidade Aracy;SP;São Carlos
+13563-848;Rua;Dom Constantino Amstalden;Jardim Embaré;SP;São Carlos
+13573-272;Rua;Professor Corinto Amato;Cidade Aracy;SP;São Carlos
+13574-430;Rua;Coriolano José Gibertoni;Jardim Paulista;SP;São Carlos
+13566-070;Rua;Costa do Sol;Vila Costa do Sol;SP;São Carlos
+13566-690;Rua;Costa Rica;Vila Brasília;SP;São Carlos
+13561-400;Alameda;das Cotovias;Parque Faber Castell II;SP;São Carlos
+13566-536;Rua;dos Cravos;Cidade Jardim;SP;São Carlos
+13569-707;Rua;Cremilde Zabotto Poianas;Parque dos Timburis;SP;São Carlos
+13567-811;Travessa;Crescensio Cocca;Chácara Parque Club;SP;São Carlos
+13566-570;Alameda;das Crisandálias;Cidade Jardim;SP;São Carlos
+13566-550;Alameda;dos Crisântemos;Cidade Jardim;SP;São Carlos
+13560-680;Rua;Santa Cruz;Centreville;SP;São Carlos
+13569-340;Rua;Santa Cruz;Jardim Brasil;SP;São Carlos
+13571-160;Rua;da Visconde Cunha Bueno;Azulville I;SP;São Carlos
+13561-406;Alameda;dos Curiós;Parque Faber Castell II;SP;São Carlos
+13563-829;Rua;Cyde do Carmo;Loteamento Jardim Vista Alegre;SP;São Carlos
+13569-530;Rua;Pastor Cyrus Basset Dawsey;Jardim Cardinalli;SP;São Carlos
+13572-202;Rua;Professora Dalila Galli;Vila Prado;SP;São Carlos
+13570-213;Rua;Dalmo do Valle Nogueira;Jardim Nova São Carlos;SP;São Carlos
+13575-662;Rua;Daniel Candido do Nascimento;Jardim das Torres Prolongamento;SP;São Carlos
+13563-264;Rua;Danilo Mic'Alli;Loteamento Municipal São Carlos 3;SP;São Carlos
+13563-384;Rua;Dante Petroni Galli;Loteamento Municipal São Carlos 4;SP;São Carlos
+13570-470;Rua;Doutor David Pedro Cassinelli;Jardim São Paulo;SP;São Carlos
+13567-210;Rua;Décio Osio;Vila Nossa Senhora de Fátima;SP;São Carlos
+13560-646;Rua;Delfino Martins Camargo Penteado;Jardim São Carlos;SP;São Carlos
+13575-440;Rua;Vereador Delmas Penteado Machado;Jardim Botafogo 1;SP;São Carlos
+13564-220;Avenida;Demétrio Mitre;Parque Santa Marta;SP;São Carlos
+13560-200;Rua;Marechal Deodoro;Centro;SP;São Carlos
+13560-201;Rua;Marechal Deodoro;Centro;SP;São Carlos
+13569-006;Rua;Marechal Deodoro;Vila Faria;SP;São Carlos
+13570-211;Rua;Deolindo Raimundo;Jardim Nova São Carlos;SP;São Carlos
+13572-391;Rua;Deusdedit Freitas de Almeida;Jardim das Rosas;SP;São Carlos
+13564-857;Travessa;Dez;Encontro Valparaíso I;SP;São Carlos
+13573-522;Rua;Dez;Parque Novo Mundo;SP;São Carlos
+13563-670;Rua;Dez;Jardim Ipanema;SP;São Carlos
+13573-542;Rua;Dezenove;Parque Novo Mundo;SP;São Carlos
+13575-676;Rua;Dezenove;Jardim das Torres Prolongamento;SP;São Carlos
+13573-536;Rua;Dezesseis;Parque Novo Mundo;SP;São Carlos
+13573-574;Rua;Dezessete;Residencial Deputado José Zavaglia;SP;São Carlos
+13575-652;Rua;Dezessete;Jardim das Torres Prolongamento;SP;São Carlos
+13573-572;Rua;Dezoito;Residencial Deputado José Zavaglia;SP;São Carlos
+13573-540;Rua;Dezoito;Parque Novo Mundo;SP;São Carlos
+13575-650;Rua;Dezoito;Jardim das Torres Prolongamento;SP;São Carlos
+13563-713;Rua;Diamantino Pereira;Jardim Acapulco;SP;São Carlos
+13570-321;Rua;Dino Guelfi;Vila Alpes;SP;São Carlos
+13563-160;Rua;Dionísio Pinati;Loteamento Habitacional São Carlos 2;SP;São Carlos
+13568-230;Rua;Djalma Ferraz Kehl;Jardim Tangará;SP;São Carlos
+13571-780;Estrada;Dois;Loteamento Recreio Campestre;SP;São Carlos
+13564-872;Travessa;Dois;Encontro Valparaíso I;SP;São Carlos
+13575-686;Rua;Dois;Jardim das Torres Prolongamento;SP;São Carlos
+13573-504;Rua;Dois;Parque Novo Mundo;SP;São Carlos
+13566-494;Travessa;Dois;Cidade Jardim;SP;São Carlos
+13566-849;Travessa;Dois;Loteamento Tutoya do Vale;SP;São Carlos
+13566-873;Travessa;Dois;Tibaia de São Fernando;SP;São Carlos
+13566-878;Rua;Dois;Tibaia de São Fernando;SP;São Carlos
+13564-852;Rua;Dois;Encontro Valparaíso II;SP;São Carlos
+13564-859;Rua;Dois;Encontro Valparaíso I;SP;São Carlos
+13573-566;Rua;Dois;Residencial Deputado José Zavaglia;SP;São Carlos
+13570-210;Rua;Domingos Bibbo;Jardim Nova São Carlos;SP;São Carlos
+13568-080;Rua;Domingos de Angelis;Jardim Tangará;SP;São Carlos
+13563-303;Rua;Domingos Diegues;Parque Santa Felícia Jardim;SP;São Carlos
+13562-003;Rua;Doutor Domingos Faro;Jardim Alvorada;SP;São Carlos
+13564-130;Rua;Domingos Jorge Velho;Jardim Centenário;SP;São Carlos
+13568-610;Rua;Domingos Juliano;Jardim Munique;SP;São Carlos
+13574-210;Rua;Domingos Marino;Vila Prado;SP;São Carlos
+13575-008;Rua;Coronel Domingos Marino de Azevedo;Vila Boa Vista 1;SP;São Carlos
+13563-100;Rua;Domingos Mário Paino;Loteamento Habitacional São Carlos 1;SP;São Carlos
+13570-530;Rua;Domingos Marra;Jardim Mercedes;SP;São Carlos
+13574-702;Rua;Domingos Massari;Mirante da Bela Vista;SP;São Carlos
+13570-501;Rua;Doutor Domingos Theodoro de Mendonça;Jardim Mercedes;SP;São Carlos
+13563-825;Rua;Domingos Vallério;Loteamento Jardim Vista Alegre;SP;São Carlos
+13563-290;Rua;Irmão Domingos Zanferrari;Loteamento Municipal São Carlos 3;SP;São Carlos
+13564-332;Rua;Doutor Donato dos Santos;Jardim Nova Santa Paula;SP;São Carlos
+13573-310;Avenida;Donato Pedrino;Loteamento Social Antenor Garcia;SP;São Carlos
+13569-580;Rua;Douvidor Cunha;Jardim Cardinalli;SP;São Carlos
+13573-526;Rua;Doze;Parque Novo Mundo;SP;São Carlos
+13573-584;Rua;Doze;Residencial Deputado José Zavaglia;SP;São Carlos
+13572-076;Travessa;Doze de Outubro;Jardim Jacobucci;SP;São Carlos
+13574-360;Rua;Doutor Duarte Nunes;Vila Prado;SP;São Carlos
+13575-350;Rua;Doutor Duarte Nunes;Vila Carmem;SP;São Carlos
+13564-280;Avenida;Doutor Durval Accioli;Parque Santa Marta;SP;São Carlos
+13571-783;Rua;Durval de Oliveira;Loteamento Recreio Campestre;SP;São Carlos
+13566-863;Rua;Durval Martinez;Chácara Leila;SP;São Carlos
+13568-834;Rua;Durval Santângelo;Conjunto Habitacional Dom Constantino Amstalden;SP;São Carlos
+13567-000;Rua;Durvalino Gonçalves da Silva;Jardim São João Batista;SP;São Carlos
+13570-657;Rua;Edilio de Freitas;Núcleo Residencial Silvio Vilari;SP;São Carlos
+13568-643;Rua;Edimilson Vicentin;Residencial Parque Douradinho;SP;São Carlos
+13567-530;Rua;Reverendo Edmo da Costa Moura;Parque Primavera;SP;São Carlos
+13563-190;Rua;Edson Baccarin;Loteamento Habitacional São Carlos 2;SP;São Carlos
+13563-779;Travessa;Edson Caroucai;Parque Fehr;SP;São Carlos
+13571-240;Rua;Eduardo Campos Maia Filho;Azulville 2;SP;São Carlos
+13571-100;Rua;Professor Eduardo de Martini;Núcleo Residencial Castelo Branco;SP;São Carlos
+13563-704;Rua;Eduardo do Prado F. Braga;Jardim Acapulco;SP;São Carlos
+13573-440;Rua;Eduardo Gobato;CEAT;SP;São Carlos
+13566-889;Rua;Eduardo Nogueira de Araujo Junior;Vale Santa Felicidade;SP;São Carlos
+13564-817;Avenida;Doutor Edvaldo José Donato de Assis;Loteamento Aracê de Santo Antonio I;SP;São Carlos
+13566-750;Rua;El Salvador;Vila Brasília;SP;São Carlos
+13564-250;Rua;Eldio José Luporini;Parque Santa Marta;SP;São Carlos
+13574-440;Rua;dos Eletrecitários;Jardim Paulista;SP;São Carlos
+13575-268;Rua;Eleutério Malerba;Jardim Medeiros;SP;São Carlos
+13572-100;Rua;Elias Arsenios;Jardim Cruzeiro do Sul;SP;São Carlos
+13563-608;Rua;Elias Landgraf;Conjunto Habitacional Santa Angelina;SP;São Carlos
+13570-170;Rua;Elias Miguel Mhirdaui;Jardim Nova São Carlos;SP;São Carlos
+13567-885;Rua;Elias Pozzi;Residencial Américo Alves Margarido;SP;São Carlos
+13560-047;Praça;Coronel Elias Salles;Centro;SP;São Carlos
+13572-420;Rua;Elias Zainun;Vila Monte Carlo;SP;São Carlos
+13570-215;Rua;Elisa Carvalho Rodrigues;Núcleo Residencial Castelo Branco;SP;São Carlos
+13566-332;Rua;Elisa Lopes de Melo;Vila Marigo;SP;São Carlos
+13572-130;Rua;Doutor Elisario Fernandes Araújo;Jardim Cruzeiro do Sul;SP;São Carlos
+13560-178;Rua;Dona Eliza Botelho Maria Barros;Centro;SP;São Carlos
+13564-335;Avenida;Eliza Gonzales Rabello;Jardim Nova Santa Paula;SP;São Carlos
+13573-204;Rua;Elizeu Afonso dos Santos;Cidade Aracy;SP;São Carlos
+13575-701;Rua;Elmo José Dias;Jardim Bicão;SP;São Carlos
+13568-360;Rua;Eloy Alves Margarido;Parque Residencial Maria Stella Faga;SP;São Carlos
+13575-060;Rua;Professora Elydia Benetti;Jardim Beatriz;SP;São Carlos
+13574-705;Rua;Emerson Carlos Romanelli Dias;Mirante da Bela Vista;SP;São Carlos
+13568-640;Rua;Emerson Radamés Gatto;Residencial Parque Douradinho;SP;São Carlos
+13563-305;Rua;Emílio Mário Ribas;Parque Santa Felícia Jardim;SP;São Carlos
+13566-030;Rua;Emílio Moro;Vila Costa do Sol;SP;São Carlos
+13569-490;Rua;Emílio Name;Portal do Sol;SP;São Carlos
+13560-301;Rua;Enéas Camargo;Vila Monteiro (Gleba I);SP;São Carlos
+13566-431;Rua;da Engenharia Genética;Parque Espraiado;SP;São Carlos
+13563-760;Rua;Ennês Bueno;Parque Fehr;SP;São Carlos
+13560-570;Rua;Episcopal;Núcleo Residencial Silvio Vilari;SP;São Carlos
+13560-049;Rua;Episcopal;Centro;SP;São Carlos
+13566-800;Rua;Equador;Vila Brasília;SP;São Carlos
+13568-783;Rua;Erasmo Lopes Ozores;Residencial Itamarati;SP;São Carlos
+13563-775;Avenida;Ercílio Mastro Francisco;Parque Fehr;SP;São Carlos
+13563-750;Rua;Ernane Stefane;Parque Fehr;SP;São Carlos
+13564-570;Rua;Ernestino Block;Jardim Hikare;SP;São Carlos
+13565-540;Rua;Ernesto Bentin;Residencial Samambaia;SP;São Carlos
+13575-802;Rua;Ernesto Buono;Jardim Social Belvedere;SP;São Carlos
+13571-390;Rua;Ernesto Cardinalli;Jardim Nova São Carlos;SP;São Carlos
+13575-801;Rua;Ernesto Chiari;Jardim Social Belvedere;SP;São Carlos
+13570-460;Rua;Ernesto Gonçalves Rosa Júnior;Jardim São Paulo;SP;São Carlos
+13563-850;Avenida;Doutor Ernesto Pereira Lopes;Jardim Embaré;SP;São Carlos
+13566-845;Estrada;Ernesto Pinca;Loteamento Tutoya do Vale;SP;São Carlos
+13566-862;Estrada;Ernesto Pinca;Chácara Leila;SP;São Carlos
+13566-868;Estrada;Ernesto Pinca;Tibaia de São Fernando;SP;São Carlos
+13566-886;Estrada;Ernesto Pinca;Vale Santa Felicidade;SP;São Carlos
+13561-200;Rua;Professor Ernfrid Frick;Jardim Paraíso;SP;São Carlos
+13568-782;Rua;Ervira Brasse Crempe;Residencial Itamarati;SP;São Carlos
+13561-351;Passeio;das Espatódeas;Parque Faber Castell I;SP;São Carlos
+13564-365;Rua;do Estado;Jardim Paulistano;SP;São Carlos
+13566-050;Rua;Estados Unidos;Vila Costa do Sol;SP;São Carlos
+13563-761;Rua;Esther do Amaral Zaitune;Parque Fehr;SP;São Carlos
+13563-263;Rua;Esther Marchetti;Loteamento Municipal São Carlos 3;SP;São Carlos
+13566-427;Rua;do Etanol;Parque Espraiado;SP;São Carlos
+13562-430;Rua;Ethiwaldo Alexandre Martins;Parque Santa Felícia Jardim;SP;São Carlos
+13567-879;Rua;Ettore Octaviano Prando;Residencial Américo Alves Margarido;SP;São Carlos
+13569-190;Rua;Euclides da Cunha;Chácara São João;SP;São Carlos
+13575-890;Rua;Doutor Eufrauzino Moreira;Romeu Santini;SP;São Carlos
+13562-300;Rua;Eugênia Accacio;Jardim Alvorada;SP;São Carlos
+13573-410;Rua;Eugênio Cardinalli;CEAT;SP;São Carlos
+13573-528;Rua;Eugênio Cardinalli;Parque Novo Mundo;SP;São Carlos
+13566-611;Rua;Eugênio de Andrade Egas;Vila Brasília;SP;São Carlos
+13569-270;Rua;Eugênio Franco de Camargo;Jardim Brasil;SP;São Carlos
+13564-500;Rua;Eugênio Galucci;Jardim Hikare;SP;São Carlos
+13575-678;Rua;Eugênio Stefane;Jardim das Torres Prolongamento;SP;São Carlos
+13575-232;Rua;Eva Barnabé Lattianzio;Jardim Medeiros;SP;São Carlos
+13573-209;Rua;Expedita Maria Costa;Cidade Aracy;SP;São Carlos
+13568-843;Avenida;Ezequiel Zainum;Conjunto Habitacional Dom Constantino Amstalden;SP;São Carlos
+13573-068;Rua;Ezilia Buonodono Moço;Cidade Aracy;SP;São Carlos
+13571-370;Avenida;Faber;Jardim Nova São Carlos;SP;São Carlos
+13562-342;Rua;Doutora Fabiana Porto Morasco;Jardim Alvorada;SP;São Carlos
+13562-508;Rua;Fábio de Angelis Porto;Residencial Monsenhor Romeu Tortorelli;SP;São Carlos
+13575-171;Rua;Fábio José Fiochi;Jardim Medeiros;SP;São Carlos
+13563-852;Rua;Fábio Squassoni;Jardim Embaré;SP;São Carlos
+13570-594;Rua;Fagundes Varella;Vila Marcelino;SP;São Carlos
+13570-341;Praça;Padre Faustino;Vila Alpes;SP;São Carlos
+13562-250;Rua;Padre Faustino;Jardim Bandeirantes;SP;São Carlos
+13566-890;Vereda;dos Faveiros;Vale Santa Felicidade;SP;São Carlos
+13572-160;Rua;Professor Felipe Beltrame;Jardim Cruzeiro do Sul;SP;São Carlos
+13569-703;Rua;Felipe Schiavone;Parque dos Timburis;SP;São Carlos
+13568-766;Rua;Ferdinando Gastaldi;Residencial Itamarati;SP;São Carlos
+13574-190;Rua;Doutor Fernando Costa;Vila Prado;SP;São Carlos
+13564-159;Avenida;Fernão Dias;Jardim Centenário;SP;São Carlos
+13572-200;Rua;dos Ferroviários;Vila Prado;SP;São Carlos
+13570-788;Rua;Santa Filomena;Vila Izabel;SP;São Carlos
+13564-200;Avenida;Filomena Rispoli;Parque Santa Marta;SP;São Carlos
+13568-811;Rua;Fioravante Delicato;Residencial  Astolpho Luiz do Prado;SP;São Carlos
+13563-090;Rua;Fioravante Terruggi;Loteamento Habitacional São Carlos 1;SP;São Carlos
+13573-122;Rua;Firmino Brigante;Cidade Aracy;SP;São Carlos
+13561-352;Passeio;dos Flamboyants;Parque Faber Castell I;SP;São Carlos
+13562-002;Rua;Flauzino Marques;Jardim Alvorada;SP;São Carlos
+13571-518;Rua;Flávio Mergulhão;Jardim Novo Horizonte;SP;São Carlos
+13567-610;Rua;Professor Flávio Penteado Sampaio;Parque Primavera;SP;São Carlos
+13560-041;Rua;Flávio Wellichan;Centro;SP;São Carlos
+13569-350;Rua;Florentino Kanabley;Jardim Nossa Senhora Aparecida;SP;São Carlos
+13574-420;Rua;Floriano Peixoto;Jardim Paulista;SP;São Carlos
+13573-168;Rua;Florisberto Aparecido da Silva;Cidade Aracy;SP;São Carlos
+13566-355;Avenida;Força Expedicionária Brasileira;Vila Marina;SP;São Carlos
+13563-890;Rua;Fortunato Dovigo;Jardim Embaré;SP;São Carlos
+13573-218;Rua;Francisca Bassani da Silva;Cidade Aracy;SP;São Carlos
+13568-708;Rua;Francisca Dirce Barboza;Residencial Parque Douradinho;SP;São Carlos
+13562-001;Rua;Francisca Noronha Lisboa;Jardim Alvorada;SP;São Carlos
+13569-702;Rua;Francisca Paula de Jesus Izabel;Parque dos Timburis;SP;São Carlos
+13573-017;Rua;Francisco Alberto Micelli;Cidade Aracy;SP;São Carlos
+13564-170;Rua;Francisco Briscesse;Jardim Centenário;SP;São Carlos
+13568-836;Rua;Cônego Francisco Buck;Conjunto Habitacional Dom Constantino Amstalden;SP;São Carlos
+13575-300;Rua;Francisco Carlos Ribeiro da Silva;Jardim Medeiros;SP;São Carlos
+13566-606;Rua;Francisco Cassiano Lopes;Vila Brasília;SP;São Carlos
+13573-016;Rua;Francisco Cereda;Cidade Aracy;SP;São Carlos
+13563-888;Rua;Francisco Correa Bueno;Jardim Embaré;SP;São Carlos
+13560-310;Rua;Francisco Couto;Vila Monteiro (Gleba I);SP;São Carlos
+13567-202;Rua;Francisco Crestana;Vila Nossa Senhora de Fátima;SP;São Carlos
+13566-865;Rua;Professor Francisco de Oliveira Alves;Chácara Leila;SP;São Carlos
+13570-835;Rua;Francisco de Oliveira Alves;Parque São José;SP;São Carlos
+13574-011;Rua;Francisco de Oliveira Penteado;Vila Boa Vista;SP;São Carlos
+13573-262;Rua;Francisco Emmanuel de Paula;Cidade Aracy;SP;São Carlos
+13565-545;Avenida;Francisco Falvo;Residencial Samambaia;SP;São Carlos
+13569-004;Rua;Francisco Ferreira;Vila Faria;SP;São Carlos
+13574-007;Rua;Francisco Fiorentino;Vila Boa Vista;SP;São Carlos
+13568-678;Rua;Francisco Generoso;Residencial Parque Douradinho;SP;São Carlos
+13563-360;Rua;Francisco Gentil de Guzzi;Parque Santa Felícia Jardim;SP;São Carlos
+13575-400;Rua;Francisco Gregoracci;Jardim Botafogo 1;SP;São Carlos
+13563-810;Travessa;Francisco Latorre Primo;Residencial Parati;SP;São Carlos
+13563-040;Rua;Francisco Lopes;Loteamento Habitacional São Carlos 1;SP;São Carlos
+13565-500;Avenida;Francisco Mancuso;Residencial Samambaia;SP;São Carlos
+13566-400;Rua;Francisco Maricondi;Vila Marina;SP;São Carlos
+13572-090;Rua;Francisco Marigo;Jardim Cruzeiro do Sul;SP;São Carlos
+13570-650;Rua;Francisco Marmorato;Núcleo Residencial Silvio Vilari;SP;São Carlos
+13570-160;Rua;Francisco Monaretti;Jardim Nova São Carlos;SP;São Carlos
+13570-740;Rua;Francisco Paolillo;Vila Irene;SP;São Carlos
+13572-410;Travessa;Francisco Parrota;Vila Monte Carlo;SP;São Carlos
+13566-190;Rua;Francisco Pelegrino;Vila Costa do Sol;SP;São Carlos
+13561-250;Avenida;Francisco Pereira Lopes;Parque Santa Mônica;SP;São Carlos
+13564-002;Avenida;Francisco Pereira Lopes;Parque Arnold Schimidt;SP;São Carlos
+13563-310;Rua;Francisco Possa;Parque Santa Felícia Jardim;SP;São Carlos
+13563-200;Rua;Francisco Salgado Gonçalves;Loteamento Habitacional São Carlos 2;SP;São Carlos
+13575-070;Rua;Francisco Schiavone;Jardim Beatriz;SP;São Carlos
+13570-651;Rua;Francisco Silva Ribeiro;Núcleo Residencial Silvio Vilari;SP;São Carlos
+13567-140;Rua;Francisco Stella;Chácara Parque Club;SP;São Carlos
+13563-483;Rua;Francisco Valverde;Jardim São Carlos 5;SP;São Carlos
+13562-503;Rua;Francisco Xavier Amaral Filho;Residencial Monsenhor Romeu Tortorelli;SP;São Carlos
+13569-590;Rua;Francisco Zavaglia;Jardim Cardinalli;SP;São Carlos
+13564-080;Rua;Franklim Brasiliense;Jardim Santa Paula;SP;São Carlos
+13569-060;Rua;Frederico Manzini;Vila Rancho Velho;SP;São Carlos
+13560-480;Rua;Fritz Johansen;Vila Elizabeth;SP;São Carlos
+13574-540;Avenida;São Gabriel;Jardim Paulista;SP;São Carlos
+13575-330;Rua;Gabriel Cnkovic;Vila Carmem;SP;São Carlos
+13563-868;Rua;Gabriel Leandro;Jardim Embaré;SP;São Carlos
+13566-859;Passeio;das Gaivotas;Quinta dos Buritis;SP;São Carlos
+13566-540;Avenida;das Gardênias;Cidade Jardim;SP;São Carlos
+13570-750;Rua;Bispo Dom Gastão;Vila Irene;SP;São Carlos
+13574-002;Rua;Doutor Gastão de Sá;Vila Boa Vista;SP;São Carlos
+13570-655;Rua;Gastão Vidigal;Núcleo Residencial Silvio Vilari;SP;São Carlos
+13562-410;Rua;Gastão Vieira;Parque Santa Felícia Jardim;SP;São Carlos
+13563-601;Rua;Gaudêncio Zaninetti;Conjunto Habitacional Santa Angelina;SP;São Carlos
+13571-310;Rua;Gelsomino Saia;Jardim Maracanã;SP;São Carlos
+13560-641;Rua;Geminiano Costa;Jardim São Carlos;SP;São Carlos
+13569-310;Rua;Geminiano Costa;Jardim Brasil;SP;São Carlos
+13563-729;Rua;Gemma Prando Biazetti;Jardim Santa Elisa;SP;São Carlos
+13561-231;Rua;Genésio Benjamin;Parque Santa Mônica;SP;São Carlos
+13573-388;Rua;Genésio D'Aquino;Jardim Social Presidente Collor;SP;São Carlos
+13566-601;Rua;Genésio de Arruda;Vila Brasília;SP;São Carlos
+13575-600;Rua;Comendador Gentil de Azevedo;Jardim das Torres;SP;São Carlos
+13568-764;Rua;Gentil Volante;Residencial Itamarati;SP;São Carlos
+13572-230;Rua;Georg Friedmann;Vila Sonia;SP;São Carlos
+13570-420;Rua;Georg Ptak;Jardim São Paulo;SP;São Carlos
+13563-615;Rua;Geraldo Bellini Filho;Conjunto Habitacional Santa Angelina;SP;São Carlos
+13572-543;Rua;Geraldo Bretas;Vila Conceição;SP;São Carlos
+13573-576;Rua;Geraldo de Freitas;Residencial Deputado José Zavaglia;SP;São Carlos
+13575-170;Rua;Geraldo Domingos Adabo;Jardim Medeiros;SP;São Carlos
+13575-873;Rua;Geraldo dos Santos Triques;Romeu Santini;SP;São Carlos
+13566-541;Praça;Geraldo Eugenio Toledo Pizza;Cidade Jardim;SP;São Carlos
+13570-219;Rua;Geraldo Maragno;Núcleo Residencial Castelo Branco;SP;São Carlos
+13569-005;Rua;Germano Fehr;Vila Faria;SP;São Carlos
+13570-180;Avenida;Germano Fher Júnior;Jardim Nova São Carlos;SP;São Carlos
+13571-060;Avenida;Germano Fher Júnior;Jardim Dona Francisca;SP;São Carlos
+13564-801;Avenida;Germano Luiz Baio;Loteamento Aracê de Santo Antonio I;SP;São Carlos
+13574-265;Travessa;Gerson Marcos Nicola;Vila Prado;SP;São Carlos
+13570-800;Rua;Santa Gertrudes;Vila Izabel;SP;São Carlos
+13568-030;Rua;Gervásio Alves de Oliveira;Jardim São Rafael;SP;São Carlos
+13563-751;Rua;Gervásio Cyrino;Parque Fehr;SP;São Carlos
+13570-390;Avenida;Getúlio Vargas;Vila Lutfalla;SP;São Carlos
+13570-672;Avenida;Getúlio Vargas;Vila Lutfalla;SP;São Carlos
+13571-272;Avenida;Getúlio Vargas;Recreio São Judas Tadeu;SP;São Carlos
+13571-271;Avenida;Getúlio Vargas;Recreio São Judas Tadeu;SP;São Carlos
+13568-785;Rua;Geuaert Carli de Campos;Residencial Itamarati;SP;São Carlos
+13568-470;Rua;Giacomini Vacari;Jardim Santa Maria II;SP;São Carlos
+13562-350;Rua;Giacomo Casale;Jardim Alvorada;SP;São Carlos
+13573-450;Rua;Giácomo Nutti;CEAT;SP;São Carlos
+13563-620;Avenida;Doutor Gildeney Carreri;Conjunto Habitacional Santa Angelina;SP;São Carlos
+13563-878;Rua;Gildo Nonato;Jardim Embaré;SP;São Carlos
+13572-450;Avenida;Giovani Vassolo;Vila Santa Madre Cabrini;SP;São Carlos
+13569-232;Rua;Giovanni Rossi;Vila Deriggi;SP;São Carlos
+13575-490;Rua;Doutor Gipsy Garcia Ferreira;Jardim das Torres;SP;São Carlos
+13575-590;Rua;Professor Gisto Rossi;Jardim das Torres;SP;São Carlos
+13573-022;Rua;Giuseppe Broggio;Cidade Aracy;SP;São Carlos
+13567-190;Rua;Giuseppe dos Santos;Vila Vista Alegre;SP;São Carlos
+13571-090;Rua;Giuseppe Nastri;Núcleo Residencial Castelo Branco;SP;São Carlos
+13561-357;Alameda;das Goiabeiras;Parque Faber Castell I;SP;São Carlos
+13572-331;Rua;Goiás;Jardim Pacaembu;SP;São Carlos
+13570-620;Rua;Gonçalves Dias;Vila Marcelino;SP;São Carlos
+13561-404;Alameda;das Graúnas;Parque Faber Castell II;SP;São Carlos
+13574-140;Avenida;Grécia;Vila Prado;SP;São Carlos
+13571-260;Avenida;Gregório Aversa;Recreio São Judas Tadeu;SP;São Carlos
+13564-290;Rua;Gregório Donato;Parque Santa Marta;SP;São Carlos
+13572-170;Rua;Guadalajara;Jardim Cruzeiro do Sul;SP;São Carlos
+13572-020;Rua;Guará;Vila Morumbi;SP;São Carlos
+13573-300;Rua;Guarino Baldan;Loteamento Social Antenor Garcia;SP;São Carlos
+13566-720;Rua;Guatemala;Vila Brasília;SP;São Carlos
+13573-386;Rua;Guerino Fracasso;Jardim Social Presidente Collor;SP;São Carlos
+13565-583;Rua;Guilherme Frígori;Residencial Samambaia;SP;São Carlos
+13565-555;Rua;Guilherme Orlando Sabino;Residencial Samambaia;SP;São Carlos
+13573-250;Rua;Guilherme Simão Darezzo;Cidade Aracy;SP;São Carlos
+13565-520;Rua;Guttingen;Residencial Samambaia;SP;São Carlos
+13564-836;Rua;Haidêe da Silva Bianco;Loteamento Aracê de Santo Antonio II;SP;São Carlos
+13566-710;Rua;Haiti;Vila Brasília;SP;São Carlos
+13569-650;Rua;Doutor Hamilton Sérgio dos Santos Lima;Jardim Citelli;SP;São Carlos
+13564-869;Avenida;Heitor de Carvalho;Encontro Valparaíso I;SP;São Carlos
+13563-726;Rua;Helder Cândido Martinez;Jardim Santa Elisa;SP;São Carlos
+13566-412;Rua;Dom Hélder Pessoa Câmara;Jardim Santa Helena;SP;São Carlos
+13573-490;Avenida;Hélio Frigori;CEAT;SP;São Carlos
+13566-537;Alameda;dos Heliotropos;Cidade Jardim;SP;São Carlos
+13574-010;Rua;Professor Helvídeo Gouvea;Vila Boa Vista;SP;São Carlos
+13575-580;Rua;Doutor Hely Lopes Meirelles;Jardim das Torres;SP;São Carlos
+13568-830;Rua;Hend Cury;Conjunto Habitacional Dom Constantino Amstalden;SP;São Carlos
+13575-510;Rua;Henrique Alves Filho;Jardim das Torres;SP;São Carlos
+13568-480;Rua;Henrique Caruso;Jardim Santa Maria II;SP;São Carlos
+13575-000;Rua;Henrique Gregori;Vila Boa Vista 1;SP;São Carlos
+13575-878;Rua;Herbert de Souza;Romeu Santini;SP;São Carlos
+13567-090;Rua;Herculano Gomes;Jardim São João Batista;SP;São Carlos
+13572-530;Avenida;Hércules Sachi;Vila Santa Madre Cabrini;SP;São Carlos
+13569-517;Rua;Professor Hério Palo;Portal do Sol;SP;São Carlos
+13568-540;Rua;Hermano Bonfim da Silva;Jardim Munique;SP;São Carlos
+13562-480;Rua;Hermelin Altieri;Parque Sisi;SP;São Carlos
+13575-061;Rua;Hermínio Bernasconi;Jardim Beatriz;SP;São Carlos
+13567-290;Rua;Hermínio Chiari;Jardim Real;SP;São Carlos
+13568-874;Rua;Herminio Rodrigues Asenha;Parque Belvedere;SP;São Carlos
+13564-480;Rua;Irmã Hilaria Maria São Luiz;Jardim Hikare;SP;São Carlos
+13573-054;Rua;Hilário Martins Dias;Cidade Aracy;SP;São Carlos
+13563-827;Rua;Hildo Vallério;Loteamento Jardim Vista Alegre;SP;São Carlos
+13567-101;Rua;Hipólito José da Costa;Vila São José;SP;São Carlos
+13564-450;Rua;Imperador Hiroito;Jardim Hikare;SP;São Carlos
+13566-869;Rua;Homero Cardoso de Toledo;Tibaia de São Fernando;SP;São Carlos
+13563-755;Rua;Homero de Oliveira;Parque Fehr;SP;São Carlos
+13573-265;Rua;Homero de Oliveira Filho;Cidade Aracy;SP;São Carlos
+13566-760;Rua;Honduras;Vila Brasília;SP;São Carlos
+13566-533;Alameda;das Hortências;Cidade Jardim;SP;São Carlos
+13570-140;Rua;Hugo Constanzo;Jardim Nova São Carlos;SP;São Carlos
+13563-846;Rua;Hugo de Carli;Jardim Embaré;SP;São Carlos
+13570-630;Rua;Hugo Dornfeld;Vila Marcelino;SP;São Carlos
+13570-670;Rua;Humberto de Campos;Vila Lutfalla;SP;São Carlos
+13574-640;Rua;Humberto Manelli;Jardim Gibertoni;SP;São Carlos
+13568-210;Rua;Humberto Sorrigoti;Jardim Tangará;SP;São Carlos
+13572-010;Rua;Icaraí;Vila Morumbi;SP;São Carlos
+13568-663;Rua;Ilton Bis;Residencial Parque Douradinho;SP;São Carlos
+13568-160;Rua;Ilton Resitano;Jardim Tangará;SP;São Carlos
+13569-007;Rua;da Imprensa;Vila Faria;SP;São Carlos
+13572-151;Rua;Inaja;Jardim Cruzeiro do Sul;SP;São Carlos
+13566-581;Rua;dos Inconfidentes;Parque Arnold Schimidt;SP;São Carlos
+13566-480;Rua;Indalécio de Campos Pereira;Vila Celina;SP;São Carlos
+13566-501;Praça;da Independência;Cidade Jardim;SP;São Carlos
+13566-856;Passeio;dos Inhambus;Quinta dos Buritis;SP;São Carlos
+13560-190;Rua;de Visconde Inhaúma;Centro;SP;São Carlos
+13572-442;Avenida;Integração;Vila Monte Carlo;SP;São Carlos
+13561-392;Alameda;dos Iraúnas;Parque Faber Castell II;SP;São Carlos
+13568-769;Rua;Ireneu Couto;Residencial Itamarati;SP;São Carlos
+13568-825;Rua;Irineu Mello;Conjunto Habitacional Dom Constantino Amstalden;SP;São Carlos
+13575-062;Rua;Irineu Rios;Jardim Beatriz;SP;São Carlos
+13570-790;Rua;Santa Isabel;Vila Izabel;SP;São Carlos
+13561-140;Rua;Princesa Isabel;Jardim Paraíso;SP;São Carlos
+13568-831;Rua;Isabel de Souza Rios;Conjunto Habitacional Dom Constantino Amstalden;SP;São Carlos
+13572-274;Travessa;Isael Fernandes Ferreira;Jardim Gonzaga;SP;São Carlos
+13573-314;Rua;Isak Falgén;Loteamento Social Antenor Garcia;SP;São Carlos
+13563-603;Rua;Isidoro Frutuoso;Conjunto Habitacional Santa Angelina;SP;São Carlos
+13561-040;Rua;Isis Fernandes;Jardim Bethânia;SP;São Carlos
+13568-818;Rua;Ismael Pedro Branco;Residencial  Astolpho Luiz do Prado;SP;São Carlos
+13564-590;Rua;Itagibá Cardoso de Toledo;Jardim Hikare;SP;São Carlos
+13574-240;Rua;Itália;Vila Prado;SP;São Carlos
+13570-665;Rua;Itália;Vila Lutfalla;SP;São Carlos
+13564-610;Avenida;Ítalo Paino;Jardim Hikare;SP;São Carlos
+13563-485;Rua;Professor Ítalo Savelli;Jardim São Carlos 5;SP;São Carlos
+13563-004;Rua;Ítalo Tonissi;Loteamento Habitacional São Carlos 1;SP;São Carlos
+13563-265;Rua;Ítalo Waldomiro Gullo;Loteamento Municipal São Carlos 3;SP;São Carlos
+13569-500;Rua;Itirapina;Portal do Sol;SP;São Carlos
+13568-400;Rua;Deputada Ivete Vargas;Parque Residencial Maria Stella Faga;SP;São Carlos
+13571-603;Rua;Ivo Nildo Bellucci;Jardim de Cresci;SP;São Carlos
+13564-380;Rua;Iwagiro Toyama;Jardim Paulistano;SP;São Carlos
+13568-882;Rua;Izaino Vulcani;Parque Belvedere;SP;São Carlos
+13573-350;Rua;J;Jardim Social Presidente Collor;SP;São Carlos
+13561-354;Alameda;das Jaboticabeiras;Parque Faber Castell I;SP;São Carlos
+13566-888;Alameda;dos Jacarandás;Vale Santa Felicidade;SP;São Carlos
+13560-515;Rua;Jacinto Favoreto;Jardim Lutfalla;SP;São Carlos
+13560-462;Rua;Jacinto Favoreto;Jardim Macarengo;SP;São Carlos
+13567-430;Rua;Jacinto Palombo;Loteamento Albertini;SP;São Carlos
+13575-560;Rua;Professor Jair de Andrade;Jardim das Torres;SP;São Carlos
+13560-293;Rua;Jair Rodrigues Sampaio;Vila Monteiro (Gleba I);SP;São Carlos
+13573-534;Rua;Jair Valentim Pinatti;Parque Novo Mundo;SP;São Carlos
+13570-340;Travessa;Jairo Bianco;Vila Alpes;SP;São Carlos
+13573-273;Rua;Professora Janete Maria Martinelli Lia;Cidade Aracy;SP;São Carlos
+13566-517;Rua;dos Jasmins;Cidade Jardim;SP;São Carlos
+13566-891;Vereda;dos Jatobás;Vale Santa Felicidade;SP;São Carlos
+13573-282;Rua;Jayme Bruno;Cidade Aracy;SP;São Carlos
+13562-470;Rua;Jean Piaget;Parque Sisi;SP;São Carlos
+13566-892;Vereda;dos Jequitibás;Vale Santa Felicidade;SP;São Carlos
+13575-006;Rua;Jerônimo Costa Terra;Vila Boa Vista 1;SP;São Carlos
+13560-642;Rua;Jesuíno de Arruda;Jardim São Carlos;SP;São Carlos
+13569-300;Rua;Jesuíno de Arruda;Jardim Brasil;SP;São Carlos
+13564-270;Rua;Jesus Blanco Nunes;Parque Santa Marta;SP;São Carlos
+13571-380;Rua;João Abdelnur;Jardim Nova São Carlos;SP;São Carlos
+13573-286;Rua;João Alberto Caruso;Cidade Aracy;SP;São Carlos
+13562-025;Rua;Conselheiro João Alfredo;Planalto Paraíso;SP;São Carlos
+13561-110;Rua;Conselheiro João Alfredo;Jardim Paraíso;SP;São Carlos
+13567-040;Rua;João Antonio Boni;Jardim São João Batista;SP;São Carlos
+13568-698;Travessa;João Antônio Tornich;Residencial Parque Douradinho;SP;São Carlos
+13575-174;Rua;João Assef;Jardim Medeiros;SP;São Carlos
+13563-512;Rua;João Auad;Jardim São Carlos 5;SP;São Carlos
+13562-142;Rua;João Baptista de Toledo;Parque Paraíso;SP;São Carlos
+13564-305;Avenida;São João Batista;Parque Santa Marta;SP;São Carlos
+13567-015;Travessa;São João Batista;Jardim São João Batista;SP;São Carlos
+13568-410;Rua;João Batista Carri;Parque Residencial Maria Stella Faga;SP;São Carlos
+13571-270;Rua;João Batista de Aguiar;Recreio São Judas Tadeu;SP;São Carlos
+13566-604;Rua;João Batista de Arruda;Vila Brasília;SP;São Carlos
+13569-535;Rua;São João Batista de La Salle;Jardim Cardinalli;SP;São Carlos
+13565-535;Rua;Presidente João Belchior M. Goulart;Residencial Samambaia;SP;São Carlos
+13573-244;Rua;João Blotta;Cidade Aracy;SP;São Carlos
+13562-090;Rua;São João Bosco;Planalto Paraíso;SP;São Carlos
+13562-385;Rua;São João Bosco;Parque Santa Felícia Jardim;SP;São Carlos
+13564-680;Rua;João Bregagnolo;Parque Delta;SP;São Carlos
+13575-430;Rua;João Cozza;Jardim Botafogo 1;SP;São Carlos
+13574-005;Rua;João Cristofaro dos Reis;Vila Boa Vista;SP;São Carlos
+13563-777;Avenida;João Crnkovic;Parque Fehr;SP;São Carlos
+13563-120;Avenida;João Dagnone;Loteamento Habitacional São Carlos 1;SP;São Carlos
+13563-616;Rua;Professor João de Camargo Lima;Conjunto Habitacional Santa Angelina;SP;São Carlos
+13568-020;Rua;João de Campos Penteado;Jardim São Rafael;SP;São Carlos
+13563-006;Rua;João de Guzzi;Loteamento Habitacional São Carlos 1;SP;São Carlos
+13568-250;Avenida;João de Lourenço;Parque Residencial Maria Stella Faga;SP;São Carlos
+13575-450;Rua;Doutor João de Oliveira;Jardim Botafogo 1;SP;São Carlos
+13567-660;Alameda;São João Del Rey;Parque Sabará;SP;São Carlos
+13562-450;Rua;João Ferreira;Parque Sisi;SP;São Carlos
+13564-838;Avenida;João Formenton;Loteamento Aracê de Santo Antonio II;SP;São Carlos
+13570-320;Rua;João Francisco;Vila Alpes;SP;São Carlos
+13575-550;Rua;João Franco;Jardim das Torres;SP;São Carlos
+13575-891;Rua;João Frederico Biazetti;Romeu Santini;SP;São Carlos
+13568-665;Rua;João Garcia;Residencial Parque Douradinho;SP;São Carlos
+13571-140;Rua;Doutor João Gatti Neto;Núcleo Residencial Castelo Branco;SP;São Carlos
+13575-162;Rua;João Genovez;Jardim Medeiros;SP;São Carlos
+13573-212;Rua;João Jacintho de Oliveira;Cidade Aracy;SP;São Carlos
+13571-250;Rua;Professor João Jorge Marmorato;Azulville 2;SP;São Carlos
+13566-410;Rua;João Leopoldino;Vila Marina;SP;São Carlos
+13563-663;Rua;João Loreti;Jardim Ipanema;SP;São Carlos
+13572-203;Rua;João Lourenço;Vila Prado;SP;São Carlos
+13564-819;Praça;João Luciano;Loteamento Aracê de Santo Antonio I;SP;São Carlos
+13575-110;Rua;Major João Manoel de Campos Penteado;Jardim Beatriz;SP;São Carlos
+13573-224;Rua;João Martins Franca;Cidade Aracy;SP;São Carlos
+13574-245;Travessa;João Martins Ramos;Vila Prado;SP;São Carlos
+13575-670;Rua;João Mascarini;Jardim das Torres Prolongamento;SP;São Carlos
+13571-608;Rua;João Mira;Jardim de Cresci;SP;São Carlos
+13568-780;Rua;João Muniz;Residencial Itamarati;SP;São Carlos
+13563-714;Rua;João Navarro Siquerolli;Jardim Acapulco;SP;São Carlos
+13570-040;Rua;João Nave;Jardim Ricetti;SP;São Carlos
+13567-103;Avenida;João Neves Carneiro;Vila São José;SP;São Carlos
+13575-705;Rua;João Nicolas;Jardim Bicão;SP;São Carlos
+13563-823;Rua;João Nicoletti;Loteamento Jardim Vista Alegre;SP;São Carlos
+13567-201;Rua;João Nonato;Vila Nossa Senhora de Fátima;SP;São Carlos
+13560-170;Rua;João Oliveira Júnior;Centro;SP;São Carlos
+13563-840;Avenida;João Orlando Ruggiero;Jardim Embaré;SP;São Carlos
+13567-873;Rua;João Paravani;Residencial Américo Alves Margarido;SP;São Carlos
+13573-010;Rua;Cantor João Paulo;Cidade Aracy;SP;São Carlos
+13562-501;Rua;João Paulo Gomes;Residencial Monsenhor Romeu Tortorelli;SP;São Carlos
+13568-650;Rua;João Paulo Soares de Barros;Residencial Parque Douradinho;SP;São Carlos
+13575-866;Rua;João Pedrino;Romeu Santini;SP;São Carlos
+13573-278;Rua;João Prigensi;Cidade Aracy;SP;São Carlos
+13564-090;Rua;João Ramalho;Jardim Centenário;SP;São Carlos
+13574-390;Rua;João Ribeiro de Barros;Jardim Paulista;SP;São Carlos
+13575-140;Rua;João Ribeiro de Souza Filho;Jardim Beatriz;SP;São Carlos
+13575-273;Rua;João Rossetti;Jardim Medeiros;SP;São Carlos
+13570-324;Rua;Sargento João S Rocha Filho;Vila Alpes;SP;São Carlos
+13575-050;Rua;Doutor João Sabino;Vila Boa Vista 1;SP;São Carlos
+13563-003;Rua;João Schiavoni;Loteamento Habitacional São Carlos 1;SP;São Carlos
+13567-110;Rua;João Seba Vasseliades;Vila São José;SP;São Carlos
+13561-180;Rua;Maestro João Seppe;Jardim Paraíso;SP;São Carlos
+13562-530;Avenida;João Stella;Residencial Monsenhor Romeu Tortorelli;SP;São Carlos
+13564-440;Rua;João Tonissi;Jardim Hikare;SP;São Carlos
+13570-570;Rua;João Toselli;Jardim Mercedes;SP;São Carlos
+13570-550;Rua;João Villari;Jardim Mercedes;SP;São Carlos
+13566-899;Rua;João Vitor Ferreira Rosa;Vale Santa Felicidade;SP;São Carlos
+13574-470;Rua;Papa João XXIII;Jardim Paulista;SP;São Carlos
+13568-806;Rua;João Zopelari;Residencial  Astolpho Luiz do Prado;SP;São Carlos
+13560-300;Rua;São Joaquim;Vila Monteiro (Gleba I);SP;São Carlos
+13566-280;Rua;São Joaquim;Vila Costa do Sol;SP;São Carlos
+13572-542;Rua;Joaquim Antônio Zantut;Vila Conceição;SP;São Carlos
+13573-378;Rua;Joaquim Appel;Jardim Social Presidente Collor;SP;São Carlos
+13563-330;Rua;Joaquim Augusto Ribeiro de Souza;Parque Santa Felícia Jardim;SP;São Carlos
+13562-100;Rua;Joaquim Augusto Ribeiro de Souza;Planalto Paraíso;SP;São Carlos
+13571-630;Avenida;Joaquim Beltrame;Jardim Tijuca;SP;São Carlos
+13570-770;Rua;Padre Joaquim Botelho da Fonseca;Vila Izabel;SP;São Carlos
+13570-780;Rua;Padre Joaquim Cipriano de Camargo;Vila Izabel;SP;São Carlos
+13566-810;Rua;Joaquim da Cruz Penalva;Jardim São João Batista;SP;São Carlos
+13565-170;Rua;Joaquim da Mota;Jardim Jóckei Club A;SP;São Carlos
+13575-460;Rua;Joaquim da Rocha Medeiros;Vila Bela Vista;SP;São Carlos
+13565-580;Rua;Joaquim de Meira Botelho;Residencial Samambaia;SP;São Carlos
+13564-160;Rua;Conselheiro Joaquim Delfino;Jardim Centenário;SP;São Carlos
+13569-070;Rua;Joaquim Eduardo Catarino;Vila Rancho Velho;SP;São Carlos
+13570-640;Rua;Joaquim Evangelista de Toledo;Núcleo Residencial Silvio Vilari;SP;São Carlos
+13563-492;Rua;Joaquim Gabriel Penteado;Jardim São Carlos 5;SP;São Carlos
+13573-059;Rua;Joaquim Garcia de Oliveira;Cidade Aracy;SP;São Carlos
+13575-150;Rua;Joaquim Gonçalves Ledo;Jardim Beatriz;SP;São Carlos
+13570-782;Rua;Doutor Joaquim Inácio de Moraes;Vila Izabel;SP;São Carlos
+13567-710;Alameda;Joaquim José da Silva Xavier;Parque Sabará;SP;São Carlos
+13575-885;Rua;Joaquim Ninelli;Romeu Santini;SP;São Carlos
+13574-450;Rua;Joaquim Perez Fernandes;Jardim Paulista;SP;São Carlos
+13575-610;Avenida;Joaquim Roberto Rodrigues Freire;Jardim das Torres;SP;São Carlos
+13575-003;Rua;Doutor Joaquim Rodrigues de Siqueira;Vila Boa Vista 1;SP;São Carlos
+13574-008;Rua;Joaquim Solfa;Vila Boa Vista;SP;São Carlos
+13562-020;Rua;Doutor Jonas Novaes;Planalto Paraíso;SP;São Carlos
+13562-435;Rua;Doutor Jonas Novaes;Parque Santa Felícia Jardim;SP;São Carlos
+13568-801;Rua;Jorge Antonio Hildebrand;Residencial  Astolpho Luiz do Prado;SP;São Carlos
+13567-170;Rua;Jorge Assef;Chácara Parque Club;SP;São Carlos
+13565-811;Rua;Jorge Camargo;Jardim Guanabara;SP;São Carlos
+13566-695;Rua;Jorge Mancini;Vila Brasília;SP;São Carlos
+13568-658;Rua;Jorge Suquisaqui;Residencial Parque Douradinho;SP;São Carlos
+13564-110;Rua;Jorge Tibiriçá;Jardim Centenário;SP;São Carlos
+13570-720;Rua;José Albuquerque Vaz Granjo;Vila Irene;SP;São Carlos
+13566-586;Rua;José Alvarez Maciel;Parque Arnold Schimidt;SP;São Carlos
+13563-712;Rua;José Alves Margarido;Jardim Acapulco;SP;São Carlos
+13565-590;Rua;José Ângelo Marchi;Residencial Samambaia;SP;São Carlos
+13573-000;Avenida;José Antônio Migliato;Cidade Aracy;SP;São Carlos
+13570-820;Rua;Coronel José Augusto de Oliveira Salles;Vila Izabel;SP;São Carlos
+13571-792;Rua;José Augusto Ferrari;Loteamento Recreio Campestre;SP;São Carlos
+13570-080;Rua;José Barnabé;Jardim Ricetti;SP;São Carlos
+13574-300;Rua;José Benetti;Vila Prado;SP;São Carlos
+13564-803;Travessa;José Bogas;Loteamento Aracê de Santo Antonio I;SP;São Carlos
+13570-130;Rua;José Bonadio;Jardim Nova São Carlos;SP;São Carlos
+13560-610;Rua;José Bonifácio;Núcleo Residencial Silvio Vilari;SP;São Carlos
+13564-430;Rua;José Calijuri;Jardim Hikare;SP;São Carlos
+13565-210;Rua;José Cândido Ferreira;Jardim Jóckei Club A;SP;São Carlos
+13563-532;Rua;Padre José Carlos Di Mambro;Jardim São Carlos 5;SP;São Carlos
+13570-190;Rua;José Carlos Gonçalves Neto;Jardim Nova São Carlos;SP;São Carlos
+13570-653;Rua;José Carlos Silva Gomes;Núcleo Residencial Silvio Vilari;SP;São Carlos
+13570-450;Rua;José Casalle;Jardim São Paulo;SP;São Carlos
+13571-525;Rua;José Célico Galdino Ramos;Jardim Novo Horizonte;SP;São Carlos
+13571-400;Rua;José Censoni;Jardim Nova São Carlos;SP;São Carlos
+13569-540;Rua;José Cerri;Jardim Cardinalli;SP;São Carlos
+13570-787;Rua;José Corusse Carminé;Vila Izabel;SP;São Carlos
+13566-000;Rua;José de Alencar;Vila Costa do Sol;SP;São Carlos
+13567-510;Rua;José de Paula Lattanzio;Parque Primavera;SP;São Carlos
+13564-030;Rua;José Duarte de Souza;Jardim Santa Paula;SP;São Carlos
+13565-515;Rua;Doutor José Elizio de Oliveira Leite;Residencial Samambaia;SP;São Carlos
+13563-709;Rua;José Fabiano;Jardim Acapulco;SP;São Carlos
+13564-460;Rua;José Favoretto;Jardim Hikare;SP;São Carlos
+13573-188;Rua;José Felonta Sobrinho;Cidade Aracy;SP;São Carlos
+13572-520;Rua;José Fernandes Nunes;Vila Santa Madre Cabrini;SP;São Carlos
+13574-701;Rua;José Ferrari;Mirante da Bela Vista;SP;São Carlos
+13565-525;Rua;José Ferraz;Residencial Samambaia;SP;São Carlos
+13566-440;Rua;Professor José Ferraz Camargo;Vila Celina;SP;São Carlos
+13569-420;Avenida;José Ferro;Portal do Sol;SP;São Carlos
+13571-080;Rua;José Fontoura Costa;Núcleo Residencial Castelo Branco;SP;São Carlos
+13569-450;Avenida;José Fortuna;Portal do Sol;SP;São Carlos
+13573-143;Rua;José Francisco Bicaletto;Cidade Aracy;SP;São Carlos
+13573-230;Rua;José Freitas de Souza;Cidade Aracy;SP;São Carlos
+13573-116;Rua;José Galucci;Cidade Aracy;SP;São Carlos
+13564-020;Rua;José Garcia Toledo;Parque Arnold Schimidt;SP;São Carlos
+13575-100;Rua;Professor José Geraldo Keppe;Jardim Beatriz;SP;São Carlos
+13573-312;Rua;José Geraldo Machado;Loteamento Social Antenor Garcia;SP;São Carlos
+13573-003;Avenida;José Gianlorenço;Cidade Aracy;SP;São Carlos
+13571-609;Rua;José Gianotti;Jardim de Cresci;SP;São Carlos
+13561-220;Avenida;José Gonçalves Carneiro;Parque Santa Mônica;SP;São Carlos
+13568-635;Rua;José Gonçalves de Oliveira;Residencial Parque Douradinho;SP;São Carlos
+13575-886;Rua;José Guilherme Camargo de Toledo;Romeu Santini;SP;São Carlos
+13566-360;Rua;José Gullo;Vila Marina;SP;São Carlos
+13560-160;Rua;Major José Inácio;Centro;SP;São Carlos
+13560-161;Rua;Major José Inácio;Centro;SP;São Carlos
+13560-162;Rua;Major José Inácio;Centro;SP;São Carlos
+13569-010;Rua;Major José Inácio;Vila Faria;SP;São Carlos
+13563-240;Rua;José Innocentini;Loteamento Habitacional São Carlos 2;SP;São Carlos
+13571-290;Rua;José Jorge Abi Saab;Jardim Maracanã;SP;São Carlos
+13575-713;Rua;José Laurimir Laurindo Leandro;Jardim Bicão;SP;São Carlos
+13567-100;Rua;José Lemes Marques;Vila São José;SP;São Carlos
+13562-270;Rua;Padre José Lopes de Oliveira;Jardim Bandeirantes;SP;São Carlos
+13563-660;Rua;José Loreti;Jardim Ipanema;SP;São Carlos
+13573-194;Rua;José Lotumulo;Cidade Aracy;SP;São Carlos
+13563-752;Rua;José Luiz Caron;Parque Fehr;SP;São Carlos
+13570-030;Rua;José Luiz Olaio;Jardim Ricetti;SP;São Carlos
+13570-831;Rua;José Mancini;Parque São José;SP;São Carlos
+13574-500;Rua;José Mancini;Jardim Paulista;SP;São Carlos
+13560-005;Praça;Dom José Marcondes;Centro;SP;São Carlos
+13573-362;Rua;José Mário Gonçalves;Jardim Social Presidente Collor;SP;São Carlos
+13569-570;Rua;Vereador José Mariutti Seppe;Jardim Cardinalli;SP;São Carlos
+13563-654;Rua;Ferroviário José Marrara;Jardim Ipanema;SP;São Carlos
+13569-560;Rua;José Marrara;Jardim Cardinalli;SP;São Carlos
+13568-633;Rua;José Martinelli;Residencial Parque Douradinho;SP;São Carlos
+13568-170;Rua;José Maximiniano Júnior;Jardim Tangará;SP;São Carlos
+13569-400;Rua;José Meirelles;Jardim Nossa Senhora Aparecida;SP;São Carlos
+13575-465;Travessa;José Messias;Vila Bela Vista;SP;São Carlos
+13563-382;Rua;José Miguel Deriggi;Loteamento Municipal São Carlos 4;SP;São Carlos
+13562-060;Rua;José Missali;Planalto Paraíso;SP;São Carlos
+13562-405;Rua;José Missali;Parque Santa Felícia Jardim;SP;São Carlos
+13570-150;Rua;José Morachi;Jardim Nova São Carlos;SP;São Carlos
+13568-510;Rua;José Nazzari;Jardim Munique;SP;São Carlos
+13571-280;Rua;Doutor José Neubert de Oliveira;Recreio São Judas Tadeu;SP;São Carlos
+13574-570;Rua;José Nunes;Jardim Gibertoni;SP;São Carlos
+13573-500;Rua;José Nunes de Andrade;Parque Novo Mundo;SP;São Carlos
+13562-160;Rua;José Palone;Jardim Bandeirantes;SP;São Carlos
+13573-124;Rua;José Paulillo;Cidade Aracy;SP;São Carlos
+13573-430;Rua;Doutor José Paulo Spallini;CEAT;SP;São Carlos
+13568-675;Rua;José Pedrino;Residencial Parque Douradinho;SP;São Carlos
+13569-705;Rua;José Pepino;Parque dos Timburis;SP;São Carlos
+13574-380;Avenida;José Pereira Lopes;Vila Prado;SP;São Carlos
+13575-380;Avenida;José Pereira Lopes;Jardim Botafogo 1;SP;São Carlos
+13562-280;Rua;José Pereira Pinheiro;Jardim Bandeirantes;SP;São Carlos
+13568-705;Travessa;José Perseghini;Residencial Parque Douradinho;SP;São Carlos
+13572-320;Rua;José Picolo;Jardim Santa Tereza;SP;São Carlos
+13568-100;Rua;Vereador José Pinheiro Filho;Jardim Tangará;SP;São Carlos
+13570-580;Rua;José Pisteli;Jardim Mercedes;SP;São Carlos
+13569-700;Avenida;José Poianas;Parque dos Timburis;SP;São Carlos
+13563-517;Rua;José Quatrochi;Jardim São Carlos 5;SP;São Carlos
+13573-562;Rua;José Raimundo;Residencial Deputado José Zavaglia;SP;São Carlos
+13575-420;Rua;José Renato de Godoy;Jardim Botafogo 1;SP;São Carlos
+13565-560;Rua;José Riga;Residencial Samambaia;SP;São Carlos
+13560-710;Rua;José Rodrigues Sampaio;Centreville;SP;São Carlos
+13573-192;Rua;José Rohrer Filho;Cidade Aracy;SP;São Carlos
+13570-370;Rua;José Saia;Vila Alpes;SP;São Carlos
+13572-404;Rua;José Scalla;Vila Monte Carlo;SP;São Carlos
+13575-896;Rua;José Sudano Neto;Romeu Santini;SP;São Carlos
+13562-440;Rua;José Teixeira;Parque Sisi;SP;São Carlos
+13562-490;Rua;José Teixeira Filho;Parque Sisi;SP;São Carlos
+13568-500;Rua;José Tiberti;Jardim Munique;SP;São Carlos
+13568-810;Rua;José Ventura Medeiros;Residencial  Astolpho Luiz do Prado;SP;São Carlos
+13573-216;Rua;José Vicente de Vitta;Cidade Aracy;SP;São Carlos
+13571-210;Travessa;Doutor José Vinciguerra;Azulville 2;SP;São Carlos
+13563-864;Rua;José Vitor da Silva;Jardim Embaré;SP;São Carlos
+13573-398;Avenida;José Zagato;Jardim Social Presidente Collor;SP;São Carlos
+13573-400;Rua;José Zanetti;CEAT;SP;São Carlos
+13573-095;Rua;José Zavaglia;Cidade Aracy;SP;São Carlos
+13567-888;Rua;Josephina Barbieri Cardinali;Residencial Américo Alves Margarido;SP;São Carlos
+13569-050;Rua;Josué Marques Martins;Vila Rancho Velho;SP;São Carlos
+13563-618;Rua;Joviano Alves Margarido;Conjunto Habitacional Santa Angelina;SP;São Carlos
+13567-020;Rua;Juan Lopes;Jardim São João Batista;SP;São Carlos
+13575-080;Rua;Juca Sabino;Jardim Beatriz;SP;São Carlos
+13564-540;Rua;Juliano Parolo;Jardim Hikare;SP;São Carlos
+13570-828;Rua;Julião José dos Santos;Conjunto Habitacional Waldomiro Lobbe Sobrinho;SP;São Carlos
+13563-504;Rua;Professor Júlio Bruno;Jardim São Carlos 5;SP;São Carlos
+13563-350;Rua;Júlio Cassin Filho;Parque Santa Felícia Jardim;SP;São Carlos
+13573-071;Rua;Julio Cezar Marchetti;Cidade Aracy;SP;São Carlos
+13569-160;Rua;Júlio Constantino;Chácara Parque Club;SP;São Carlos
+13562-210;Rua;Júlio Faga;Jardim Bandeirantes;SP;São Carlos
+13575-005;Rua;Desembargador Júlio Faria;Vila Boa Vista 1;SP;São Carlos
+13574-250;Rua;Desembargador Júlio Faria;Vila Prado;SP;São Carlos
+13567-232;Rua;Júlio Prestes de Albuquerque;Vila Jacobucci;SP;São Carlos
+13572-150;Rua;Júlio Rizzo;Jardim Cruzeiro do Sul;SP;São Carlos
+13574-520;Rua;Júlio Rocha;Jardim Paulista;SP;São Carlos
+13561-010;Rua;Major Júlio Salles;Centro;SP;São Carlos
+13570-634;Rua;Professor Jullien Fauvel;Núcleo Residencial Silvio Vilari;SP;São Carlos
+13562-230;Rua;Frei Junipero Serra;Jardim Bandeirantes;SP;São Carlos
+13571-410;Avenida;Presidente Juscelino Kubitschek;Jardim Nova São Carlos;SP;São Carlos
+13567-650;Avenida;Presidente Juscelino Kubitschek de Oliveira;Parque Sabará;SP;São Carlos
+13571-230;Rua;Professor Juvenal Jacques;Azulville 2;SP;São Carlos
+13568-812;Rua;Vereador Juvenal Silva;Residencial  Astolpho Luiz do Prado;SP;São Carlos
+13568-535;Rua;Karl Hermann Tatsch;Jardim Munique;SP;São Carlos
+13561-382;Alameda;das Laranjeiras;Parque Faber Castell I;SP;São Carlos
+13563-652;Rua;Laura Villani Piovesan;Jardim Ipanema;SP;São Carlos
+13568-655;Rua;Lauriberto Duarte;Residencial Parque Douradinho;SP;São Carlos
+13561-215;Rua;Doutor Lauro Corsi;Parque Santa Mônica;SP;São Carlos
+13571-621;Rua;Lázaro Cândido Filho;Jardim de Cresci;SP;São Carlos
+13568-660;Rua;Lázaro Rodrigues da Silva;Residencial Parque Douradinho;SP;São Carlos
+13573-210;Rua;Lázaro Santos;Cidade Aracy;SP;São Carlos
+13562-522;Rua;Leonardo Carlos de A. Botelho;Residencial Monsenhor Romeu Tortorelli;SP;São Carlos
+13573-162;Rua;Leonardo Foschini;Cidade Aracy;SP;São Carlos
+13563-862;Rua;Leonardo Petrilli;Jardim Embaré;SP;São Carlos
+13575-520;Rua;Leôncio Zambel;Jardim das Torres;SP;São Carlos
+13575-176;Rua;Leonidas Couto da Silva;Jardim Medeiros;SP;São Carlos
+13563-522;Rua;Leônidas Couto da Silva;Jardim São Carlos 5;SP;São Carlos
+13575-656;Rua;Leontino Pires;Jardim das Torres Prolongamento;SP;São Carlos
+13574-170;Rua;Coronel Leopoldo Prado;Vila Prado;SP;São Carlos
+13575-640;Rua;Coronel Leopoldo Prado;Jardim Santa Tereza;SP;São Carlos
+13564-331;Avenida;Liberdade;Jardim Nova Santa Paula;SP;São Carlos
+13564-340;Rua;Liborio Marino;Jardim Nova Santa Paula;SP;São Carlos
+13574-220;Travessa;Lincoln Jordão;Vila Prado;SP;São Carlos
+13573-518;Rua;Linda Marquezini Balestrero;Parque Novo Mundo;SP;São Carlos
+13568-645;Rua;Lindo Alexandrino;Residencial Parque Douradinho;SP;São Carlos
+13563-842;Rua;Lino Barros de Moura;Jardim Embaré;SP;São Carlos
+13563-716;Rua;Lino Rizzo da Fonseca;Jardim Acapulco;SP;São Carlos
+13566-370;Rua;Lions Club;Vila Marina;SP;São Carlos
+13566-514;Rua;dos Lírios;Cidade Jardim;SP;São Carlos
+13574-630;Rua;Liziero Genovez;Jardim Gibertoni;SP;São Carlos
+13563-534;Rua;Loengrin Marino;Jardim São Carlos 5;SP;São Carlos
+13575-876;Rua;Lourdes Monteiro Triques;Romeu Santini;SP;São Carlos
+13563-617;Rua;Lourenço Cerri;Conjunto Habitacional Santa Angelina;SP;São Carlos
+13567-620;Rua;Lourenço Inocentini;Parque Sabará;SP;São Carlos
+13573-154;Rua;Lourenço Mascarin;Cidade Aracy;SP;São Carlos
+13566-844;Rua;Lourival Lourenço Musetti;Loteamento Tutoya do Vale;SP;São Carlos
+13569-380;Rua;Lucas Perroni;Jardim Nossa Senhora Aparecida;SP;São Carlos
+13563-665;Rua;Vereador Lucas Perroni Júnior;Jardim Ipanema;SP;São Carlos
+13568-715;Avenida;Luciano Eduardo Félix;Residencial Parque Douradinho;SP;São Carlos
+13568-837;Rua;Monsenhor Lúcio Bordignon;Conjunto Habitacional Dom Constantino Amstalden;SP;São Carlos
+13572-201;Rua;Lúcio Rodrigues;Vila Prado;SP;São Carlos
+13567-520;Rua;Professora Lucrecia Placco;Parque Primavera;SP;São Carlos
+13573-160;Rua;Lucy Serillo;Cidade Aracy;SP;São Carlos
+13564-580;Rua;Luigi Mazziero;Jardim Hikare;SP;São Carlos
+13571-612;Rua;Luis Issa Jorge;Jardim de Cresci;SP;São Carlos
+13564-805;Travessa;Luis Picharillo;Loteamento Aracê de Santo Antonio I;SP;São Carlos
+13563-856;Rua;Luis Picon;Jardim Embaré;SP;São Carlos
+13571-633;Rua;Luis Rodrigues da Silva;Jardim Tijuca;SP;São Carlos
+13563-800;Rua;Luís Schevz;Residencial Parati;SP;São Carlos
+13575-800;Rua;Luiz Arnaldo Wenzel;Jardim Social Belvedere;SP;São Carlos
+13573-600;Rodovia;Luiz Augusto de Oliveira;São Carlos Science Park;SP;São Carlos
+13566-340;Avenida;Professor Luiz Augusto de Oliveira;Vila Marina;SP;São Carlos
+13562-330;Rua;Luiz Barbosa de Campos;Jardim Alvorada;SP;São Carlos
+13567-080;Rua;Luiz Bertollo;Jardim São João Batista;SP;São Carlos
+13567-181;Avenida;Capitão Luiz Brandão;Vila Vista Alegre;SP;São Carlos
+13568-450;Avenida;Capitão Luiz Brandão;Jardim Santa Maria II;SP;São Carlos
+13563-536;Rua;Luiz Carlos Barion;Jardim São Carlos 5;SP;São Carlos
+13562-511;Rua;Luiz Carlos Bortolani;Residencial Monsenhor Romeu Tortorelli;SP;São Carlos
+13573-264;Rua;Luiz Carlos Caromano;Cidade Aracy;SP;São Carlos
+13574-009;Rua;Luiz Carlos de Arruda Mendes;Vila Boa Vista;SP;São Carlos
+13575-666;Rua;Luiz Corneta;Jardim das Torres Prolongamento;SP;São Carlos
+13571-050;Rua;Luiz Fernandes Musetti;Jardim Dona Francisca;SP;São Carlos
+13575-868;Rua;Luiz Francisco Lui;Romeu Santini;SP;São Carlos
+13574-370;Rua;Luiz Gama;Vila Prado;SP;São Carlos
+13575-360;Rua;Luiz Gama;Vila Carmem;SP;São Carlos
+13575-684;Rua;Luiz Gonzaga Segnini;Jardim das Torres Prolongamento;SP;São Carlos
+13568-260;Rua;Luiz Gualtieri;Parque Residencial Maria Stella Faga;SP;São Carlos
+13569-355;Avenida;Luiz Inácio da Silva;Jardim Nossa Senhora Aparecida;SP;São Carlos
+13564-834;Rua;Luiz Justimiano;Loteamento Aracê de Santo Antonio II;SP;São Carlos
+13566-670;Rua;Luiz Lázaro Zamenhof;Vila Brasília;SP;São Carlos
+13568-838;Rua;Luiz Luchesi Filho;Conjunto Habitacional Dom Constantino Amstalden;SP;São Carlos
+13569-704;Rua;Doutor Luiz Maia;Parque dos Timburis;SP;São Carlos
+13566-609;Rua;Luiz Martins Rodrigues;Vila Brasília;SP;São Carlos
+13573-358;Rua;Luiz Mascarim;Jardim Social Presidente Collor;SP;São Carlos
+13575-875;Rua;Luiz Masson;Romeu Santini;SP;São Carlos
+13572-120;Rua;Luiz Mathias;Jardim Cruzeiro do Sul;SP;São Carlos
+13573-085;Rua;Luiz Ollay;Cidade Aracy;SP;São Carlos
+13575-808;Rua;Luiz Osias de Syllos;Jardim Social Belvedere;SP;São Carlos
+13563-808;Rua;Luiz Paulillo Filho;Residencial Parati;SP;São Carlos
+13573-302;Rua;Luiz Paulino dos Santos;Loteamento Social Antenor Garcia;SP;São Carlos
+13563-302;Rua;Luiz Pedro Biachini;Parque Santa Felícia Jardim;SP;São Carlos
+13563-301;Rua;Luiz Procópio Araújo Ferraz;Parque Santa Felícia Jardim;SP;São Carlos
+13563-262;Rua;Luiz Rodrigues Sampaio;Loteamento Municipal São Carlos 3;SP;São Carlos
+13570-002;Rua;Luiz Roher;Jardim Ricetti;SP;São Carlos
+13575-680;Rua;Professor Doutor Luiz Romariz Duarte;Jardim das Torres Prolongamento;SP;São Carlos
+13564-010;Rua;Luiz Saia;Parque Arnold Schimidt;SP;São Carlos
+13568-380;Rua;Major Luiz Tavares Bastos;Parque Residencial Maria Stella Faga;SP;São Carlos
+13568-605;Rua;Luiz Tiberti;Jardim Munique;SP;São Carlos
+13566-448;Rua;Luiz Vaz de Camões;Vila Celina;SP;São Carlos
+13560-520;Rua;Luiz Vaz de Toledo Piza;Jardim Lutfalla;SP;São Carlos
+13563-880;Rua;Professora Luiza Galvão;Jardim Embaré;SP;São Carlos
+13564-830;Rua;Luiza Miranda da Silva;Loteamento Aracê de Santo Antonio II;SP;São Carlos
+13566-866;Rua;Luzia de Almeida Rollo Carneiro;Chácara Leila;SP;São Carlos
+13572-544;Rua;Lydia Mathias Pisani;Vila Conceição;SP;São Carlos
+13570-673;Rua;Machado de Assis;Vila Lutfalla;SP;São Carlos
+13560-370;Rua;Machado Rolemberg;Vila Arnaldo;SP;São Carlos
+13566-854;Passeio;dos Macucos;Quinta dos Buritis;SP;São Carlos
+13561-381;Passeio;das Magnólias;Parque Faber Castell I;SP;São Carlos
+13566-896;Alameda;dos Manacás da Serra;Vale Santa Felicidade;SP;São Carlos
+13561-398;Alameda;dos Mandarins;Parque Faber Castell II;SP;São Carlos
+13570-821;Praça;das Mangueiras;Conjunto Habitacional Waldomiro Lobbe Sobrinho;SP;São Carlos
+13561-355;Alameda;das Mangueiras;Parque Faber Castell I;SP;São Carlos
+13575-002;Rua;Capitão Manoel Alves Carneiro;Vila Boa Vista 1;SP;São Carlos
+13560-831;Rua;Major Manoel Antônio de Mattos;Jardim Ricetti;SP;São Carlos
+13560-410;Rua;Major Manoel Antônio de Mattos;Jardim Brasil;SP;São Carlos
+13567-070;Rua;Manoel da Silva Ferreira;Jardim São João Batista;SP;São Carlos
+13563-705;Rua;Manoel de Oliveira Ordonho;Jardim Acapulco;SP;São Carlos
+13575-708;Rua;Manoel Dias;Jardim Bicão;SP;São Carlos
+13571-220;Rua;Manoel Duarte;Azulville 2;SP;São Carlos
+13568-490;Rua;Doutor Manoel Fragoas;Jardim Santa Maria II;SP;São Carlos
+13563-510;Rua;Manoel Gomes;Jardim São Carlos 5;SP;São Carlos
+13573-118;Rua;Manoel Joaquim;Cidade Aracy;SP;São Carlos
+13562-070;Rua;Manoel José Serpa;Planalto Paraíso;SP;São Carlos
+13562-395;Rua;Manoel José Serpa;Parque Santa Felícia Jardim;SP;São Carlos
+13571-515;Rua;Manoel Lembo;Jardim Novo Horizonte;SP;São Carlos
+13572-310;Rua;Manoel M. Carlos Pinto;Jardim Santa Tereza;SP;São Carlos
+13568-550;Rua;Manoel Martins;Jardim Munique;SP;São Carlos
+13571-030;Rua;Manoel Martins Dias;Jardim Dona Francisca;SP;São Carlos
+13575-178;Avenida;Manoel Monteiro Gutierrez;Jardim Medeiros;SP;São Carlos
+13568-863;Rua;Manoel Pereira;Jardim dos Coqueiros;SP;São Carlos
+13563-065;Rua;Manoel Pereira Ferreira;Loteamento Habitacional São Carlos 1;SP;São Carlos
+13570-004;Rua;Manoel Peres Dias;Jardim Ricetti;SP;São Carlos
+13572-510;Rua;Manoel Wenzel;Vila Santa Madre Cabrini;SP;São Carlos
+13572-390;Avenida;Maranhão;Jardim Pacaembu;SP;São Carlos
+13575-570;Avenida;Marcello Foccorini;Jardim das Torres;SP;São Carlos
+13573-580;Rua;Marcelo José Marques Chiosea;Residencial Deputado José Zavaglia;SP;São Carlos
+13571-330;Rua;Marcílio A. Ferreira;Jardim Maracanã;SP;São Carlos
+13570-322;Rua;Marcílio Barbieri;Vila Alpes;SP;São Carlos
+13574-032;Rua;Marcílio Dias;Vila Prado;SP;São Carlos
+13566-413;Travessa;Professor Márcio Antonio Codignoli;Jardim Santa Helena;SP;São Carlos
+13575-265;Rua;Marcolina Lima Machado;Jardim Medeiros;SP;São Carlos
+13560-299;Rua;Marcolino Lopes Barreto;Vila Monteiro (Gleba I);SP;São Carlos
+13560-400;Rua;Marcolino Lopes Barreto;Centreville;SP;São Carlos
+13566-210;Rua;Marcolino Lopes Barreto;Vila Costa do Sol;SP;São Carlos
+13574-023;Rua;Marcolino Pelicano;Vila Pelicano;SP;São Carlos
+13563-304;Rua;Marcus Vinícius de Mello Moraes;Parque Santa Felícia Jardim;SP;São Carlos
+13566-543;Rua;das Margaridas;Cidade Jardim;SP;São Carlos
+13569-550;Rua;Professora Maria Angélica Marcondes;Jardim Cardinalli;SP;São Carlos
+13568-683;Rua;Maria Aparecida Jacinto de Moraes;Residencial Parque Douradinho;SP;São Carlos
+13571-607;Rua;Maria Bernardete R. Ferrari;Jardim de Cresci;SP;São Carlos
+13568-880;Rua;Maria Broggio Asenha;Parque Belvedere;SP;São Carlos
+13563-506;Rua;Dona Maria Cecília Botelho Ferraz;Jardim São Carlos 5;SP;São Carlos
+13575-718;Avenida;Maria Consuelo Brandão Tolentino;Jardim Bicão;SP;São Carlos
+13568-693;Travessa;Maria da Conceição Hermes;Residencial Parque Douradinho;SP;São Carlos
+13573-024;Rua;Maria das Graças Tagliatella Custódio;Cidade Aracy;SP;São Carlos
+13563-820;Avenida;Professora Maria de Cresci Leopoldino;Condomínio Residencial Montreal;SP;São Carlos
+13568-773;Rua;Maria do Carmo Bertolazo Barros;Residencial Itamarati;SP;São Carlos
+13567-892;Rua;Maria do Pinho Alves Margarido;Residencial Américo Alves Margarido;SP;São Carlos
+13573-304;Rua;Maria Eugenia Fabiano;Loteamento Social Antenor Garcia;SP;São Carlos
+13572-215;Praça;Dona Maria Gertrudes de Arruda;Vila Sonia;SP;São Carlos
+13564-260;Rua;Maria Hermínia Sasso Garcia;Parque Santa Marta;SP;São Carlos
+13569-265;Rua;Dona Maria Izabel de Oliveira Botelho;Jardim Brasil;SP;São Carlos
+13561-120;Rua;Dona Maria Jacinta;Jardim Paraíso;SP;São Carlos
+13568-804;Rua;Maria Madalena Kaneblay Savio;Residencial  Astolpho Luiz do Prado;SP;São Carlos
+13563-835;Rua;Maria Sanches Darezzo;Loteamento Jardim Vista Alegre;SP;São Carlos
+13569-600;Rua;Irmã Maria São Félix;Jardim Cardinalli;SP;São Carlos
+13560-260;Travessa;Maria Stella Giannotti Savelli;Centro;SP;São Carlos
+13575-700;Rua;Maria Stella Grassi Reali;Jardim Bicão;SP;São Carlos
+13566-200;Rua;Maria Tavares Leandro;Vila Costa do Sol;SP;São Carlos
+13568-180;Rua;Maria Vilani Petrilli;Jardim Tangará;SP;São Carlos
+13567-680;Alameda;Mariana;Parque Sabará;SP;São Carlos
+13575-485;Rua;Mariana Prado Leite Gussen;Jardim das Torres;SP;São Carlos
+13567-030;Rua;Mariano Garcia Carrasco;Jardim São João Batista;SP;São Carlos
+13567-640;Rua;Doutor Marino Costa Terra;Parque Sabará;SP;São Carlos
+13570-833;Rua;Marino Pellegrini;Parque São José;SP;São Carlos
+13561-081;Rua;Mário Azevedo Correa;Jardim Paraíso;SP;São Carlos
+13560-048;Rua;Mário Constanzo;Centro;SP;São Carlos
+13563-860;Rua;Mario de Cico;Jardim Embaré;SP;São Carlos
+13569-395;Rua;Mário de Santi;Jardim Nossa Senhora Aparecida;SP;São Carlos
+13567-420;Rua;Doutor Mário Duarte de Souza;Loteamento Albertini;SP;São Carlos
+13563-872;Rua;Mario Ferreira;Jardim Embaré;SP;São Carlos
+13575-703;Rua;Professor Mário Franca Carri;Jardim Bicão;SP;São Carlos
+13571-600;Avenida;Mário Gaspar;Jardim de Cresci;SP;São Carlos
+13570-380;Rua;Mário Luchesi;Jardim São Paulo;SP;São Carlos
+13570-760;Rua;Mário Migliato;Vila Irene;SP;São Carlos
+13575-270;Rua;Mário Pinotti;Jardim Medeiros;SP;São Carlos
+13563-270;Rua;Mário Pisani;Loteamento Municipal São Carlos 3;SP;São Carlos
+13573-018;Rua;Mário Rossi;Cidade Aracy;SP;São Carlos
+13568-793;Rua;Mário Sebin;Residencial Itamarati;SP;São Carlos
+13573-396;Avenida;Marisete Terezinha Santiago de Santi;Jardim Social Presidente Collor;SP;São Carlos
+13573-026;Rua;Maristela Tagliatella Custódio;Cidade Aracy;SP;São Carlos
+13568-648;Rua;Mariswaldo Ruggiero;Residencial Parque Douradinho;SP;São Carlos
+13575-020;Rua;Martim Luther King;Vila Boa Vista 1;SP;São Carlos
+13571-040;Rua;Martinho Arruda Botelho do Pinhal;Jardim Dona Francisca;SP;São Carlos
+13573-374;Rua;Martiniano de Castro Júnior;Jardim Social Presidente Collor;SP;São Carlos
+13571-180;Rua;Massao Matubaro;Azulville I;SP;São Carlos
+13572-541;Rua;Maurício Valente Osório;Vila Conceição;SP;São Carlos
+13565-565;Rua;Mauro Dias Correia;Residencial Samambaia;SP;São Carlos
+13571-636;Rua;Mauro Sciasci;Jardim Tijuca;SP;São Carlos
+13568-790;Rua;Mauro Tomazi;Residencial Itamarati;SP;São Carlos
+13563-763;Rua;Mautílio Bruno;Parque Fehr;SP;São Carlos
+13570-654;Rua;Melvin Jones;Núcleo Residencial Silvio Vilari;SP;São Carlos
+13568-270;Rua;dos Metalúrgicos;Parque Residencial Maria Stella Faga;SP;São Carlos
+13566-780;Rua;México;Vila Brasília;SP;São Carlos
+13563-702;Avenida;Miguel Abdenur Filho;Jardim Acapulco;SP;São Carlos
+13566-580;Rua;Miguel Alves Margarido;Parque Arnold Schimidt;SP;São Carlos
+13570-590;Rua;Miguel Barros;Vila Marcelino;SP;São Carlos
+13574-200;Rua;Miguel Dahma;Vila Prado;SP;São Carlos
+13565-814;Avenida;Miguel Damha;Jardim Guanabara;SP;São Carlos
+13563-609;Rua;Miguel Donófrio;Conjunto Habitacional Santa Angelina;SP;São Carlos
+13563-130;Rua;Miguel Fucci;Loteamento Habitacional São Carlos 1;SP;São Carlos
+13566-180;Rua;Miguel Giomett;Vila Costa do Sol;SP;São Carlos
+13560-361;Rua;Miguel Giometti;Vila Arnaldo;SP;São Carlos
+13562-180;Rua;Miguel João;Jardim Bandeirantes;SP;São Carlos
+13565-570;Rua;Miguel Mazzei;Residencial Samambaia;SP;São Carlos
+13568-668;Rua;Miguel Petrilli;Residencial Parque Douradinho;SP;São Carlos
+13563-470;Rua;Miguel Petroni;Loteamento Habitacional São Carlos 1;SP;São Carlos
+13562-190;Rua;Miguel Petroni;Jardim Bandeirantes;SP;São Carlos
+13561-002;Rua;Miguel Petroni;Centro;SP;São Carlos
+13563-668;Rua;Miguel Petrucelli;Jardim Ipanema;SP;São Carlos
+13573-019;Rua;Miguel Rodrigues;Cidade Aracy;SP;São Carlos
+13571-523;Rua;Miguel Ruggiero;Jardim Novo Horizonte;SP;São Carlos
+13567-540;Rua;Miguel Vaccari;Parque Primavera;SP;São Carlos
+13563-613;Rua;Miltinho Olaio;Conjunto Habitacional Santa Angelina;SP;São Carlos
+13570-656;Rua;Milton Micucci;Núcleo Residencial Silvio Vilari;SP;São Carlos
+13566-544;Alameda;dos Miosótis;Cidade Jardim;SP;São Carlos
+13570-330;Rua;Moacir Geraldo Moruzzi;Vila Alpes;SP;São Carlos
+13568-857;Rua;Professor Moacir Moreira Cezar;Jardim dos Coqueiros;SP;São Carlos
+13563-070;Rua;Moacyr Alves Herrman;Loteamento Habitacional São Carlos 1;SP;São Carlos
+13568-530;Avenida;Moisés Esteves Torres;Jardim Munique;SP;São Carlos
+13567-310;Rua;Moisés João Mussa;Jardim Real;SP;São Carlos
+13569-290;Rua;Monteiro Lobato;Jardim Brasil;SP;São Carlos
+13562-504;Rua;Doutor Morency Arouca;Residencial Monsenhor Romeu Tortorelli;SP;São Carlos
+13572-000;Avenida;Morumbi;Vila Morumbi;SP;São Carlos
+13566-080;Rua;Professor Mozart de Santos Mello;Vila Costa do Sol;SP;São Carlos
+13573-586;Estrada;Municipal;Residencial Deputado José Zavaglia;SP;São Carlos
+13566-877;Estrada;Municipal;Tibaia de São Fernando;SP;São Carlos
+13566-861;Estrada;Municipal;Quinta dos Buritis;SP;São Carlos
+13566-435;Rua;Municipal;Jardim Macarengo;SP;São Carlos
+13573-268;Rua;Munir Rachid;Cidade Aracy;SP;São Carlos
+13563-805;Rua;Murillo Cassinelli Porto;Residencial Parati;SP;São Carlos
+13572-082;Rua;Nações Unidas;Jardim Cruzeiro do Sul;SP;São Carlos
+13568-840;Avenida;Nahim Cury;Conjunto Habitacional Dom Constantino Amstalden;SP;São Carlos
+13575-674;Rua;Nair Apparecida Brunelli Terroni;Jardim das Torres Prolongamento;SP;São Carlos
+13566-429;Rua;da Nanotecnologia;Parque Espraiado;SP;São Carlos
+13566-040;Rua;Napoleão Germiniano;Vila Costa do Sol;SP;São Carlos
+13566-608;Rua;Narciso Lazarini;Vila Brasília;SP;São Carlos
+13566-534;Alameda;dos Narcisos;Cidade Jardim;SP;São Carlos
+13572-540;Rua;Narus Nishihara;Vila Conceição;SP;São Carlos
+13571-615;Rua;Natalina Pisanielo Cassim;Jardim de Cresci;SP;São Carlos
+13575-030;Rua;Natalino Mastro Francisco;Vila Boa Vista 1;SP;São Carlos
+13573-384;Rua;Natalino Sbampato;Jardim Social Presidente Collor;SP;São Carlos
+13562-260;Rua;Padre Nazareno;Jardim Bandeirantes;SP;São Carlos
+13566-411;Rua;Nazareth Jordão;Jardim Santa Helena;SP;São Carlos
+13571-605;Rua;Neide Sampaio;Jardim de Cresci;SP;São Carlos
+13568-746;Rua;Nelcio Torresam;Jardim Veneza;SP;São Carlos
+13573-290;Rua;Professor Nelson Camargo Lima;Cidade Aracy;SP;São Carlos
+13568-829;Rua;Doutor Nelson Fonseca;Conjunto Habitacional Dom Constantino Amstalden;SP;São Carlos
+13569-610;Rua;Professor Nelson Montmourency;Jardim Cardinalli;SP;São Carlos
+13573-090;Avenida;Nelson Orlandi;Cidade Aracy;SP;São Carlos
+13563-380;Rua;Nelson Rios;Loteamento Municipal São Carlos 4;SP;São Carlos
+13568-870;Avenida;Nelson Salvi;Parque Belvedere;SP;São Carlos
+13569-640;Rua;Nely Medeiros Carbone;Jardim Citelli;SP;São Carlos
+13567-287;Travessa;Neo Fiori;Jardim Real;SP;São Carlos
+13562-101;Rua;Nestor de Campos;Planalto Paraíso;SP;São Carlos
+13562-415;Rua;Nestor de Campos;Parque Santa Felícia Jardim;SP;São Carlos
+13565-180;Rua;Neusa Aparecida Marques de Meo;Jardim Jóckei Club A;SP;São Carlos
+13568-800;Rua;Newton Luiz do Prado;Residencial  Astolpho Luiz do Prado;SP;São Carlos
+13564-660;Rua;Major Newton Robert Leite;Parque Delta;SP;São Carlos
+13570-730;Rua;Nicodemo Senapeschi;Vila Irene;SP;São Carlos
+13565-510;Rua;Nicola Bibbo;Residencial Samambaia;SP;São Carlos
+13564-240;Rua;Nicola Di Lourenzo;Parque Santa Marta;SP;São Carlos
+13570-560;Rua;Nicola Zambrano;Jardim Mercedes;SP;São Carlos
+13568-140;Rua;Nicolau Baffa;Jardim Tangará;SP;São Carlos
+13561-090;Rua;Professora Nicoleta Stella Germano;Jardim Paraíso;SP;São Carlos
+13567-580;Rua;Nicolino Bruno;Parque Primavera;SP;São Carlos
+13565-575;Rua;Nicolla Fiorentino;Residencial Samambaia;SP;São Carlos
+13565-585;Rua;Nicolla Gallo;Residencial Samambaia;SP;São Carlos
+13573-502;Rua;Nilo Sérgio Paulino;Parque Novo Mundo;SP;São Carlos
+13568-854;Rua;Nilton Luiz Marques;Jardim dos Coqueiros;SP;São Carlos
+13568-280;Rua;Nilza Ferrari Fantinelli;Parque Residencial Maria Stella Faga;SP;São Carlos
+13572-325;Rua;Nociforo Thomé Martinelli;Jardim Martinelli;SP;São Carlos
+13567-490;Rua;Noemi Faga;Loteamento Albertini;SP;São Carlos
+13562-141;Rua;Noêmia Sampaio de Souza;Parque Paraíso;SP;São Carlos
+13575-672;Rua;Noêmia Santos da Silva;Jardim das Torres Prolongamento;SP;São Carlos
+13563-605;Rua;Norberto Antônio Chiavini Dinucci;Conjunto Habitacional Santa Angelina;SP;São Carlos
+13568-638;Rua;Norberto Peronti;Residencial Parque Douradinho;SP;São Carlos
+13572-005;Travessa;Norival Carlos Marques;Vila Morumbi;SP;São Carlos
+13563-703;Rua;Doutor Norman Abbud;Jardim Acapulco;SP;São Carlos
+13574-530;Rua;Nossa Senhora Monte Serrat;Jardim Paulista;SP;São Carlos
+13564-855;Travessa;Nove;Encontro Valparaíso I;SP;São Carlos
+13573-520;Rua;Nove;Parque Novo Mundo;SP;São Carlos
+13573-552;Rua;Nove;Residencial Deputado José Zavaglia;SP;São Carlos
+13560-042;Rua;Nove de Julho;Centro;SP;São Carlos
+13560-560;Rua;Nove de Julho;Jardim Lutfalla;SP;São Carlos
+13570-786;Rua;Nuncio Cardinalli;Vila Izabel;SP;São Carlos
+13563-715;Rua;Octávio Binotto;Jardim Acapulco;SP;São Carlos
+13564-620;Rua;Octávio Boro;Parque Delta;SP;São Carlos
+13575-883;Rua;Octávio Carlos Damiano;Romeu Santini;SP;São Carlos
+13573-062;Rua;Octavio da Silva;Cidade Aracy;SP;São Carlos
+13563-508;Rua;Odair Campos Pereira;Jardim São Carlos 5;SP;São Carlos
+13562-507;Rua;Odemar Décio Gallucci;Residencial Monsenhor Romeu Tortorelli;SP;São Carlos
+13562-531;Avenida;Odete dos Santos;Residencial Monsenhor Romeu Tortorelli;SP;São Carlos
+13563-520;Rua;Dona Odete Ribas Arruda Botelho;Jardim São Carlos 5;SP;São Carlos
+13574-700;Rua;Odevair Bacaro;Mirante da Bela Vista;SP;São Carlos
+13560-280;Praça;Odila Rodrigues;Centro;SP;São Carlos
+13573-554;Rua;Oito;Residencial Deputado José Zavaglia;SP;São Carlos
+13563-515;Rua;Olavo Godoy;Jardim São Carlos 5;SP;São Carlos
+13568-300;Rua;Olavo Zabotto;Parque Residencial Maria Stella Faga;SP;São Carlos
+13571-610;Rua;Olga Litrenta Desidera;Jardim de Cresci;SP;São Carlos
+13575-177;Rua;Olintho Malfatti Neto;Jardim Medeiros;SP;São Carlos
+13562-220;Rua;Padre Oliveira Rollin;Jardim Bandeirantes;SP;São Carlos
+13563-735;Rua;Omar Abdelnur;Jardim Santa Elisa;SP;São Carlos
+13569-430;Rua;Doutor Omar Pacheco Souza;Portal do Sol;SP;São Carlos
+13567-511;Rua;Onofre Gonçalves;Parque Primavera;SP;São Carlos
+13573-550;Rua;Onze;Residencial Deputado José Zavaglia;SP;São Carlos
+13573-524;Rua;Onze;Parque Novo Mundo;SP;São Carlos
+13573-048;Rua;Orestes Mastrofrancisco;Cidade Aracy;SP;São Carlos
+13560-450;Rua;Doutor Orlando Damiano;Jardim Macarengo;SP;São Carlos
+13563-884;Rua;Orlando de Oliveira;Jardim Embaré;SP;São Carlos
+13563-710;Rua;Orlando Fazzari;Jardim Acapulco;SP;São Carlos
+13570-205;Rua;Orlando Marques;Jardim Nova São Carlos;SP;São Carlos
+13575-660;Rua;Orlando Martinez;Jardim das Torres Prolongamento;SP;São Carlos
+13575-261;Rua;Orlando Pedreschi;Jardim Medeiros;SP;São Carlos
+13563-210;Rua;Orlando Perez;Loteamento Habitacional São Carlos 2;SP;São Carlos
+13561-234;Rua;Orlando Picchi;Parque Santa Mônica;SP;São Carlos
+13568-809;Rua;Orlando Salvini;Residencial  Astolpho Luiz do Prado;SP;São Carlos
+13571-020;Rua;Orlando Silva;Jardim Dona Francisca;SP;São Carlos
+13573-214;Rua;Orlando Tavoni;Cidade Aracy;SP;São Carlos
+13568-688;Travessa;Orquídea Reis Ortega;Residencial Parque Douradinho;SP;São Carlos
+13566-520;Rua;das Orquídeas;Cidade Jardim;SP;São Carlos
+13570-050;Rua;Oscar Barros;Jardim Ricetti;SP;São Carlos
+13564-031;Rua;Oscar de Souza Geribelo;Jardim Santa Paula;SP;São Carlos
+13568-842;Avenida;Comendador Oscar Ferreira;Conjunto Habitacional Dom Constantino Amstalden;SP;São Carlos
+13561-210;Rua;Oscar Jensen;Parque Santa Mônica;SP;São Carlos
+13575-654;Rua;Professor Oscar Picchi;Jardim das Torres Prolongamento;SP;São Carlos
+13563-753;Rua;Oséas Rocha Ramalho;Parque Fehr;SP;São Carlos
+13560-640;Rua;General Osório;Jardim São Carlos;SP;São Carlos
+13569-532;Rua;General Osório;Jardim Cardinalli;SP;São Carlos
+13563-876;Rua;Osório Augusto de Carvalho;Jardim Embaré;SP;São Carlos
+13563-170;Rua;Ostalio Pierre;Loteamento Habitacional São Carlos 2;SP;São Carlos
+13574-410;Rua;Osvaldo Dagnone;Jardim Paulista;SP;São Carlos
+13570-214;Rua;Osvaldo de Santi;Jardim Nova São Carlos;SP;São Carlos
+13573-270;Rua;Osvaldo Gregório;Cidade Aracy;SP;São Carlos
+13563-180;Rua;Osvaldo Lombardo;Loteamento Habitacional São Carlos 2;SP;São Carlos
+13563-606;Rua;Osvaldo Perez;Conjunto Habitacional Santa Angelina;SP;São Carlos
+13571-198;Rua;Oswaldo Bruno;Cooperativa Habitacional Azulville;SP;São Carlos
+13560-020;Rua;Oswaldo Cruz;Centro;SP;São Carlos
+13568-600;Rua;Oswaldo Denari;Jardim Munique;SP;São Carlos
+13571-520;Rua;Oswaldo Rossi;Jardim Novo Horizonte;SP;São Carlos
+13575-668;Rua;Oswaldo Vianna Salgado;Jardim das Torres Prolongamento;SP;São Carlos
+13573-372;Rua;Otávio da Silva;Jardim Social Presidente Collor;SP;São Carlos
+13563-673;Avenida;Otto Werner Rosel;Jardim Ipanema;SP;São Carlos
+13567-705;Alameda;Ouro Preto;Parque Sabará;SP;São Carlos
+13563-701;Rua;Ozigl de Camargo Lima;Jardim Acapulco;SP;São Carlos
+13573-184;Rua;P;Cidade Aracy;SP;São Carlos
+13572-330;Avenida;Pacaembu;Jardim Pacaembu;SP;São Carlos
+13572-210;Avenida;Doutor Pádua Salles;Vila Sonia;SP;São Carlos
+13566-895;Vereda;das Paineiras;Vale Santa Felicidade;SP;São Carlos
+13561-353;Passeio;das Palmeiras;Parque Faber Castell I;SP;São Carlos
+13567-891;Rua;Palmira Martins Ruggiero;Residencial Américo Alves Margarido;SP;São Carlos
+13570-837;Rua;Palmiro Fiochi;Parque São José;SP;São Carlos
+13566-700;Rua;Panamá;Vila Brasília;SP;São Carlos
+13571-618;Rua;Paolo Periotto;Jardim de Cresci;SP;São Carlos
+13566-545;Alameda;das Papoulas;Cidade Jardim;SP;São Carlos
+13572-360;Rua;Pará;Jardim Pacaembu;SP;São Carlos
+13566-650;Rua;Paraguai;Vila Brasília;SP;São Carlos
+13572-180;Rua;Paraná;Jardim Cruzeiro do Sul;SP;São Carlos
+13569-150;Rua;do Parque;Chácara Parque Club;SP;São Carlos
+13561-380;Avenida;Parque Faber;Parque Faber Castell I;SP;São Carlos
+13571-801;Loteamento;Parque Itaipu;Parque Itaipu;SP;São Carlos
+13566-305;Rua;Particular Vieira;Vila Costa do Sol;SP;São Carlos
+13567-320;Rua;Pascoal Mecca;Jardim Real;SP;São Carlos
+13561-385;Rua;Passeio dos Ipês;Parque Faber Castell I;SP;São Carlos
+13566-887;Estrada;Pau Brasil;Vale Santa Felicidade;SP;São Carlos
+13569-615;Avenida;Pau Brasil;Jardim Cardinalli;SP;São Carlos
+13567-882;Rua;Paulina Landgraf Pozzi;Residencial Américo Alves Margarido;SP;São Carlos
+13561-060;Rua;Paulino Botelho de Abreu Sampaio;Jardim Bethânia;SP;São Carlos
+13560-040;Praça;Paulino Carlos;Centro;SP;São Carlos
+13569-510;Rua;Paulino Gonçalves;Portal do Sol;SP;São Carlos
+13573-288;Rua;Paulino Nunes;Cidade Aracy;SP;São Carlos
+13574-391;Avenida;Paulista;Jardim Paulista;SP;São Carlos
+13560-340;Rua;São Paulo;Vila Monteiro (Gleba I);SP;São Carlos
+13560-053;Rua;São Paulo;Centro;SP;São Carlos
+13566-250;Rua;São Paulo;Vila Costa do Sol;SP;São Carlos
+13568-630;Rua;Doutor Paulo Botassi;Residencial Parque Douradinho;SP;São Carlos
+13564-824;Rua;Paulo Cezar Pereira;Loteamento Aracê de Santo Antonio II;SP;São Carlos
+13575-842;Avenida;Paulo de Arruda Correa da Silva;Recreio dos Bandeirantes;SP;São Carlos
+13567-160;Rua;Paulo de Campos;Chácara Parque Club;SP;São Carlos
+13568-778;Rua;Paulo de Carvalho;Residencial Itamarati;SP;São Carlos
+13568-755;Rua;Paulo de Godoy Bueno;Residencial Itamarati;SP;São Carlos
+13563-866;Avenida;Doutor Paulo Edmundo Dias Duarte;Jardim Embaré;SP;São Carlos
+13564-400;Rua;Paulo Elias;Jardim Paulistano;SP;São Carlos
+13562-340;Rua;Paulo Fragoso Coimbra;Jardim Alvorada;SP;São Carlos
+13570-003;Rua;Professor Paulo Monte Serrat;Jardim Ricetti;SP;São Carlos
+13570-218;Rua;Paulo Pajehú de Barros;Núcleo Residencial Castelo Branco;SP;São Carlos
+13561-235;Rua;Doutor Paulo Pinheiro Werneck;Parque Santa Mônica;SP;São Carlos
+13575-410;Rua;Paulo Pinto da Silveira;Jardim Botafogo 1;SP;São Carlos
+13563-756;Rua;Paulo Rodrigo Bertacini;Parque Fehr;SP;São Carlos
+13574-704;Rua;Paulo Silêncio;Mirante da Bela Vista;SP;São Carlos
+13563-050;Rua;Paulo Toyama Riuji;Loteamento Habitacional São Carlos 1;SP;São Carlos
+13572-140;Avenida;Papa Paulo VI;Jardim Cruzeiro do Sul;SP;São Carlos
+13570-830;Rua;da Paz;Parque São José;SP;São Carlos
+13568-485;Travessa;dos Pedestres;Jardim Santa Maria II;SP;São Carlos
+13575-664;Rua;Pedro Aizza;Jardim das Torres Prolongamento;SP;São Carlos
+13573-186;Rua;Pedro Aparecido Gonzaga;Cidade Aracy;SP;São Carlos
+13570-381;Rua;Pedro Bianchi;Jardim São Paulo;SP;São Carlos
+13575-893;Rua;Pedro Bragato;Romeu Santini;SP;São Carlos
+13573-394;Avenida;Pedro Carlos Fabiano;Jardim Social Presidente Collor;SP;São Carlos
+13564-490;Rua;Pedro Cavarette;Jardim Hikare;SP;São Carlos
+13572-500;Rua;Pedro de Almeida;Vila Santa Madre Cabrini;SP;São Carlos
+13573-238;Rua;Pedro de Paula;Cidade Aracy;SP;São Carlos
+13574-180;Rua;Doutor Pedro de Souza Campos Filho;Vila Prado;SP;São Carlos
+13560-179;Praça;Governador Pedro de Toledo;Centro;SP;São Carlos
+13562-380;Rua;Pedro Fernandes Alonso;Parque Santa Felícia Jardim;SP;São Carlos
+13563-519;Rua;Pedro Gomes Escobar;Jardim São Carlos 5;SP;São Carlos
+13568-850;Rua;Pedro Grosso Júnior;Jardim dos Coqueiros;SP;São Carlos
+13560-320;Rua;Dom Pedro II;Vila Monteiro (Gleba I);SP;São Carlos
+13566-270;Rua;Dom Pedro II;Vila Costa do Sol;SP;São Carlos
+13574-006;Rua;Pedro José Neto;Vila Boa Vista;SP;São Carlos
+13568-200;Rua;Pedro Monteleone;Jardim Tangará;SP;São Carlos
+13562-509;Rua;Pedro Paulo Porto;Residencial Monsenhor Romeu Tortorelli;SP;São Carlos
+13575-332;Rua;Doutor Pedro Raimundo;Vila Carmem;SP;São Carlos
+13563-250;Rua;Professor Péricles Soares;Loteamento Habitacional São Carlos 2;SP;São Carlos
+13571-385;Avenida;Perimetral;Jardim Nova São Carlos;SP;São Carlos
+13572-380;Rua;Pernambuco;Jardim Pacaembu;SP;São Carlos
+13566-620;Rua;Peru;Vila Brasília;SP;São Carlos
+13561-383;Alameda;dos Pessegueiros;Parque Faber Castell I;SP;São Carlos
+13575-120;Rua;Philomena Fauvel;Jardim Beatriz;SP;São Carlos
+13572-332;Rua;Piauí;Jardim Pacaembu;SP;São Carlos
+13574-460;Rua;Pietro Manzini;Jardim Paulista;SP;São Carlos
+13560-648;Rua;do Conde Pinhal;Jardim São Carlos;SP;São Carlos
+13569-030;Rua;do Conde Pinhal;Vila Faria;SP;São Carlos
+13566-855;Passeio;dos Pintassilgos;Quinta dos Buritis;SP;São Carlos
+13574-260;Rua;São Pio X;Vila Prado;SP;São Carlos
+13561-359;Alameda;das Pitangueiras;Parque Faber Castell I;SP;São Carlos
+13574-560;Rua;Porceno Marino;Jardim Gibertoni;SP;São Carlos
+13566-470;Rua;Porto Alegre;Vila Celina;SP;São Carlos
+13566-730;Rua;Porto Rico;Vila Brasília;SP;São Carlos
+13562-028;Rua;Potito Dagnesi;Planalto Paraíso;SP;São Carlos
+13566-510;Rua;das Primaveras;Cidade Jardim;SP;São Carlos
+13570-632;Rua;Primeiro de Maio;Núcleo Residencial Silvio Vilari;SP;São Carlos
+13567-200;Rua;Primo Lazzarini;Vila Nossa Senhora de Fátima;SP;São Carlos
+13563-002;Rua;Doutor Procópio Toledo Malta;Loteamento Habitacional São Carlos 1;SP;São Carlos
+13561-350;Passeio;das Quaresmeiras;Parque Faber Castell I;SP;São Carlos
+13564-140;Avenida;Quarto Centenário;Jardim Centenário;SP;São Carlos
+13575-658;Rua;Quatorze;Jardim das Torres Prolongamento;SP;São Carlos
+13564-811;Travessa;Quatro;Loteamento Aracê de Santo Antonio I;SP;São Carlos
+13566-875;Travessa;Quatro;Tibaia de São Fernando;SP;São Carlos
+13571-786;Estrada;Quatro;Loteamento Recreio Campestre;SP;São Carlos
+13564-870;Travessa;Quatro;Encontro Valparaíso I;SP;São Carlos
+13564-848;Rua;Quatro;Encontro Valparaíso II;SP;São Carlos
+13566-864;Rua;Quatro;Chácara Leila;SP;São Carlos
+13570-208;Rua;Quatro;Jardim Nova São Carlos;SP;São Carlos
+13571-641;Rua;Quatro;Jardim Tijuca;SP;São Carlos
+13573-508;Rua;Quatro;Parque Novo Mundo;SP;São Carlos
+13566-852;Travessa;Quatro;Loteamento Tutoya do Vale;SP;São Carlos
+13574-003;Rua;Quintino Bocaiúva;Vila Boa Vista;SP;São Carlos
+13568-330;Rua;Quinto Paladini;Parque Residencial Maria Stella Faga;SP;São Carlos
+13573-578;Rua;Quinze;Residencial Deputado José Zavaglia;SP;São Carlos
+13561-206;Rua;Quinze de Novembro;Parque Santa Mônica;SP;São Carlos
+13560-240;Rua;Quinze de Novembro;Centro;SP;São Carlos
+13560-241;Rua;Quinze de Novembro;Centro;SP;São Carlos
+13569-220;Rua;Quinze de Novembro;Chácara São João;SP;São Carlos
+13563-295;Rua;Rachid Kabalan Fakhouri;Loteamento Municipal São Carlos 3;SP;São Carlos
+13575-370;Rua;Rafael Abreu Sampaio;Vila Carmem;SP;São Carlos
+13560-298;Rua;Rafael de Abreu Sampaio Vidal;Vila Monteiro (Gleba I);SP;São Carlos
+13560-050;Rua;Rafael de Abreu Sampaio Vidal;Centro;SP;São Carlos
+13566-220;Rua;Rafael de Abreu Sampaio Vidal;Vila Costa do Sol;SP;São Carlos
+13567-010;Rua;Rafael de Senzi;Jardim São João Batista;SP;São Carlos
+13568-595;Rua;Rafael Petroni;Jardim Munique;SP;São Carlos
+13568-290;Rua;Rafaela Saldanha;Parque Residencial Maria Stella Faga;SP;São Carlos
+13570-591;Rua;Raimundo Correa;Vila Marcelino;SP;São Carlos
+13569-706;Rua;Raimundo Romanelli;Parque dos Timburis;SP;São Carlos
+13564-650;Rua;Raphael Di Tomazo;Parque Delta;SP;São Carlos
+13568-771;Rua;Raphael Manzini;Residencial Itamarati;SP;São Carlos
+13563-607;Rua;Raul Garcia Rodrigues;Conjunto Habitacional Santa Angelina;SP;São Carlos
+13562-170;Rua;Raul La Sierra Pereira;Jardim Bandeirantes;SP;São Carlos
+13568-653;Rua;Raul Rodrigues Martins;Residencial Parque Douradinho;SP;São Carlos
+13565-090;Rua;Ray Wesley Herrick;Jardim Jóckei Club A;SP;São Carlos
+13573-232;Rua;Regina Célia Silva Vasconcelos;Cidade Aracy;SP;São Carlos
+13570-633;Rua;Doutora Regina Pasqualini Gatti;Núcleo Residencial Silvio Vilari;SP;São Carlos
+13564-360;Rua;Reginaldo Fernandes Nunes;Jardim Paulistano;SP;São Carlos
+13573-380;Rua;Reginaldo Stefanutti;Jardim Social Presidente Collor;SP;São Carlos
+13573-050;Avenida;Regit Arab;Cidade Aracy;SP;São Carlos
+13571-196;Rua;Reinaldo Bertolino;Cooperativa Habitacional Azulville;SP;São Carlos
+13563-280;Rua;Reinaldo Peronti;Loteamento Municipal São Carlos 3;SP;São Carlos
+13573-228;Rua;Reinaldo Pizani;Cidade Aracy;SP;São Carlos
+13564-190;Avenida;Doutor Renato de Toledo Porto;Parque Santa Marta;SP;São Carlos
+13563-658;Rua;Renato Talarico Lima Pereira;Jardim Ipanema;SP;São Carlos
+13563-764;Rua;Rene Mazziero;Parque Fehr;SP;São Carlos
+13563-762;Rua;Reno Piovesan;Parque Fehr;SP;São Carlos
+13572-081;Avenida;República do Líbano;Jardim Cruzeiro do Sul;SP;São Carlos
+13566-740;Rua;República Dominicana;Vila Brasília;SP;São Carlos
+13565-550;Rua;Rheda Widenbruck;Residencial Samambaia;SP;São Carlos
+13560-110;Rua;Riachuelo;Centro;SP;São Carlos
+13563-650;Rua;Ricardo de Assis Pereira;Jardim Ipanema;SP;São Carlos
+13567-360;Rua;Ricardo Gibertoni;Jardim Santa Maria;SP;São Carlos
+13573-052;Rua;Ricardo Ninelli;Cidade Aracy;SP;São Carlos
+13573-274;Rua;Rino Sannicolo;Cidade Aracy;SP;São Carlos
+13565-030;Rua;Rio Amazonas;Jardim Jóckei Club A;SP;São Carlos
+13565-040;Rua;Rio Araguaia;Jardim Jóckei Club A;SP;São Carlos
+13565-220;Rua;Rio Araguapei;Jardim Jóckei Club A;SP;São Carlos
+13560-030;Praça;do Barão Rio Branco;Centro;SP;São Carlos
+13565-070;Rua;Rio Branco;Jardim Jóckei Club A;SP;São Carlos
+13565-230;Rua;Rio Capibaribe;Jardim Jóckei Club A;SP;São Carlos
+13565-150;Rua;Rio do Quilombo;Jardim Jóckei Club A;SP;São Carlos
+13565-130;Rua;Rio do Sono;Jardim Jóckei Club A;SP;São Carlos
+13565-100;Rua;Rio Grande;Jardim Jóckei Club A;SP;São Carlos
+13565-140;Rua;Rio Jacaré;Jardim Jóckei Club A;SP;São Carlos
+13565-160;Rua;Rio Mogi Guaçu;Jardim Jóckei Club A;SP;São Carlos
+13565-060;Rua;Rio Negro;Jardim Jóckei Club A;SP;São Carlos
+13565-240;Rua;Rio Paraguai;Jardim Jóckei Club A;SP;São Carlos
+13565-200;Rua;Rio Paraná;Jardim Jóckei Club A;SP;São Carlos
+13565-020;Rua;Rio Paranaiba;Jardim Jóckei Club A;SP;São Carlos
+13565-050;Rua;Rio Paranapanema;Jardim Jóckei Club A;SP;São Carlos
+13565-120;Rua;Rio Pardo;Jardim Jóckei Club A;SP;São Carlos
+13565-000;Rua;Rio São Francisco;Jardim Jóckei Club A;SP;São Carlos
+13565-080;Rua;Rio Tapajós;Jardim Jóckei Club A;SP;São Carlos
+13565-190;Rua;Rio Tietê;Jardim Jóckei Club A;SP;São Carlos
+13565-010;Rua;Rio Tocantins;Jardim Jóckei Club A;SP;São Carlos
+13565-110;Rua;Rio Turvo;Jardim Jóckei Club A;SP;São Carlos
+13565-250;Rua;Rio Uruguai;Jardim Jóckei Club A;SP;São Carlos
+13562-460;Rua;Riskalla Hadad;Parque Sisi;SP;São Carlos
+13568-744;Rua;Rizziero Coppi;Jardim Veneza;SP;São Carlos
+13562-382;Rua;Roberto de Jesus Affonso;Parque Santa Felícia Jardim;SP;São Carlos
+13562-520;Rua;Roberto Ferreira Lassance;Residencial Monsenhor Romeu Tortorelli;SP;São Carlos
+13571-010;Rua;Roberto Martinez;Jardim Dona Francisca;SP;São Carlos
+13574-022;Rua;Roberto Simonsen;Vila Pelicano;SP;São Carlos
+13564-230;Avenida;Roberval Pozzi;Parque Santa Marta;SP;São Carlos
+13570-675;Rua;Rocha Pombo;Vila Lutfalla;SP;São Carlos
+13564-520;Rua;Rodolfo Luporini;Jardim Hikare;SP;São Carlos
+13573-020;Rua;Rodolfo Marim Neto;Cidade Aracy;SP;São Carlos
+13563-870;Rua;Rogério Gonçalves da Silva;Jardim Embaré;SP;São Carlos
+13571-130;Rua;Rogério Mastrofrancisco;Núcleo Residencial Castelo Branco;SP;São Carlos
+13564-670;Rua;Conde Roland Von Faber Castell;Parque Delta;SP;São Carlos
+13560-360;Rua;Rolando Rolemberg;Vila Arnaldo;SP;São Carlos
+13563-600;Rua;Romeu Bedinotto;Conjunto Habitacional Santa Angelina;SP;São Carlos
+13571-601;Rua;Romeu Casale;Jardim de Cresci;SP;São Carlos
+13568-525;Rua;Monsenhor Romeu Tortorelli;Jardim Munique;SP;São Carlos
+13564-550;Rua;Romildo Bruno;Jardim Hikare;SP;São Carlos
+13575-169;Rua;Romildo Rodrigues de Lima;Jardim Medeiros;SP;São Carlos
+13563-651;Avenida;Romualdo Villani;Jardim Ipanema;SP;São Carlos
+13574-060;Praça;Padre Roque Pinto de Barros;Vila Prado;SP;São Carlos
+13568-851;Rua;Rosa Antonia Octaviane Néo;Jardim dos Coqueiros;SP;São Carlos
+13571-616;Rua;Rosa Cassim;Jardim de Cresci;SP;São Carlos
+13563-706;Rua;Rosa Lea Ferrari Lisboa;Jardim Acapulco;SP;São Carlos
+13573-308;Rua;da Nossa Senhora Rosa Mística;Loteamento Social Antenor Garcia;SP;São Carlos
+13564-050;Rua;Rosalino Bellini;Jardim Santa Paula;SP;São Carlos
+13571-110;Rua;Rosaria Cerri Caruso;Núcleo Residencial Castelo Branco;SP;São Carlos
+13566-560;Alameda;das Rosas;Cidade Jardim;SP;São Carlos
+13566-450;Rua;Rotary Clube;Vila Celina;SP;São Carlos
+13566-858;Passeio;dos Rouxinóis;Quinta dos Buritis;SP;São Carlos
+13563-500;Rua;Rúbens Barbosa;Jardim São Carlos 5;SP;São Carlos
+13563-495;Rua;Rúbens de Abreu Sampaio;Jardim São Carlos 5;SP;São Carlos
+13563-497;Rua;Rúbens do Amaral;Jardim São Carlos 5;SP;São Carlos
+13571-513;Estrada Municipal;Rubens Fernando Monte Ribeiro;Jardim Novo Horizonte;SP;São Carlos
+13573-112;Rua;Rubens Fernando Monte Ribeiro;Cidade Aracy;SP;São Carlos
+13567-225;Travessa;Rúbens Pascoal;Vila Nossa Senhora de Fátima;SP;São Carlos
+13572-430;Rua;Rudolf Meisegeier;Vila Monte Carlo;SP;São Carlos
+13560-330;Rua;Rui Barbosa;Vila Monteiro (Gleba I);SP;São Carlos
+13566-260;Rua;Rui Barbosa;Vila Costa do Sol;SP;São Carlos
+13560-044;Rua;Ruth Bloem Souto;Centro;SP;São Carlos
+13568-876;Rua;Ruy de Camargo Barboza;Parque Belvedere;SP;São Carlos
+13568-839;Avenida;Dom Ruy Serra;Conjunto Habitacional Dom Constantino Amstalden;SP;São Carlos
+13567-720;Avenida;Sabará;Parque Sabará;SP;São Carlos
+13560-785;Rua;Sabre;Centreville;SP;São Carlos
+13561-190;Rua;Madre Saint Bernard;Jardim Paraíso;SP;São Carlos
+13561-402;Alameda;dos Saís;Parque Faber Castell II;SP;São Carlos
+13574-590;Rua;Salesianos do Brasil;Jardim Gibertoni;SP;São Carlos
+13566-350;Avenida;Salgado Filho;Vila Marina;SP;São Carlos
+13568-700;Travessa;Salim Karam;Residencial Parque Douradinho;SP;São Carlos
+13560-220;Praça;Coronel Salles;Centro;SP;São Carlos
+13574-040;Avenida;Sallum;Vila Prado;SP;São Carlos
+13570-382;Rua;Salomão Assef;Jardim São Paulo;SP;São Carlos
+13560-540;Rua;Salomão Dibbo;Jardim Lutfalla;SP;São Carlos
+13572-083;Rua;Salomão Schevs;Jardim Cruzeiro do Sul;SP;São Carlos
+13575-864;Rua;Salvador Benedito Trofino;Romeu Santini;SP;São Carlos
+13570-360;Rua;Samuel Carvalho Chaves;Vila Alpes;SP;São Carlos
+13575-845;Rua;Samuel Savio;Recreio dos Bandeirantes;SP;São Carlos
+13566-590;Avenida;Trabalhador Sancarlense;Parque Arnold Schimidt;SP;São Carlos
+13563-723;Rua;Sancorso Chimirri;Jardim Santa Elisa;SP;São Carlos
+13561-390;Avenida;dos Sanhaços;Parque Faber Castell II;SP;São Carlos
+13560-775;Rua;Santarém;Centreville;SP;São Carlos
+13560-795;Rua;Sante;Centreville;SP;São Carlos
+13569-645;Rua;Santo Juliani;Jardim Citelli;SP;São Carlos
+13566-445;Rua;Santos Dumont;Vila Celina;SP;São Carlos
+13560-065;Praça;Santos Dumont;Centro;SP;São Carlos
+13570-090;Avenida;Savério Talarico;Jardim Ricetti;SP;São Carlos
+13560-750;Rua;Savóia;Centreville;SP;São Carlos
+13567-240;Travessa;Seba Jorge Kebbe;Vila Jacobucci;SP;São Carlos
+13561-207;Rua;São Sebastião;Parque Santa Mônica;SP;São Carlos
+13560-230;Rua;São Sebastião;Centro;SP;São Carlos
+13569-181;Rua;São Sebastião;Chácara Parollo;SP;São Carlos
+13571-300;Rua;Sebastião Adão Júnior;Jardim Maracanã;SP;São Carlos
+13566-571;Praça;Sebastião Batalha;Cidade Jardim;SP;São Carlos
+13573-276;Rua;Sebastião Campos Penteado;Cidade Aracy;SP;São Carlos
+13563-757;Rua;Sebastião Conte;Parque Fehr;SP;São Carlos
+13575-040;Rua;Sebastião de Abreu Sampaio;Vila Boa Vista 1;SP;São Carlos
+13562-030;Rua;Sebastião de Moraes;Planalto Paraíso;SP;São Carlos
+13562-425;Rua;Sebastião de Moraes;Parque Santa Felícia Jardim;SP;São Carlos
+13562-010;Rua;Sebastião Ferraz Caldas;Jardim Alvorada;SP;São Carlos
+13573-206;Rua;Professor Sebastião Gomes;Cidade Aracy;SP;São Carlos
+13575-004;Rua;Sebastião José Alexandre;Vila Boa Vista 1;SP;São Carlos
+13573-108;Rua;Sebastião Lemos;Cidade Aracy;SP;São Carlos
+13563-831;Avenida;Sebastião Marim;Loteamento Jardim Vista Alegre;SP;São Carlos
+13566-841;Rua;Sebastião Ramos;Loteamento Tutoya do Vale;SP;São Carlos
+13575-540;Rua;Sebastião Sampaio;Jardim das Torres;SP;São Carlos
+13563-320;Rua;Sebastião Sampaio Osório;Parque Santa Felícia Jardim;SP;São Carlos
+13562-120;Rua;Sebastião Sampaio Osório;Parque Paraíso;SP;São Carlos
+13573-226;Rua;Secombina de Paula Passador;Cidade Aracy;SP;São Carlos
+13570-785;Rua;Padre Segismundo Passionista;Vila Izabel;SP;São Carlos
+13564-814;Travessa;Seis;Loteamento Aracê de Santo Antonio I;SP;São Carlos
+13564-863;Travessa;Seis;Encontro Valparaíso I;SP;São Carlos
+13564-844;Rua;Seis;Encontro Valparaíso II;SP;São Carlos
+13566-876;Travessa;Seis;Tibaia de São Fernando;SP;São Carlos
+13573-512;Rua;Seis;Parque Novo Mundo;SP;São Carlos
+13573-558;Rua;Seis;Residencial Deputado José Zavaglia;SP;São Carlos
+13561-065;Praça;Serafim Vieira de Almeida;Vila Pureza;SP;São Carlos
+13561-130;Rua;Doutor Serafim Vieira de Almeida;Jardim Paraíso;SP;São Carlos
+13566-430;Rua;Sérgio Fernando Paranhos Fleury;Vila Marina;SP;São Carlos
+13572-085;Rua;Sergipe;Jardim Cruzeiro do Sul;SP;São Carlos
+13574-610;Rua;Serra Clube;Jardim Gibertoni;SP;São Carlos
+13564-842;Rua;Sete;Encontro Valparaíso II;SP;São Carlos
+13564-861;Travessa;Sete;Encontro Valparaíso I;SP;São Carlos
+13573-514;Rua;Sete;Parque Novo Mundo;SP;São Carlos
+13566-607;Rua;Sete;Vila Brasília;SP;São Carlos
+13573-556;Rua;Sete;Residencial Deputado José Zavaglia;SP;São Carlos
+13560-180;Rua;Sete de Setembro;Centro;SP;São Carlos
+13560-181;Rua;Sete de Setembro;Centro;SP;São Carlos
+13569-000;Rua;Sete de Setembro;Vila Faria;SP;São Carlos
+13560-765;Rua;Sevres;Centreville;SP;São Carlos
+13566-898;Alameda;das Sibipirunas;Vale Santa Felicidade;SP;São Carlos
+13560-294;Rua;Silvério Ignarra Sobrinho;Vila Monteiro (Gleba I);SP;São Carlos
+13571-644;Rua;Silvio Rodrigues Fontes;Jardim Tijuca;SP;São Carlos
+13570-652;Praça;Doutor Sílvio Villari;Vila Lutfalla;SP;São Carlos
+13573-366;Rua;Sinval Bernardo;Jardim Social Presidente Collor;SP;São Carlos
+13575-530;Rua;Doutor Sizenando de Toledo Porto;Jardim das Torres;SP;São Carlos
+13561-100;Rua;Conselheiro Soares Brandão;Jardim Paraíso;SP;São Carlos
+13560-805;Rua;Soleil;Centreville;SP;São Carlos
+13573-460;Rua;Sophia Bagnato;CEAT;SP;São Carlos
+13560-760;Rua;Sorbone;Centreville;SP;São Carlos
+13560-815;Rua;Sul;Centreville;SP;São Carlos
+13563-886;Rua;Syllas da Silva Rosa;Jardim Embaré;SP;São Carlos
+13563-080;Rua;Doutor Sylvio Antunes;Loteamento Habitacional São Carlos 1;SP;São Carlos
+13563-653;Rua;Sylvio Bento Piovesan;Jardim Ipanema;SP;São Carlos
+13575-810;Rua;Sylvio Cruz;Jardim Social Belvedere;SP;São Carlos
+13568-878;Rua;Tadao Kamicado;Parque Belvedere;SP;São Carlos
+13561-260;Avenida;Tancredo de Almeida Neves;Parque Santa Mônica;SP;São Carlos
+13561-394;Passeio;dos Tangarás;Parque Faber Castell II;SP;São Carlos
+13572-350;Travessa;Tarcília de Oliveira Cyrino;Jardim Pacaembu;SP;São Carlos
+13561-050;Rua;Padre Teixeira;Jardim Bethânia;SP;São Carlos
+13560-210;Rua;Padre Teixeira;Centro;SP;São Carlos
+13569-180;Rua;Padre Teixeira;Chácara Parollo;SP;São Carlos
+13574-033;Avenida;Teixeira de Barros;Vila Prado;SP;São Carlos
+13567-130;Rua;Temistocles Mastrofrancisco;Vila São José;SP;São Carlos
+13563-230;Rua;Teodoreto de Arruda Souto;Loteamento Habitacional São Carlos 2;SP;São Carlos
+13568-000;Rua;Teotônio Vilela;Jardim São Rafael;SP;São Carlos
+13575-390;Rua;Santa Tereza;Jardim Botafogo 1;SP;São Carlos
+13563-708;Rua;Madre Tereza de Calcuta;Jardim Acapulco;SP;São Carlos
+13573-205;Rua;Tertulina Maria dos Santos;Cidade Aracy;SP;São Carlos
+13573-149;Avenida;Tetracampeonato;Cidade Aracy;SP;São Carlos
+13569-055;Rua;Theodolina Modena Coca;Vila Rancho Velho;SP;São Carlos
+13568-240;Rua;Doutor Theodoro Fehr;Jardim Tangará;SP;São Carlos
+13574-130;Avenida;Theodureto de Camargo;Vila Prado;SP;São Carlos
+13569-140;Rua;Thereza Cornachioni Constantino;Chácara Parque Club;SP;São Carlos
+13571-190;Rua;Thiago Caruso;Azulville I;SP;São Carlos
+13575-172;Rua;Thomas Giampa;Jardim Medeiros;SP;São Carlos
+13566-583;Rua;Thomaz Antônio Gonzaga;Parque Arnold Schimidt;SP;São Carlos
+13562-200;Rua;Thomaz de Santi;Jardim Bandeirantes;SP;São Carlos
+13574-400;Rua;Thomaz Edson;Jardim Paulista;SP;São Carlos
+13567-500;Rua;Thomaz Faga;Loteamento Albertini;SP;São Carlos
+13567-570;Rua;Thomaz Lofreta;Parque Primavera;SP;São Carlos
+13564-560;Rua;Thomaz Mazziero;Jardim Hikare;SP;São Carlos
+13569-370;Rua;Thomaz Rizzo;Jardim Nossa Senhora Aparecida;SP;São Carlos
+13566-881;Condomínio;Tibaia de São Fernando II;Tibaia de São Fernando II;SP;São Carlos
+13560-430;Rua;Tiradentes;Jardim Macarengo;SP;São Carlos
+13570-010;Rua;Totó Leite;Jardim Ricetti;SP;São Carlos
+13569-240;Rua;Totó Leite;Jardim Brasil;SP;São Carlos
+13569-139;Rua;Totó Leite;Jardim Brasil;SP;São Carlos
+13569-531;Rua;Totó Leite;Jardim Cardinalli;SP;São Carlos
+13575-848;Rua;Trabalho com Fraternidade;Recreio dos Bandeirantes;SP;São Carlos
+13564-822;Rua;Três;Loteamento Aracê de Santo Antonio II;SP;São Carlos
+13573-564;Rua;Três;Residencial Deputado José Zavaglia;SP;São Carlos
+13564-850;Rua;Três;Encontro Valparaíso II;SP;São Carlos
+13566-874;Travessa;Três;Tibaia de São Fernando;SP;São Carlos
+13566-843;Rua;Três;Loteamento Tutoya do Vale;SP;São Carlos
+13573-506;Rua;Três;Parque Novo Mundo;SP;São Carlos
+13575-175;Rua;Três;Jardim Medeiros;SP;São Carlos
+13575-688;Rua;Três;Jardim das Torres Prolongamento;SP;São Carlos
+13566-496;Travessa;Três;Cidade Jardim;SP;São Carlos
+13566-850;Travessa;Três;Loteamento Tutoya do Vale;SP;São Carlos
+13566-879;Rua;Três;Tibaia de São Fernando;SP;São Carlos
+13564-871;Travessa;Três;Encontro Valparaíso I;SP;São Carlos
+13564-809;Avenida;Três;Loteamento Aracê de Santo Antonio I;SP;São Carlos
+13573-582;Rua;Treze;Residencial Deputado José Zavaglia;SP;São Carlos
+13560-647;Rua;Treze de Maio;Jardim São Carlos;SP;São Carlos
+13569-040;Rua;Treze de Maio;Vila Faria;SP;São Carlos
+13561-396;Alameda;dos Tuins;Parque Faber Castell II;SP;São Carlos
+13570-637;Rua;Desembargador Ulisses Doria;Núcleo Residencial Silvio Vilari;SP;São Carlos
+13563-502;Rua;Doutor Ulysses Fernandes Nunes;Jardim São Carlos 5;SP;São Carlos
+13564-840;Avenida;Um;Encontro Valparaíso II;SP;São Carlos
+13564-828;Travessa;Um;Loteamento Aracê de Santo Antonio II;SP;São Carlos
+13564-815;Rua;Um;Loteamento Aracê de Santo Antonio I;SP;São Carlos
+13564-826;Rua;Um;Loteamento Aracê de Santo Antonio II;SP;São Carlos
+13573-568;Rua;Um;Residencial Deputado José Zavaglia;SP;São Carlos
+13564-873;Avenida;Um;Encontro Valparaíso I;SP;São Carlos
+13564-854;Rua;Um;Encontro Valparaíso II;SP;São Carlos
+13566-872;Travessa;Um;Tibaia de São Fernando;SP;São Carlos
+13566-492;Travessa;Um;Cidade Jardim;SP;São Carlos
+13566-848;Travessa;Um;Loteamento Tutoya do Vale;SP;São Carlos
+13566-870;Rua;Um;Tibaia de São Fernando;SP;São Carlos
+13573-538;Avenida;Um;Parque Novo Mundo;SP;São Carlos
+13561-066;Praça;dos Universitários;Vila Pureza;SP;São Carlos
+13561-233;Rua;Urano Martins;Parque Santa Mônica;SP;São Carlos
+13563-528;Rua;Urias Cardoso de Toledo;Jardim São Carlos 5;SP;São Carlos
+13566-790;Rua;Uruguai;Vila Brasília;SP;São Carlos
+13565-595;Rua;Valério Ribeiro;Residencial Samambaia;SP;São Carlos
+13573-284;Rua;Vania da Silva Oliveira;Cidade Aracy;SP;São Carlos
+13566-060;Rua;Presidente Vargas;Vila Costa do Sol;SP;São Carlos
+13566-460;Rua;Santo Veltroni;Vila Celina;SP;São Carlos
+13566-640;Rua;Venezuela;Vila Brasília;SP;São Carlos
+13566-842;Rua;Professora Vera Helena Trinta Pulcinelli;Loteamento Tutoya do Vale;SP;São Carlos
+13563-707;Rua;Vicente Aparecido da Silva;Jardim Acapulco;SP;São Carlos
+13570-060;Rua;Vicente D'Aquino;Jardim Ricetti;SP;São Carlos
+13570-593;Rua;Vicente de Carvalho;Vila Marcelino;SP;São Carlos
+13568-833;Rua;Professor Vicente Keppe;Conjunto Habitacional Dom Constantino Amstalden;SP;São Carlos
+13573-005;Avenida;Vicente Laurito;Cidade Aracy;SP;São Carlos
+13564-820;Avenida;Vicente Massucio Neto;Loteamento Aracê de Santo Antonio II;SP;São Carlos
+13571-000;Rua;Vicente Pelicano;Jardim Dona Francisca;SP;São Carlos
+13564-470;Rua;Vicente Petrilli;Jardim Hikare;SP;São Carlos
+13569-440;Rua;Vicentino Fragalli;Portal do Sol;SP;São Carlos
+13564-310;Rua;Vicenzino Massucio;Parque Santa Marta;SP;São Carlos
+13561-020;Rua;Victor Manuel de Souza Lima;Jardim Bethânia;SP;São Carlos
+13573-360;Rua;Victória Fabiano;Jardim Social Presidente Collor;SP;São Carlos
+13571-606;Rua;Victorino Caron;Jardim de Cresci;SP;São Carlos
+13568-110;Rua;Victório Bonucci;Jardim Tangará;SP;São Carlos
+13567-690;Alameda;Vila Rica;Parque Sabará;SP;São Carlos
+13568-816;Rua;Vilma Ortigoso Seixas;Residencial  Astolpho Luiz do Prado;SP;São Carlos
+13568-713;Travessa;Vinícius Emanuel Laurito Miceli;Residencial Parque Douradinho;SP;São Carlos
+13573-516;Rua;Vinte;Parque Novo Mundo;SP;São Carlos
+13560-270;Rua;Vinte e Oito de Setembro;Centro;SP;São Carlos
+13560-643;Rua;Vinte e Quatro de Maio;Jardim São Carlos;SP;São Carlos
+13566-532;Alameda;das Violetas;Cidade Jardim;SP;São Carlos
+13564-040;Rua;Virgílio Pozzi;Jardim Santa Paula;SP;São Carlos
+13572-220;Rua;Virginio Cezarini;Vila Sonia;SP;São Carlos
+13564-070;Rua;Doutor Viriato Fernandes Nunes;Jardim Santa Paula;SP;São Carlos
+13568-761;Rua;Vitorio Dotta;Residencial Itamarati;SP;São Carlos
+13564-330;Rua;Vitório Giometi;Jardim Nova Santa Paula;SP;São Carlos
+13570-635;Rua;Vivaldo Lanzoni;Núcleo Residencial Silvio Vilari;SP;São Carlos
+13560-055;Praça;dos Voluntários;Centro;SP;São Carlos
+13566-584;Rua;Wadi Cury;Parque Arnold Schimidt;SP;São Carlos
+13564-867;Rua;Waldemar de Deus Ruano;Encontro Valparaíso I;SP;São Carlos
+13574-550;Rua;Waldemar Ivo de Medeiros;Jardim Gibertoni;SP;São Carlos
+13568-440;Rua;Waldemar Martins de Oliveira;Parque Residencial Maria Stella Faga;SP;São Carlos
+13560-277;Travessa;Waldemar Nutti;Centro;SP;São Carlos
+13563-874;Rua;Waldomiro Betanho;Jardim Embaré;SP;São Carlos
+13563-604;Rua;Waldomiro Santana de Oliveira;Conjunto Habitacional Santa Angelina;SP;São Carlos
+13568-827;Rua;Waldomiro Terra;Conjunto Habitacional Dom Constantino Amstalden;SP;São Carlos
+13568-695;Travessa;Walter Bagnato;Residencial Parque Douradinho;SP;São Carlos
+13575-803;Rua;Professor Walter Blanco;Jardim Social Belvedere;SP;São Carlos
+13567-102;Rua;Doutor Walter Camargo Schultzer;Vila São José;SP;São Carlos
+13572-321;Rua;Walter Carmelo;Jardim Martinelli;SP;São Carlos
+13573-110;Rua;Walter Ignácio Micelli;Cidade Aracy;SP;São Carlos
+13569-080;Rua;Wamberto Dias da Costa;Vila Rancho Velho;SP;São Carlos
+13571-510;Rodovia;Washington Luiz;CEAT;SP;São Carlos
+13571-291;Rodovia;Washington Luiz;Jardim Maracanã;SP;São Carlos
+13568-175;Rodovia;Washington Luiz;Jardim Tangará;SP;São Carlos
+13567-800;Rodovia;Washington Luiz;Parque Paraíso;SP;São Carlos
+13566-840;Rodovia;Washington Luiz;Jardim São João Batista;SP;São Carlos
+13565-800;Rodovia;Washington Luiz;Jardim Guanabara;SP;São Carlos
+13564-800;Rodovia;Washington Luiz;Parque Delta;SP;São Carlos
+13568-779;Rua;Whiston Monteiro Ricetti;Residencial Itamarati;SP;São Carlos
+13563-526;Rua;Willian Sallum;Jardim São Carlos 5;SP;São Carlos
+13563-821;Rua;Wilma Nicoletti Darezzo;Loteamento Jardim Vista Alegre;SP;São Carlos
+13573-390;Rua;X;Jardim Social Presidente Collor;SP;São Carlos
+13573-130;Rua;Yolanda Maffia Barbosa;Cidade Aracy;SP;São Carlos
+13575-813;Rua;1;Jardim Social Belvedere;SP;São Carlos
+13572-271;Travessa;1;Jardim Gonzaga;SP;São Carlos
+13568-710;Travessa;10;Residencial Parque Douradinho;SP;São Carlos
+13573-236;Rua;100;Cidade Aracy;SP;São Carlos
+13573-246;Rua;104;Cidade Aracy;SP;São Carlos
+13573-248;Rua;105;Cidade Aracy;SP;São Carlos
+13568-807;Rua;11;Residencial  Astolpho Luiz do Prado;SP;São Carlos
+13573-076;Rua;13;Cidade Aracy;SP;São Carlos
+13573-292;Rua;133;Cidade Aracy;SP;São Carlos
+13573-294;Rua;134;Cidade Aracy;SP;São Carlos
+13573-296;Rua;135;Cidade Aracy;SP;São Carlos
+13573-080;Rua;15;Cidade Aracy;SP;São Carlos
+13573-082;Rua;16;Cidade Aracy;SP;São Carlos
+13568-673;Rua;18;Residencial Parque Douradinho;SP;São Carlos
+13572-272;Travessa;2;Jardim Gonzaga;SP;São Carlos
+13568-680;Rua;21;Residencial Parque Douradinho;SP;São Carlos
+13568-685;Rua;23;Residencial Parque Douradinho;SP;São Carlos
+13563-538;Rua;28;Jardim São Carlos 5;SP;São Carlos
+13563-540;Rua;29;Jardim São Carlos 5;SP;São Carlos
+13575-451;Rua;3;Jardim Botafogo 1;SP;São Carlos
+13572-273;Travessa;3;Jardim Gonzaga;SP;São Carlos
+13572-275;Travessa;5;Jardim Gonzaga;SP;São Carlos
+13572-276;Travessa;6;Jardim Gonzaga;SP;São Carlos
+13573-164;Rua;60;Cidade Aracy;SP;São Carlos
+13573-172;Rua;63;Cidade Aracy;SP;São Carlos
+13573-174;Rua;64;Cidade Aracy;SP;São Carlos
+13573-176;Rua;66;Cidade Aracy;SP;São Carlos
+13573-178;Rua;67;Cidade Aracy;SP;São Carlos
+13573-180;Rua;68;Cidade Aracy;SP;São Carlos
+13573-182;Rua;69;Cidade Aracy;SP;São Carlos
+13568-703;Travessa;7;Residencial Parque Douradinho;SP;São Carlos
+13573-318;Rua;8;Loteamento Social Antenor Garcia;SP;São Carlos
+13563-501;Rua;8;Jardim São Carlos 5;SP;São Carlos
+13572-408;Travessa;8;Vila Monte Carlo;SP;São Carlos
+13567-315;Travessa;8;Jardim Real;SP;São Carlos
+13572-278;Travessa;8;Jardim Gonzaga;SP;São Carlos
+13573-220;Rua;90;Cidade Aracy;SP;São Carlos
+13573-222;Rua;91;Cidade Aracy;SP;São Carlos
+13573-234;Rua;99;Cidade Aracy;SP;São Carlos

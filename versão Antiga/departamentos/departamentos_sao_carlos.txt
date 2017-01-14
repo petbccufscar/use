@@ -1,0 +1,32 @@
+﻿Botânica – DB
+Ciências Fisiológicas – DCF
+Ecologia e Biologia Evolutiva – DEBE
+Educação Física e Motricidade Humana – DEFMH
+Enfermagem – DEnf
+Fisioterapia – DFisio
+Genética e Evolução – DGE
+Hidrobiologia – DHb
+Medicina – DMed
+Morfologia e Patologia – DMP
+Terapia Ocupacional – DTO
+Computação – DC
+Engenharia Civil – DECiv
+Engenharia Elétrica – DEE
+Engenharia Mecânica – DEM
+Engenharia de Materiais – DEMa
+Engenharia de Produção – DEP
+Engenharia Química – DEQ
+Estatística – DEs
+Física – DF
+Matemática – DM
+Química – DQ
+Artes e Comunicação – DAC
+Ciência da Informação – DCI
+Ciências Sociais – DCSo
+Educação – DEd
+Filosofia e Metodologia das Ciências – DFMC
+Letras – DL
+Metodologia de Ensino – DME
+Psicologia – DPsi
+Sociologia - DS
+Teorias e Práticas Pedagógicas - DTPP
