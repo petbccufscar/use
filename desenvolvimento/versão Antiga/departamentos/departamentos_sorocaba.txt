@@ -1,8 +1,0 @@
-﻿Biologia - DBio
-Economia - DEco
-Ciências Ambientais - DCA
-Geografia, Turismo e Humanidades - DGTH
-Computação - DComp
-Ciências Humanas e Educação -DCHE
-Engenharia de Produção de Sorocaba - DEPS
-Física, Química e Matemática - DFQM
