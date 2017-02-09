@@ -73,15 +73,14 @@
                     </ul>
                 </g:if>
 
-            %{--Se for Aluno--}%
+                %{--Se for Aluno--}%
                 <g:elseif test="${tipo == 'aluno'}">
                     <ul class="nav side-menu">
                         <li>
                             <g:link controller="template" action="home_aluno"><i class="fa fa-home"></i>Home</g:link>
                         </li>
                         <li>
-                            <g:link controller="template" action="atividades"><i
-                                    class="fa fa-edit"></i>Atividades</g:link>
+                            <g:link controller="template" action="atividades"><i class="fa fa-edit"></i>Atividades</g:link>
                         </li>
                         <li>
                             <g:link controller="template" action="atendimentoIndividual"><i
