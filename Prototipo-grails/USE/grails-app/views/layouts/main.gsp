@@ -48,9 +48,10 @@
 <!-- jQuery custom content scroller -->
 <asset:javascript src="malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js"/>
 <!-- Custom Theme Scripts -->
-<asset:javascript src="custom.js"/>
+<asset:javascript src="custom.css"/>
 
 <g:pageProperty name="page.javascript"/>
+
 
 </body>
 </html>

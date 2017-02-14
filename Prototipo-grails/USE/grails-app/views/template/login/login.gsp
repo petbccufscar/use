@@ -78,6 +78,9 @@
         else if(usuario === "preceptor"){
             window.location.href = "<g:createLink controller="template" action="home" params="[user: 'preceptor']"/>";
         }
+        else if(usuario == "terceirizado"){
+            window.location.href = "<g:createLink controller="template" action="home" params="[user: 'terceirizado']"/>";
+        }
         else{
             window.location.href = "<g:createLink controller="template" action="home" params="[user: 'none']"/>";
         }

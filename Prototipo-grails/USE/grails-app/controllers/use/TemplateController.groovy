@@ -26,6 +26,12 @@ class TemplateController {
 
             return home_aluno()
         }
+        else if (params.user == "terceirizado"){
+            user.nome = "Nome do terceirizado"
+            user.tipo = "terceirizado"
+
+            return home_terceirizado()
+        }
         else {
 
             render view:'plainPage', model: user
@@ -35,11 +41,9 @@ class TemplateController {
     def atividades() {
         render view:'TelasComuns/atividades', model: user
     }
-
     def atendimentoIndividual() {
         render view:'TelasComuns/atendimentoIndividual', model: user
     }
-
     def atendimentoAGrupo() {
         render view:'TelasComuns/atendimentoAGrupo', model: user
     }
@@ -68,22 +72,24 @@ class TemplateController {
         else if(user.tipo == 'aluno'){
             return dadosCadastrais_aluno()
         }
+        else if(user.tipo == 'terceirizado'){
+            return dadosCadastrais_terceirizado()
+        }
         else {
             render view: 'plainPage', model: user
         }
 
     }
 
-
     /**Métodos do Professor**/
     def home_professor() {
         render view:'professor/home_professor', model: user
     }
 
+
     def dadosCadastrais_professor() {
         render view: 'professor/dadosCadastrais_professor', model: user
     }
-
 
     /**Métodos do Aluno**/
     def home_aluno() {
@@ -94,7 +100,20 @@ class TemplateController {
         render view: 'aluno/dadosCadastrais_aluno', model: user
     }
 
-    def plainPage(){
+    /** Metodos do terceirizado**/
+    def home_terceirizado() {
+        render view: 'terceirizado/home_terceirizado', model: user
+    }
+    def dadosCadastrais_terceirizado() {
+        render view: 'aluno/dadosCadastrais_terceirizado', model: user
+    }
+    def consultarCadastro() {
+        render view:'terceirizado/consultarCadastro', model: user
+    }
+    def cadastrarUsuario() {
+        render view:'terceirizado/cadastrarUsuario', model: user
+    }
+    def plainPage() {
         render view: 'plainPage', model: user
     }
 }

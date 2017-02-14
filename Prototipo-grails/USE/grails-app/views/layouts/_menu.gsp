@@ -97,7 +97,18 @@
                         </li>
                     </ul>
                 </g:elseif>
-
+            %{--Se for Terceirizado--}%
+                <g:elseif test="${tipo == 'terceirizado'}">
+                    <ul class="nav side-menu">
+                        <li>
+                            <g:link controller="template" action="home_terceirizado" params="[user: 'terceirizado']"><i class="fa fa-home"></i>Home</g:link>
+                        </li>
+                        <li>
+                            <g:link controller="template" action="consultarCadastro"><i
+                                    class="fa fa-search"></i>Consultar cadastro</g:link>
+                        </li>
+                    </ul>
+                </g:elseif>
                 <g:else>
                     <ul class="nav side-menu">
                         <li>
