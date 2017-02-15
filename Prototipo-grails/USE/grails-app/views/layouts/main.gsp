@@ -19,7 +19,7 @@
     <!-- NProgress -->
     <asset:stylesheet src="nprogress/nprogress.css"/>
     <!-- Custom Theme Style -->
-    <asset:stylesheet src="custom.css"/>
+    <asset:stylesheet src="gentelella/custom.css"/>
 
     <g:layoutHead/>
 </head>
@@ -48,10 +48,9 @@
 <!-- jQuery custom content scroller -->
 <asset:javascript src="malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js"/>
 <!-- Custom Theme Scripts -->
-<asset:javascript src="custom.css"/>
+<asset:javascript src="gentelella/custom.js"/>
 
 <g:pageProperty name="page.javascript"/>
-
 
 </body>
 </html>
